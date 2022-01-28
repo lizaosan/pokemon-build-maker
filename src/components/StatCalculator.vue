@@ -1,5 +1,5 @@
 <template>
-  <h1>Pokemon Build Maker</h1>
+  <h1>寶可夢配方卡片生成器</h1>
   <main class="container">
     <div class="input_wrapper">
       <div class="inner_wrap">
@@ -29,8 +29,8 @@
           </select>
         </div>
         <div>
-          <span>異色</span>
-          <select v-model="isShiny">
+          <span class="unavailable">異色</span>
+          <select disabled v-model="isShiny">
             <option v-for="(item, index) in shinyList" :key="index + 1">{{ item }}</option>
           </select>
         </div>
@@ -798,7 +798,6 @@
     background-color: #C6A300;
     border-radius: 999rem 0 0 0;
     padding: 0.1rem 0.5rem 0.1rem 1rem;
-    transform: scale(0.8);
     transform-origin: bottom right;
 }
 
@@ -808,5 +807,9 @@
     left: 0;
     right: 0;
     margin: auto;
+  }
+
+  .unavailable {
+    color: #ccc;
   }
 </style>
