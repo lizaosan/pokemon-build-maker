@@ -1,0 +1,4528 @@
+﻿{
+    "data": [
+        {
+            "index": "1",
+            "cht": "拍擊",
+            "jp": "はたく",
+            "en": "Pound"
+        },
+        {
+            "index": "2",
+            "cht": "空手劈",
+            "jp": "からてチョップ",
+            "en": "Karate Chop"
+        },
+        {
+            "index": "3",
+            "cht": "連環巴掌",
+            "jp": "おうふくビンタ",
+            "en": "Double Slap"
+        },
+        {
+            "index": "4",
+            "cht": "連續拳",
+            "jp": "れんぞくパンチ",
+            "en": "Comet Punch"
+        },
+        {
+            "index": "5",
+            "cht": "百萬噸重拳",
+            "jp": "メガトンパンチ",
+            "en": "Mega Punch"
+        },
+        {
+            "index": "6",
+            "cht": "聚寶功",
+            "jp": "ネコにこばん",
+            "en": "Pay Day"
+        },
+        {
+            "index": "7",
+            "cht": "火焰拳",
+            "jp": "ほのおのパンチ",
+            "en": "Fire Punch"
+        },
+        {
+            "index": "8",
+            "cht": "冰凍拳",
+            "jp": "れいとうパンチ",
+            "en": "Ice Punch"
+        },
+        {
+            "index": "9",
+            "cht": "雷電拳",
+            "jp": "かみなりパンチ",
+            "en": "Thunder Punch"
+        },
+        {
+            "index": "10",
+            "cht": "抓",
+            "jp": "ひっかく",
+            "en": "Scratch"
+        },
+        {
+            "index": "11",
+            "cht": "夾住",
+            "jp": "はさむ",
+            "en": "Vise Grip"
+        },
+        {
+            "index": "12",
+            "cht": "斷頭鉗",
+            "jp": "ハサミギロチン",
+            "en": "Guillotine"
+        },
+        {
+            "index": "13",
+            "cht": "旋風刀",
+            "jp": "かまいたち",
+            "en": "Razor Wind"
+        },
+        {
+            "index": "14",
+            "cht": "劍舞",
+            "jp": "つるぎのまい",
+            "en": "Swords Dance"
+        },
+        {
+            "index": "15",
+            "cht": "居合斬",
+            "jp": "いあいぎり",
+            "en": "Cut"
+        },
+        {
+            "index": "16",
+            "cht": "起風",
+            "jp": "かぜおこし",
+            "en": "Gust"
+        },
+        {
+            "index": "17",
+            "cht": "翅膀攻擊",
+            "jp": "つばさでうつ",
+            "en": "Wing Attack"
+        },
+        {
+            "index": "18",
+            "cht": "吹飛",
+            "jp": "ふきとばし",
+            "en": "Whirlwind"
+        },
+        {
+            "index": "19",
+            "cht": "飛翔",
+            "jp": "そらをとぶ",
+            "en": "Fly"
+        },
+        {
+            "index": "20",
+            "cht": "綁緊",
+            "jp": "しめつける",
+            "en": "Bind"
+        },
+        {
+            "index": "21",
+            "cht": "摔打",
+            "jp": "たたきつける",
+            "en": "Slam"
+        },
+        {
+            "index": "22",
+            "cht": "藤鞭",
+            "jp": "つるのムチ",
+            "en": "Vine Whip"
+        },
+        {
+            "index": "23",
+            "cht": "踩踏",
+            "jp": "ふみつけ",
+            "en": "Stomp"
+        },
+        {
+            "index": "24",
+            "cht": "二連踢",
+            "jp": "にどげり",
+            "en": "Double Kick"
+        },
+        {
+            "index": "25",
+            "cht": "百萬噸重踢",
+            "jp": "メガトンキック",
+            "en": "Mega Kick"
+        },
+        {
+            "index": "26",
+            "cht": "飛踢",
+            "jp": "とびげり",
+            "en": "Jump Kick"
+        },
+        {
+            "index": "27",
+            "cht": "迴旋踢",
+            "jp": "まわしげり",
+            "en": "Rolling Kick"
+        },
+        {
+            "index": "28",
+            "cht": "潑沙",
+            "jp": "すなかけ",
+            "en": "Sand Attack"
+        },
+        {
+            "index": "29",
+            "cht": "頭錘",
+            "jp": "ずつき",
+            "en": "Headbutt"
+        },
+        {
+            "index": "30",
+            "cht": "角撞",
+            "jp": "つのでつく",
+            "en": "Horn Attack"
+        },
+        {
+            "index": "31",
+            "cht": "亂擊",
+            "jp": "みだれづき",
+            "en": "Fury Attack"
+        },
+        {
+            "index": "32",
+            "cht": "角鑽",
+            "jp": "つのドリル",
+            "en": "Horn Drill"
+        },
+        {
+            "index": "33",
+            "cht": "撞擊",
+            "jp": "たいあたり",
+            "en": "Tackle"
+        },
+        {
+            "index": "34",
+            "cht": "泰山壓頂",
+            "jp": "のしかかり",
+            "en": "Body Slam"
+        },
+        {
+            "index": "35",
+            "cht": "緊束",
+            "jp": "まきつく",
+            "en": "Wrap"
+        },
+        {
+            "index": "36",
+            "cht": "猛撞",
+            "jp": "とっしん",
+            "en": "Take Down"
+        },
+        {
+            "index": "37",
+            "cht": "大鬧一番",
+            "jp": "あばれる",
+            "en": "Thrash"
+        },
+        {
+            "index": "38",
+            "cht": "捨身衝撞",
+            "jp": "すてみタックル",
+            "en": "Double-Edge"
+        },
+        {
+            "index": "39",
+            "cht": "搖尾巴",
+            "jp": "しっぽをふる",
+            "en": "Tail Whip"
+        },
+        {
+            "index": "40",
+            "cht": "毒針",
+            "jp": "どくばり",
+            "en": "Poison Sting"
+        },
+        {
+            "index": "41",
+            "cht": "雙針",
+            "jp": "ダブルニードル",
+            "en": "Twineedle"
+        },
+        {
+            "index": "42",
+            "cht": "飛彈針",
+            "jp": "ミサイルばり",
+            "en": "Pin Missile"
+        },
+        {
+            "index": "43",
+            "cht": "瞪眼",
+            "jp": "にらみつける",
+            "en": "Leer"
+        },
+        {
+            "index": "44",
+            "cht": "咬住",
+            "jp": "かみつく",
+            "en": "Bite"
+        },
+        {
+            "index": "45",
+            "cht": "叫聲",
+            "jp": "なきごえ",
+            "en": "Growl"
+        },
+        {
+            "index": "46",
+            "cht": "吼叫",
+            "jp": "ほえる",
+            "en": "Roar"
+        },
+        {
+            "index": "47",
+            "cht": "唱歌",
+            "jp": "うたう",
+            "en": "Sing"
+        },
+        {
+            "index": "48",
+            "cht": "超音波",
+            "jp": "ちょうおんぱ",
+            "en": "Supersonic"
+        },
+        {
+            "index": "49",
+            "cht": "音爆",
+            "jp": "ソニックブーム",
+            "en": "Sonic Boom"
+        },
+        {
+            "index": "50",
+            "cht": "定身法",
+            "jp": "かなしばり",
+            "en": "Disable"
+        },
+        {
+            "index": "51",
+            "cht": "溶解液",
+            "jp": "ようかいえき",
+            "en": "Acid"
+        },
+        {
+            "index": "52",
+            "cht": "火花",
+            "jp": "ひのこ",
+            "en": "Ember"
+        },
+        {
+            "index": "53",
+            "cht": "噴射火焰",
+            "jp": "かえんほうしゃ",
+            "en": "Flamethrower"
+        },
+        {
+            "index": "54",
+            "cht": "白霧",
+            "jp": "しろいきり",
+            "en": "Mist"
+        },
+        {
+            "index": "55",
+            "cht": "水槍",
+            "jp": "みずでっぽう",
+            "en": "Water Gun"
+        },
+        {
+            "index": "56",
+            "cht": "水炮",
+            "jp": "ハイドロポンプ",
+            "en": "Hydro Pump"
+        },
+        {
+            "index": "57",
+            "cht": "衝浪",
+            "jp": "なみのり",
+            "en": "Surf"
+        },
+        {
+            "index": "58",
+            "cht": "冰凍光束",
+            "jp": "れいとうビーム",
+            "en": "Ice Beam"
+        },
+        {
+            "index": "59",
+            "cht": "暴風雪",
+            "jp": "ふぶき",
+            "en": "Blizzard"
+        },
+        {
+            "index": "60",
+            "cht": "幻象光線",
+            "jp": "サイケこうせん",
+            "en": "Psybeam"
+        },
+        {
+            "index": "61",
+            "cht": "泡沫光線",
+            "jp": "バブルこうせん",
+            "en": "Bubble Beam"
+        },
+        {
+            "index": "62",
+            "cht": "極光束",
+            "jp": "オーロラビーム",
+            "en": "Aurora Beam"
+        },
+        {
+            "index": "63",
+            "cht": "破壞光線",
+            "jp": "はかいこうせん",
+            "en": "Hyper Beam"
+        },
+        {
+            "index": "64",
+            "cht": "啄",
+            "jp": "つつく",
+            "en": "Peck"
+        },
+        {
+            "index": "65",
+            "cht": "啄鑽",
+            "jp": "ドリルくちばし",
+            "en": "Drill Peck"
+        },
+        {
+            "index": "66",
+            "cht": "地獄翻滾",
+            "jp": "じごくぐるま",
+            "en": "Submission"
+        },
+        {
+            "index": "67",
+            "cht": "踢倒",
+            "jp": "けたぐり",
+            "en": "Low Kick"
+        },
+        {
+            "index": "68",
+            "cht": "雙倍奉還",
+            "jp": "カウンター",
+            "en": "Counter"
+        },
+        {
+            "index": "69",
+            "cht": "地球上投",
+            "jp": "ちきゅうなげ",
+            "en": "Seismic Toss"
+        },
+        {
+            "index": "70",
+            "cht": "怪力",
+            "jp": "かいりき",
+            "en": "Strength"
+        },
+        {
+            "index": "71",
+            "cht": "吸取",
+            "jp": "すいとる",
+            "en": "Absorb"
+        },
+        {
+            "index": "72",
+            "cht": "超級吸取",
+            "jp": "メガドレイン",
+            "en": "Mega Drain"
+        },
+        {
+            "index": "73",
+            "cht": "寄生種子",
+            "jp": "やどりぎのタネ",
+            "en": "Leech Seed"
+        },
+        {
+            "index": "74",
+            "cht": "生長",
+            "jp": "せいちょう",
+            "en": "Growth"
+        },
+        {
+            "index": "75",
+            "cht": "飛葉快刀",
+            "jp": "はっぱカッター",
+            "en": "Razor Leaf"
+        },
+        {
+            "index": "76",
+            "cht": "日光束",
+            "jp": "ソーラービーム",
+            "en": "Solar Beam"
+        },
+        {
+            "index": "77",
+            "cht": "毒粉",
+            "jp": "どくのこな",
+            "en": "Poison Powder"
+        },
+        {
+            "index": "78",
+            "cht": "麻痺粉",
+            "jp": "しびれごな",
+            "en": "Stun Spore"
+        },
+        {
+            "index": "79",
+            "cht": "催眠粉",
+            "jp": "ねむりごな",
+            "en": "Sleep Powder"
+        },
+        {
+            "index": "80",
+            "cht": "花瓣舞",
+            "jp": "はなびらのまい",
+            "en": "Petal Dance"
+        },
+        {
+            "index": "81",
+            "cht": "吐絲",
+            "jp": "いとをはく",
+            "en": "String Shot"
+        },
+        {
+            "index": "82",
+            "cht": "龍之怒",
+            "jp": "りゅうのいかり",
+            "en": "Dragon Rage"
+        },
+        {
+            "index": "83",
+            "cht": "火焰旋渦",
+            "jp": "ほのおのうず",
+            "en": "Fire Spin"
+        },
+        {
+            "index": "84",
+            "cht": "電擊",
+            "jp": "でんきショック",
+            "en": "Thunder Shock"
+        },
+        {
+            "index": "85",
+            "cht": "十萬伏特",
+            "jp": "１０まんボルト",
+            "en": "Thunderbolt"
+        },
+        {
+            "index": "86",
+            "cht": "電磁波",
+            "jp": "でんじは",
+            "en": "Thunder Wave"
+        },
+        {
+            "index": "87",
+            "cht": "打雷",
+            "jp": "かみなり",
+            "en": "Thunder"
+        },
+        {
+            "index": "88",
+            "cht": "落石",
+            "jp": "いわおとし",
+            "en": "Rock Throw"
+        },
+        {
+            "index": "89",
+            "cht": "地震",
+            "jp": "じしん",
+            "en": "Earthquake"
+        },
+        {
+            "index": "90",
+            "cht": "地裂",
+            "jp": "じわれ",
+            "en": "Fissure"
+        },
+        {
+            "index": "91",
+            "cht": "挖洞",
+            "jp": "あなをほる",
+            "en": "Dig"
+        },
+        {
+            "index": "92",
+            "cht": "劇毒",
+            "jp": "どくどく",
+            "en": "Toxic"
+        },
+        {
+            "index": "93",
+            "cht": "念力",
+            "jp": "ねんりき",
+            "en": "Confusion"
+        },
+        {
+            "index": "94",
+            "cht": "精神強念",
+            "jp": "サイコキネシス",
+            "en": "Psychic"
+        },
+        {
+            "index": "95",
+            "cht": "催眠術",
+            "jp": "さいみんじゅつ",
+            "en": "Hypnosis"
+        },
+        {
+            "index": "96",
+            "cht": "瑜伽姿勢",
+            "jp": "ヨガのポーズ",
+            "en": "Meditate"
+        },
+        {
+            "index": "97",
+            "cht": "高速移動",
+            "jp": "こうそくいどう",
+            "en": "Agility"
+        },
+        {
+            "index": "98",
+            "cht": "電光一閃",
+            "jp": "でんこうせっか",
+            "en": "Quick Attack"
+        },
+        {
+            "index": "99",
+            "cht": "憤怒",
+            "jp": "いかり",
+            "en": "Rage"
+        },
+        {
+            "index": "100",
+            "cht": "瞬間移動",
+            "jp": "テレポート",
+            "en": "Teleport"
+        },
+        {
+            "index": "101",
+            "cht": "黑夜魔影",
+            "jp": "ナイトヘッド",
+            "en": "Night Shade"
+        },
+        {
+            "index": "102",
+            "cht": "模仿",
+            "jp": "ものまね",
+            "en": "Mimic"
+        },
+        {
+            "index": "103",
+            "cht": "刺耳聲",
+            "jp": "いやなおと",
+            "en": "Screech"
+        },
+        {
+            "index": "104",
+            "cht": "影子分身",
+            "jp": "かげぶんしん",
+            "en": "Double Team"
+        },
+        {
+            "index": "105",
+            "cht": "自我再生",
+            "jp": "じこさいせい",
+            "en": "Recover"
+        },
+        {
+            "index": "106",
+            "cht": "變硬",
+            "jp": "かたくなる",
+            "en": "Harden"
+        },
+        {
+            "index": "107",
+            "cht": "變小",
+            "jp": "ちいさくなる",
+            "en": "Minimize"
+        },
+        {
+            "index": "108",
+            "cht": "煙幕",
+            "jp": "えんまく",
+            "en": "Smokescreen"
+        },
+        {
+            "index": "109",
+            "cht": "奇異之光",
+            "jp": "あやしいひかり",
+            "en": "Confuse Ray"
+        },
+        {
+            "index": "110",
+            "cht": "縮入殼中",
+            "jp": "からにこもる",
+            "en": "Withdraw"
+        },
+        {
+            "index": "111",
+            "cht": "變圓",
+            "jp": "まるくなる",
+            "en": "Defense Curl"
+        },
+        {
+            "index": "112",
+            "cht": "屏障",
+            "jp": "バリアー",
+            "en": "Barrier"
+        },
+        {
+            "index": "113",
+            "cht": "光牆",
+            "jp": "ひかりのかべ",
+            "en": "Light Screen"
+        },
+        {
+            "index": "114",
+            "cht": "黑霧",
+            "jp": "くろいきり",
+            "en": "Haze"
+        },
+        {
+            "index": "115",
+            "cht": "反射壁",
+            "jp": "リフレクター",
+            "en": "Reflect"
+        },
+        {
+            "index": "116",
+            "cht": "聚氣",
+            "jp": "きあいだめ",
+            "en": "Focus Energy"
+        },
+        {
+            "index": "117",
+            "cht": "忍耐",
+            "jp": "がまん",
+            "en": "Bide"
+        },
+        {
+            "index": "118",
+            "cht": "揮指",
+            "jp": "ゆびをふる",
+            "en": "Metronome"
+        },
+        {
+            "index": "119",
+            "cht": "鸚鵡學舌",
+            "jp": "オウムがえし",
+            "en": "Mirror Move"
+        },
+        {
+            "index": "120",
+            "cht": "自爆",
+            "jp": "じばく",
+            "en": "Self-Destruct"
+        },
+        {
+            "index": "121",
+            "cht": "炸蛋",
+            "jp": "タマゴばくだん",
+            "en": "Egg Bomb"
+        },
+        {
+            "index": "122",
+            "cht": "舌舔",
+            "jp": "したでなめる",
+            "en": "Lick"
+        },
+        {
+            "index": "123",
+            "cht": "濁霧",
+            "jp": "スモッグ",
+            "en": "Smog"
+        },
+        {
+            "index": "124",
+            "cht": "污泥攻擊",
+            "jp": "ヘドロこうげき",
+            "en": "Sludge"
+        },
+        {
+            "index": "125",
+            "cht": "骨棒",
+            "jp": "ホネこんぼう",
+            "en": "Bone Club"
+        },
+        {
+            "index": "126",
+            "cht": "大字爆炎",
+            "jp": "だいもんじ",
+            "en": "Fire Blast"
+        },
+        {
+            "index": "127",
+            "cht": "攀瀑",
+            "jp": "たきのぼり",
+            "en": "Waterfall"
+        },
+        {
+            "index": "128",
+            "cht": "貝殼夾擊",
+            "jp": "からではさむ",
+            "en": "Clamp"
+        },
+        {
+            "index": "129",
+            "cht": "高速星星",
+            "jp": "スピードスター",
+            "en": "Swift"
+        },
+        {
+            "index": "130",
+            "cht": "火箭頭錘",
+            "jp": "ロケットずつき",
+            "en": "Skull Bash"
+        },
+        {
+            "index": "131",
+            "cht": "尖刺加農炮",
+            "jp": "とげキャノン",
+            "en": "Spike Cannon"
+        },
+        {
+            "index": "132",
+            "cht": "纏繞",
+            "jp": "からみつく",
+            "en": "Constrict"
+        },
+        {
+            "index": "133",
+            "cht": "瞬間失憶",
+            "jp": "ドわすれ",
+            "en": "Amnesia"
+        },
+        {
+            "index": "134",
+            "cht": "折彎湯匙",
+            "jp": "スプーンまげ",
+            "en": "Kinesis"
+        },
+        {
+            "index": "135",
+            "cht": "生蛋",
+            "jp": "タマゴうみ",
+            "en": "Soft-Boiled"
+        },
+        {
+            "index": "136",
+            "cht": "飛膝踢",
+            "jp": "とびひざげり",
+            "en": "High Jump Kick"
+        },
+        {
+            "index": "137",
+            "cht": "大蛇瞪眼",
+            "jp": "へびにらみ",
+            "en": "Glare"
+        },
+        {
+            "index": "138",
+            "cht": "食夢",
+            "jp": "ゆめくい",
+            "en": "Dream Eater"
+        },
+        {
+            "index": "139",
+            "cht": "毒瓦斯",
+            "jp": "どくガス",
+            "en": "Poison Gas"
+        },
+        {
+            "index": "140",
+            "cht": "投球",
+            "jp": "たまなげ",
+            "en": "Barrage"
+        },
+        {
+            "index": "141",
+            "cht": "吸血",
+            "jp": "きゅうけつ",
+            "en": "Leech Life"
+        },
+        {
+            "index": "142",
+            "cht": "惡魔之吻",
+            "jp": "あくまのキッス",
+            "en": "Lovely Kiss"
+        },
+        {
+            "index": "143",
+            "cht": "神鳥猛擊",
+            "jp": "ゴッドバード",
+            "en": "Sky Attack"
+        },
+        {
+            "index": "144",
+            "cht": "變身",
+            "jp": "へんしん",
+            "en": "Transform"
+        },
+        {
+            "index": "145",
+            "cht": "泡沫",
+            "jp": "あわ",
+            "en": "Bubble"
+        },
+        {
+            "index": "146",
+            "cht": "迷昏拳",
+            "jp": "ピヨピヨパンチ",
+            "en": "Dizzy Punch"
+        },
+        {
+            "index": "147",
+            "cht": "蘑菇孢子",
+            "jp": "キノコのほうし",
+            "en": "Spore"
+        },
+        {
+            "index": "148",
+            "cht": "閃光",
+            "jp": "フラッシュ",
+            "en": "Flash"
+        },
+        {
+            "index": "149",
+            "cht": "精神波",
+            "jp": "サイコウェーブ",
+            "en": "Psywave"
+        },
+        {
+            "index": "150",
+            "cht": "躍起",
+            "jp": "はねる",
+            "en": "Splash"
+        },
+        {
+            "index": "151",
+            "cht": "溶化",
+            "jp": "とける",
+            "en": "Acid Armor"
+        },
+        {
+            "index": "152",
+            "cht": "蟹鉗錘",
+            "jp": "クラブハンマー",
+            "en": "Crabhammer"
+        },
+        {
+            "index": "153",
+            "cht": "大爆炸",
+            "jp": "だいばくはつ",
+            "en": "Explosion"
+        },
+        {
+            "index": "154",
+            "cht": "亂抓",
+            "jp": "みだれひっかき",
+            "en": "Fury Swipes"
+        },
+        {
+            "index": "155",
+            "cht": "骨頭回力鏢",
+            "jp": "ホネブーメラン",
+            "en": "Bonemerang"
+        },
+        {
+            "index": "156",
+            "cht": "睡覺",
+            "jp": "ねむる",
+            "en": "Rest"
+        },
+        {
+            "index": "157",
+            "cht": "岩崩",
+            "jp": "いわなだれ",
+            "en": "Rock Slide"
+        },
+        {
+            "index": "158",
+            "cht": "必殺門牙",
+            "jp": "ひっさつまえば",
+            "en": "Hyper Fang"
+        },
+        {
+            "index": "159",
+            "cht": "稜角化",
+            "jp": "かくばる",
+            "en": "Sharpen"
+        },
+        {
+            "index": "160",
+            "cht": "紋理",
+            "jp": "テクスチャー",
+            "en": "Conversion"
+        },
+        {
+            "index": "161",
+            "cht": "三重攻擊",
+            "jp": "トライアタック",
+            "en": "Tri Attack"
+        },
+        {
+            "index": "162",
+            "cht": "憤怒門牙",
+            "jp": "いかりのまえば",
+            "en": "Super Fang"
+        },
+        {
+            "index": "163",
+            "cht": "劈開",
+            "jp": "きりさく",
+            "en": "Slash"
+        },
+        {
+            "index": "164",
+            "cht": "替身",
+            "jp": "みがわり",
+            "en": "Substitute"
+        },
+        {
+            "index": "165",
+            "cht": "掙扎",
+            "jp": "わるあがき",
+            "en": "Struggle"
+        },
+        {
+            "index": "166",
+            "cht": "寫生",
+            "jp": "スケッチ",
+            "en": "Sketch"
+        },
+        {
+            "index": "167",
+            "cht": "三連踢",
+            "jp": "トリプルキック",
+            "en": "Triple Kick"
+        },
+        {
+            "index": "168",
+            "cht": "小偷",
+            "jp": "どろぼう",
+            "en": "Thief"
+        },
+        {
+            "index": "169",
+            "cht": "蛛網",
+            "jp": "クモのす",
+            "en": "Spider Web"
+        },
+        {
+            "index": "170",
+            "cht": "心之眼",
+            "jp": "こころのめ",
+            "en": "Mind Reader"
+        },
+        {
+            "index": "171",
+            "cht": "惡夢",
+            "jp": "あくむ",
+            "en": "Nightmare"
+        },
+        {
+            "index": "172",
+            "cht": "火焰輪",
+            "jp": "かえんぐるま",
+            "en": "Flame Wheel"
+        },
+        {
+            "index": "173",
+            "cht": "打鼾",
+            "jp": "いびき",
+            "en": "Snore"
+        },
+        {
+            "index": "174",
+            "cht": "詛咒",
+            "jp": "のろい",
+            "en": "Curse"
+        },
+        {
+            "index": "175",
+            "cht": "抓狂",
+            "jp": "じたばた",
+            "en": "Flail"
+        },
+        {
+            "index": "176",
+            "cht": "紋理２",
+            "jp": "テクスチャー２",
+            "en": "Conversion 2"
+        },
+        {
+            "index": "177",
+            "cht": "氣旋攻擊",
+            "jp": "エアロブラスト",
+            "en": "Aeroblast"
+        },
+        {
+            "index": "178",
+            "cht": "棉孢子",
+            "jp": "わたほうし",
+            "en": "Cotton Spore"
+        },
+        {
+            "index": "179",
+            "cht": "起死回生",
+            "jp": "きしかいせい",
+            "en": "Reversal"
+        },
+        {
+            "index": "180",
+            "cht": "怨恨",
+            "jp": "うらみ",
+            "en": "Spite"
+        },
+        {
+            "index": "181",
+            "cht": "細雪",
+            "jp": "こなゆき",
+            "en": "Powder Snow"
+        },
+        {
+            "index": "182",
+            "cht": "守住",
+            "jp": "まもる",
+            "en": "Protect"
+        },
+        {
+            "index": "183",
+            "cht": "音速拳",
+            "jp": "マッハパンチ",
+            "en": "Mach Punch"
+        },
+        {
+            "index": "184",
+            "cht": "鬼面",
+            "jp": "こわいかお",
+            "en": "Scary Face"
+        },
+        {
+            "index": "185",
+            "cht": "出奇一擊",
+            "jp": "だましうち",
+            "en": "Feint Attack"
+        },
+        {
+            "index": "186",
+            "cht": "天使之吻",
+            "jp": "てんしのキッス",
+            "en": "Sweet Kiss"
+        },
+        {
+            "index": "187",
+            "cht": "腹鼓",
+            "jp": "はらだいこ",
+            "en": "Belly Drum"
+        },
+        {
+            "index": "188",
+            "cht": "污泥炸彈",
+            "jp": "ヘドロばくだん",
+            "en": "Sludge Bomb"
+        },
+        {
+            "index": "189",
+            "cht": "擲泥",
+            "jp": "どろかけ",
+            "en": "Mud-Slap"
+        },
+        {
+            "index": "190",
+            "cht": "章魚桶炮",
+            "jp": "オクタンほう",
+            "en": "Octazooka"
+        },
+        {
+            "index": "191",
+            "cht": "撒菱",
+            "jp": "まきびし",
+            "en": "Spikes"
+        },
+        {
+            "index": "192",
+            "cht": "電磁炮",
+            "jp": "でんじほう",
+            "en": "Zap Cannon"
+        },
+        {
+            "index": "193",
+            "cht": "識破",
+            "jp": "みやぶる",
+            "en": "Foresight"
+        },
+        {
+            "index": "194",
+            "cht": "同命",
+            "jp": "みちづれ",
+            "en": "Destiny Bond"
+        },
+        {
+            "index": "195",
+            "cht": "滅亡之歌",
+            "jp": "ほろびのうた",
+            "en": "Perish Song"
+        },
+        {
+            "index": "196",
+            "cht": "冰凍之風",
+            "jp": "こごえるかぜ",
+            "en": "Icy Wind"
+        },
+        {
+            "index": "197",
+            "cht": "看穿",
+            "jp": "みきり",
+            "en": "Detect"
+        },
+        {
+            "index": "198",
+            "cht": "骨棒亂打",
+            "jp": "ボーンラッシュ",
+            "en": "Bone Rush"
+        },
+        {
+            "index": "199",
+            "cht": "鎖定",
+            "jp": "ロックオン",
+            "en": "Lock-On"
+        },
+        {
+            "index": "200",
+            "cht": "逆鱗",
+            "jp": "げきりん",
+            "en": "Outrage"
+        },
+        {
+            "index": "201",
+            "cht": "沙暴",
+            "jp": "すなあらし",
+            "en": "Sandstorm"
+        },
+        {
+            "index": "202",
+            "cht": "終極吸取",
+            "jp": "ギガドレイン",
+            "en": "Giga Drain"
+        },
+        {
+            "index": "203",
+            "cht": "挺住",
+            "jp": "こらえる",
+            "en": "Endure"
+        },
+        {
+            "index": "204",
+            "cht": "撒嬌",
+            "jp": "あまえる",
+            "en": "Charm"
+        },
+        {
+            "index": "205",
+            "cht": "滾動",
+            "jp": "ころがる",
+            "en": "Rollout"
+        },
+        {
+            "index": "206",
+            "cht": "點到為止",
+            "jp": "みねうち",
+            "en": "False Swipe"
+        },
+        {
+            "index": "207",
+            "cht": "虛張聲勢",
+            "jp": "いばる",
+            "en": "Swagger"
+        },
+        {
+            "index": "208",
+            "cht": "喝牛奶",
+            "jp": "ミルクのみ",
+            "en": "Milk Drink"
+        },
+        {
+            "index": "209",
+            "cht": "電光",
+            "jp": "スパーク",
+            "en": "Spark"
+        },
+        {
+            "index": "210",
+            "cht": "連斬",
+            "jp": "れんぞくぎり",
+            "en": "Fury Cutter"
+        },
+        {
+            "index": "211",
+            "cht": "鋼翼",
+            "jp": "はがねのつばさ",
+            "en": "Steel Wing"
+        },
+        {
+            "index": "212",
+            "cht": "黑色目光",
+            "jp": "くろいまなざし",
+            "en": "Mean Look"
+        },
+        {
+            "index": "213",
+            "cht": "迷人",
+            "jp": "メロメロ",
+            "en": "Attract"
+        },
+        {
+            "index": "214",
+            "cht": "夢話",
+            "jp": "ねごと",
+            "en": "Sleep Talk"
+        },
+        {
+            "index": "215",
+            "cht": "治癒鈴聲",
+            "jp": "いやしのすず",
+            "en": "Heal Bell"
+        },
+        {
+            "index": "216",
+            "cht": "報恩",
+            "jp": "おんがえし",
+            "en": "Return"
+        },
+        {
+            "index": "217",
+            "cht": "禮物",
+            "jp": "プレゼント",
+            "en": "Present"
+        },
+        {
+            "index": "218",
+            "cht": "遷怒",
+            "jp": "やつあたり",
+            "en": "Frustration"
+        },
+        {
+            "index": "219",
+            "cht": "神秘守護",
+            "jp": "しんぴのまもり",
+            "en": "Safeguard"
+        },
+        {
+            "index": "220",
+            "cht": "分擔痛楚",
+            "jp": "いたみわけ",
+            "en": "Pain Split"
+        },
+        {
+            "index": "221",
+            "cht": "神聖之火",
+            "jp": "せいなるほのお",
+            "en": "Sacred Fire"
+        },
+        {
+            "index": "222",
+            "cht": "震級",
+            "jp": "マグニチュード",
+            "en": "Magnitude"
+        },
+        {
+            "index": "223",
+            "cht": "爆裂拳",
+            "jp": "ばくれつパンチ",
+            "en": "Dynamic Punch"
+        },
+        {
+            "index": "224",
+            "cht": "超級角擊",
+            "jp": "メガホーン",
+            "en": "Megahorn"
+        },
+        {
+            "index": "225",
+            "cht": "龍息",
+            "jp": "りゅうのいぶき",
+            "en": "Dragon Breath"
+        },
+        {
+            "index": "226",
+            "cht": "接棒",
+            "jp": "バトンタッチ",
+            "en": "Baton Pass"
+        },
+        {
+            "index": "227",
+            "cht": "再來一次",
+            "jp": "アンコール",
+            "en": "Encore"
+        },
+        {
+            "index": "228",
+            "cht": "追打",
+            "jp": "おいうち",
+            "en": "Pursuit"
+        },
+        {
+            "index": "229",
+            "cht": "高速旋轉",
+            "jp": "こうそくスピン",
+            "en": "Rapid Spin"
+        },
+        {
+            "index": "230",
+            "cht": "甜甜香氣",
+            "jp": "あまいかおり",
+            "en": "Sweet Scent"
+        },
+        {
+            "index": "231",
+            "cht": "鐵尾",
+            "jp": "アイアンテール",
+            "en": "Iron Tail"
+        },
+        {
+            "index": "232",
+            "cht": "金屬爪",
+            "jp": "メタルクロー",
+            "en": "Metal Claw"
+        },
+        {
+            "index": "233",
+            "cht": "借力摔",
+            "jp": "あてみなげ",
+            "en": "Vital Throw"
+        },
+        {
+            "index": "234",
+            "cht": "晨光",
+            "jp": "あさのひざし",
+            "en": "Morning Sun"
+        },
+        {
+            "index": "235",
+            "cht": "光合作用",
+            "jp": "こうごうせい",
+            "en": "Synthesis"
+        },
+        {
+            "index": "236",
+            "cht": "月光",
+            "jp": "つきのひかり",
+            "en": "Moonlight"
+        },
+        {
+            "index": "237",
+            "cht": "覺醒力量",
+            "jp": "めざめるパワー",
+            "en": "Hidden Power"
+        },
+        {
+            "index": "238",
+            "cht": "十字劈",
+            "jp": "クロスチョップ",
+            "en": "Cross Chop"
+        },
+        {
+            "index": "239",
+            "cht": "龍捲風",
+            "jp": "たつまき",
+            "en": "Twister"
+        },
+        {
+            "index": "240",
+            "cht": "求雨",
+            "jp": "あまごい",
+            "en": "Rain Dance"
+        },
+        {
+            "index": "241",
+            "cht": "大晴天",
+            "jp": "にほんばれ",
+            "en": "Sunny Day"
+        },
+        {
+            "index": "242",
+            "cht": "咬碎",
+            "jp": "かみくだく",
+            "en": "Crunch"
+        },
+        {
+            "index": "243",
+            "cht": "鏡面反射",
+            "jp": "ミラーコート",
+            "en": "Mirror Coat"
+        },
+        {
+            "index": "244",
+            "cht": "自我暗示",
+            "jp": "じこあんじ",
+            "en": "Psych Up"
+        },
+        {
+            "index": "245",
+            "cht": "神速",
+            "jp": "しんそく",
+            "en": "Extreme Speed"
+        },
+        {
+            "index": "246",
+            "cht": "原始之力",
+            "jp": "げんしのちから",
+            "en": "Ancient Power"
+        },
+        {
+            "index": "247",
+            "cht": "暗影球",
+            "jp": "シャドーボール",
+            "en": "Shadow Ball"
+        },
+        {
+            "index": "248",
+            "cht": "預知未來",
+            "jp": "みらいよち",
+            "en": "Future Sight"
+        },
+        {
+            "index": "249",
+            "cht": "碎岩",
+            "jp": "いわくだき",
+            "en": "Rock Smash"
+        },
+        {
+            "index": "250",
+            "cht": "潮旋",
+            "jp": "うずしお",
+            "en": "Whirlpool"
+        },
+        {
+            "index": "251",
+            "cht": "圍攻",
+            "jp": "ふくろだたき",
+            "en": "Beat Up"
+        },
+        {
+            "index": "252",
+            "cht": "擊掌奇襲",
+            "jp": "ねこだまし",
+            "en": "Fake Out"
+        },
+        {
+            "index": "253",
+            "cht": "吵鬧",
+            "jp": "さわぐ",
+            "en": "Uproar"
+        },
+        {
+            "index": "254",
+            "cht": "蓄力",
+            "jp": "たくわえる",
+            "en": "Stockpile"
+        },
+        {
+            "index": "255",
+            "cht": "噴出",
+            "jp": "はきだす",
+            "en": "Spit Up"
+        },
+        {
+            "index": "256",
+            "cht": "吞下",
+            "jp": "のみこむ",
+            "en": "Swallow"
+        },
+        {
+            "index": "257",
+            "cht": "熱風",
+            "jp": "ねっぷう",
+            "en": "Heat Wave"
+        },
+        {
+            "index": "258",
+            "cht": "冰雹",
+            "jp": "あられ",
+            "en": "Hail"
+        },
+        {
+            "index": "259",
+            "cht": "無理取鬧",
+            "jp": "いちゃもん",
+            "en": "Torment"
+        },
+        {
+            "index": "260",
+            "cht": "吹捧",
+            "jp": "おだてる",
+            "en": "Flatter"
+        },
+        {
+            "index": "261",
+            "cht": "鬼火",
+            "jp": "おにび",
+            "en": "Will-O-Wisp"
+        },
+        {
+            "index": "262",
+            "cht": "臨別禮物",
+            "jp": "おきみやげ",
+            "en": "Memento"
+        },
+        {
+            "index": "263",
+            "cht": "硬撐",
+            "jp": "からげんき",
+            "en": "Facade"
+        },
+        {
+            "index": "264",
+            "cht": "真氣拳",
+            "jp": "きあいパンチ",
+            "en": "Focus Punch"
+        },
+        {
+            "index": "265",
+            "cht": "清醒",
+            "jp": "きつけ",
+            "en": "Smelling Salts"
+        },
+        {
+            "index": "266",
+            "cht": "看我嘛",
+            "jp": "このゆびとまれ",
+            "en": "Follow Me"
+        },
+        {
+            "index": "267",
+            "cht": "自然之力",
+            "jp": "しぜんのちから",
+            "en": "Nature Power"
+        },
+        {
+            "index": "268",
+            "cht": "充電",
+            "jp": "じゅうでん",
+            "en": "Charge"
+        },
+        {
+            "index": "269",
+            "cht": "挑釁",
+            "jp": "ちょうはつ",
+            "en": "Taunt"
+        },
+        {
+            "index": "270",
+            "cht": "幫助",
+            "jp": "てだすけ",
+            "en": "Helping Hand"
+        },
+        {
+            "index": "271",
+            "cht": "戲法",
+            "jp": "トリック",
+            "en": "Trick"
+        },
+        {
+            "index": "272",
+            "cht": "扮演",
+            "jp": "なりきり",
+            "en": "Role Play"
+        },
+        {
+            "index": "273",
+            "cht": "祈願",
+            "jp": "ねがいごと",
+            "en": "Wish"
+        },
+        {
+            "index": "274",
+            "cht": "藉助",
+            "jp": "ねこのて",
+            "en": "Assist"
+        },
+        {
+            "index": "275",
+            "cht": "扎根",
+            "jp": "ねをはる",
+            "en": "Ingrain"
+        },
+        {
+            "index": "276",
+            "cht": "蠻力",
+            "jp": "ばかぢから",
+            "en": "Superpower"
+        },
+        {
+            "index": "277",
+            "cht": "魔法反射",
+            "jp": "マジックコート",
+            "en": "Magic Coat"
+        },
+        {
+            "index": "278",
+            "cht": "回收利用",
+            "jp": "リサイクル",
+            "en": "Recycle"
+        },
+        {
+            "index": "279",
+            "cht": "報復",
+            "jp": "リベンジ",
+            "en": "Revenge"
+        },
+        {
+            "index": "280",
+            "cht": "劈瓦",
+            "jp": "かわらわり",
+            "en": "Brick Break"
+        },
+        {
+            "index": "281",
+            "cht": "哈欠",
+            "jp": "あくび",
+            "en": "Yawn"
+        },
+        {
+            "index": "282",
+            "cht": "拍落",
+            "jp": "はたきおとす",
+            "en": "Knock Off"
+        },
+        {
+            "index": "283",
+            "cht": "蠻幹",
+            "jp": "がむしゃら",
+            "en": "Endeavor"
+        },
+        {
+            "index": "284",
+            "cht": "噴火",
+            "jp": "ふんか",
+            "en": "Eruption"
+        },
+        {
+            "index": "285",
+            "cht": "特性互換",
+            "jp": "スキルスワップ",
+            "en": "Skill Swap"
+        },
+        {
+            "index": "286",
+            "cht": "封印",
+            "jp": "ふういん",
+            "en": "Imprison"
+        },
+        {
+            "index": "287",
+            "cht": "煥然一新",
+            "jp": "リフレッシュ",
+            "en": "Refresh"
+        },
+        {
+            "index": "288",
+            "cht": "怨念",
+            "jp": "おんねん",
+            "en": "Grudge"
+        },
+        {
+            "index": "289",
+            "cht": "搶奪",
+            "jp": "よこどり",
+            "en": "Snatch"
+        },
+        {
+            "index": "290",
+            "cht": "秘密之力",
+            "jp": "ひみつのちから",
+            "en": "Secret Power"
+        },
+        {
+            "index": "291",
+            "cht": "潛水",
+            "jp": "ダイビング",
+            "en": "Dive"
+        },
+        {
+            "index": "292",
+            "cht": "猛推",
+            "jp": "つっぱり",
+            "en": "Arm Thrust"
+        },
+        {
+            "index": "293",
+            "cht": "保護色",
+            "jp": "ほごしょく",
+            "en": "Camouflage"
+        },
+        {
+            "index": "294",
+            "cht": "螢火",
+            "jp": "ほたるび",
+            "en": "Tail Glow"
+        },
+        {
+            "index": "295",
+            "cht": "潔淨光芒",
+            "jp": "ラスターパージ",
+            "en": "Luster Purge"
+        },
+        {
+            "index": "296",
+            "cht": "薄霧球",
+            "jp": "ミストボール",
+            "en": "Mist Ball"
+        },
+        {
+            "index": "297",
+            "cht": "羽毛舞",
+            "jp": "フェザーダンス",
+            "en": "Feather Dance"
+        },
+        {
+            "index": "298",
+            "cht": "搖晃舞",
+            "jp": "フラフラダンス",
+            "en": "Teeter Dance"
+        },
+        {
+            "index": "299",
+            "cht": "火焰踢",
+            "jp": "ブレイズキック",
+            "en": "Blaze Kick"
+        },
+        {
+            "index": "300",
+            "cht": "玩泥巴",
+            "jp": "どろあそび",
+            "en": "Mud Sport"
+        },
+        {
+            "index": "301",
+            "cht": "冰球",
+            "jp": "アイスボール",
+            "en": "Ice Ball"
+        },
+        {
+            "index": "302",
+            "cht": "尖刺臂",
+            "jp": "ニードルアーム",
+            "en": "Needle Arm"
+        },
+        {
+            "index": "303",
+            "cht": "偷懶",
+            "jp": "なまける",
+            "en": "Slack Off"
+        },
+        {
+            "index": "304",
+            "cht": "巨聲",
+            "jp": "ハイパーボイス",
+            "en": "Hyper Voice"
+        },
+        {
+            "index": "305",
+            "cht": "劇毒牙",
+            "jp": "どくどくのキバ",
+            "en": "Poison Fang"
+        },
+        {
+            "index": "306",
+            "cht": "撕裂爪",
+            "jp": "ブレイククロー",
+            "en": "Crush Claw"
+        },
+        {
+            "index": "307",
+            "cht": "爆炸烈焰",
+            "jp": "ブラストバーン",
+            "en": "Blast Burn"
+        },
+        {
+            "index": "308",
+            "cht": "加農水炮",
+            "jp": "ハイドロカノン",
+            "en": "Hydro Cannon"
+        },
+        {
+            "index": "309",
+            "cht": "彗星拳",
+            "jp": "コメットパンチ",
+            "en": "Meteor Mash"
+        },
+        {
+            "index": "310",
+            "cht": "驚嚇",
+            "jp": "おどろかす",
+            "en": "Astonish"
+        },
+        {
+            "index": "311",
+            "cht": "氣象球",
+            "jp": "ウェザーボール",
+            "en": "Weather Ball"
+        },
+        {
+            "index": "312",
+            "cht": "芳香治療",
+            "jp": "アロマセラピー",
+            "en": "Aromatherapy"
+        },
+        {
+            "index": "313",
+            "cht": "假哭",
+            "jp": "うそなき",
+            "en": "Fake Tears"
+        },
+        {
+            "index": "314",
+            "cht": "空氣利刃",
+            "jp": "エアカッター",
+            "en": "Air Cutter"
+        },
+        {
+            "index": "315",
+            "cht": "過熱",
+            "jp": "オーバーヒート",
+            "en": "Overheat"
+        },
+        {
+            "index": "316",
+            "cht": "氣味偵測",
+            "jp": "かぎわける",
+            "en": "Odor Sleuth"
+        },
+        {
+            "index": "317",
+            "cht": "岩石封鎖",
+            "jp": "がんせきふうじ",
+            "en": "Rock Tomb"
+        },
+        {
+            "index": "318",
+            "cht": "銀色旋風",
+            "jp": "ぎんいろのかぜ",
+            "en": "Silver Wind"
+        },
+        {
+            "index": "319",
+            "cht": "金屬音",
+            "jp": "きんぞくおん",
+            "en": "Metal Sound"
+        },
+        {
+            "index": "320",
+            "cht": "草笛",
+            "jp": "くさぶえ",
+            "en": "Grass Whistle"
+        },
+        {
+            "index": "321",
+            "cht": "搔癢",
+            "jp": "くすぐる",
+            "en": "Tickle"
+        },
+        {
+            "index": "322",
+            "cht": "宇宙力量",
+            "jp": "コスモパワー",
+            "en": "Cosmic Power"
+        },
+        {
+            "index": "323",
+            "cht": "噴水",
+            "jp": "しおふき",
+            "en": "Water Spout"
+        },
+        {
+            "index": "324",
+            "cht": "信號光束",
+            "jp": "シグナルビーム",
+            "en": "Signal Beam"
+        },
+        {
+            "index": "325",
+            "cht": "暗影拳",
+            "jp": "シャドーパンチ",
+            "en": "Shadow Punch"
+        },
+        {
+            "index": "326",
+            "cht": "神通力",
+            "jp": "じんつうりき",
+            "en": "Extrasensory"
+        },
+        {
+            "index": "327",
+            "cht": "沖天拳",
+            "jp": "スカイアッパー",
+            "en": "Sky Uppercut"
+        },
+        {
+            "index": "328",
+            "cht": "流沙地獄",
+            "jp": "すなじごく",
+            "en": "Sand Tomb"
+        },
+        {
+            "index": "329",
+            "cht": "絕對零度",
+            "jp": "ぜったいれいど",
+            "en": "Sheer Cold"
+        },
+        {
+            "index": "330",
+            "cht": "濁流",
+            "jp": "だくりゅう",
+            "en": "Muddy Water"
+        },
+        {
+            "index": "331",
+            "cht": "種子機關槍",
+            "jp": "タネマシンガン",
+            "en": "Bullet Seed"
+        },
+        {
+            "index": "332",
+            "cht": "燕返",
+            "jp": "つばめがえし",
+            "en": "Aerial Ace"
+        },
+        {
+            "index": "333",
+            "cht": "冰錐",
+            "jp": "つららばり",
+            "en": "Icicle Spear"
+        },
+        {
+            "index": "334",
+            "cht": "鐵壁",
+            "jp": "てっぺき",
+            "en": "Iron Defense"
+        },
+        {
+            "index": "335",
+            "cht": "擋路",
+            "jp": "とおせんぼう",
+            "en": "Block"
+        },
+        {
+            "index": "336",
+            "cht": "長嚎",
+            "jp": "とおぼえ",
+            "en": "Howl"
+        },
+        {
+            "index": "337",
+            "cht": "龍爪",
+            "jp": "ドラゴンクロー",
+            "en": "Dragon Claw"
+        },
+        {
+            "index": "338",
+            "cht": "瘋狂植物",
+            "jp": "ハードプラント",
+            "en": "Frenzy Plant"
+        },
+        {
+            "index": "339",
+            "cht": "健美",
+            "jp": "ビルドアップ",
+            "en": "Bulk Up"
+        },
+        {
+            "index": "340",
+            "cht": "彈跳",
+            "jp": "とびはねる",
+            "en": "Bounce"
+        },
+        {
+            "index": "341",
+            "cht": "泥巴射擊",
+            "jp": "マッドショット",
+            "en": "Mud Shot"
+        },
+        {
+            "index": "342",
+            "cht": "毒尾",
+            "jp": "ポイズンテール",
+            "en": "Poison Tail"
+        },
+        {
+            "index": "343",
+            "cht": "渴望",
+            "jp": "ほしがる",
+            "en": "Covet"
+        },
+        {
+            "index": "344",
+            "cht": "伏特攻擊",
+            "jp": "ボルテッカー",
+            "en": "Volt Tackle"
+        },
+        {
+            "index": "345",
+            "cht": "魔法葉",
+            "jp": "マジカルリーフ",
+            "en": "Magical Leaf"
+        },
+        {
+            "index": "346",
+            "cht": "玩水",
+            "jp": "みずあそび",
+            "en": "Water Sport"
+        },
+        {
+            "index": "347",
+            "cht": "冥想",
+            "jp": "めいそう",
+            "en": "Calm Mind"
+        },
+        {
+            "index": "348",
+            "cht": "葉刃",
+            "jp": "リーフブレード",
+            "en": "Leaf Blade"
+        },
+        {
+            "index": "349",
+            "cht": "龍之舞",
+            "jp": "りゅうのまい",
+            "en": "Dragon Dance"
+        },
+        {
+            "index": "350",
+            "cht": "岩石爆擊",
+            "jp": "ロックブラスト",
+            "en": "Rock Blast"
+        },
+        {
+            "index": "351",
+            "cht": "電擊波",
+            "jp": "でんげきは",
+            "en": "Shock Wave"
+        },
+        {
+            "index": "352",
+            "cht": "水之波動",
+            "jp": "みずのはどう",
+            "en": "Water Pulse"
+        },
+        {
+            "index": "353",
+            "cht": "破滅之願",
+            "jp": "はめつのねがい",
+            "en": "Doom Desire"
+        },
+        {
+            "index": "354",
+            "cht": "精神突進",
+            "jp": "サイコブースト",
+            "en": "Psycho Boost"
+        },
+        {
+            "index": "355",
+            "cht": "羽棲",
+            "jp": "はねやすめ",
+            "en": "Roost"
+        },
+        {
+            "index": "356",
+            "cht": "重力",
+            "jp": "じゅうりょく",
+            "en": "Gravity"
+        },
+        {
+            "index": "357",
+            "cht": "奇跡之眼",
+            "jp": "ミラクルアイ",
+            "en": "Miracle Eye"
+        },
+        {
+            "index": "358",
+            "cht": "喚醒巴掌",
+            "jp": "めざましビンタ",
+            "en": "Wake-Up Slap"
+        },
+        {
+            "index": "359",
+            "cht": "臂錘",
+            "jp": "アームハンマー",
+            "en": "Hammer Arm"
+        },
+        {
+            "index": "360",
+            "cht": "陀螺球",
+            "jp": "ジャイロボール",
+            "en": "Gyro Ball"
+        },
+        {
+            "index": "361",
+            "cht": "治癒之願",
+            "jp": "いやしのねがい",
+            "en": "Healing Wish"
+        },
+        {
+            "index": "362",
+            "cht": "鹽水",
+            "jp": "しおみず",
+            "en": "Brine"
+        },
+        {
+            "index": "363",
+            "cht": "自然之恩",
+            "jp": "しぜんのめぐみ",
+            "en": "Natural Gift"
+        },
+        {
+            "index": "364",
+            "cht": "佯攻",
+            "jp": "フェイント",
+            "en": "Feint"
+        },
+        {
+            "index": "365",
+            "cht": "啄食",
+            "jp": "ついばむ",
+            "en": "Pluck"
+        },
+        {
+            "index": "366",
+            "cht": "順風",
+            "jp": "おいかぜ",
+            "en": "Tailwind"
+        },
+        {
+            "index": "367",
+            "cht": "點穴",
+            "jp": "つぼをつく",
+            "en": "Acupressure"
+        },
+        {
+            "index": "368",
+            "cht": "金屬爆炸",
+            "jp": "メタルバースト",
+            "en": "Metal Burst"
+        },
+        {
+            "index": "369",
+            "cht": "急速折返",
+            "jp": "とんぼがえり",
+            "en": "U-turn"
+        },
+        {
+            "index": "370",
+            "cht": "近身戰",
+            "jp": "インファイト",
+            "en": "Close Combat"
+        },
+        {
+            "index": "371",
+            "cht": "以牙還牙",
+            "jp": "しっぺがえし",
+            "en": "Payback"
+        },
+        {
+            "index": "372",
+            "cht": "惡意追擊",
+            "jp": "ダメおし",
+            "en": "Assurance"
+        },
+        {
+            "index": "373",
+            "cht": "查封",
+            "jp": "さしおさえ",
+            "en": "Embargo"
+        },
+        {
+            "index": "374",
+            "cht": "投擲",
+            "jp": "なげつける",
+            "en": "Fling"
+        },
+        {
+            "index": "375",
+            "cht": "精神轉移",
+            "jp": "サイコシフト",
+            "en": "Psycho Shift"
+        },
+        {
+            "index": "376",
+            "cht": "王牌",
+            "jp": "きりふだ",
+            "en": "Trump Card"
+        },
+        {
+            "index": "377",
+            "cht": "回復封鎖",
+            "jp": "かいふくふうじ",
+            "en": "Heal Block"
+        },
+        {
+            "index": "378",
+            "cht": "絞緊",
+            "jp": "しぼりとる",
+            "en": "Wring Out"
+        },
+        {
+            "index": "379",
+            "cht": "力量戲法",
+            "jp": "パワートリック",
+            "en": "Power Trick"
+        },
+        {
+            "index": "380",
+            "cht": "胃液",
+            "jp": "いえき",
+            "en": "Gastro Acid"
+        },
+        {
+            "index": "381",
+            "cht": "幸運咒語",
+            "jp": "おまじない",
+            "en": "Lucky Chant"
+        },
+        {
+            "index": "382",
+            "cht": "搶先一步",
+            "jp": "さきどり",
+            "en": "Me First"
+        },
+        {
+            "index": "383",
+            "cht": "仿效",
+            "jp": "まねっこ",
+            "en": "Copycat"
+        },
+        {
+            "index": "384",
+            "cht": "力量互換",
+            "jp": "パワースワップ",
+            "en": "Power Swap"
+        },
+        {
+            "index": "385",
+            "cht": "防守互換",
+            "jp": "ガードスワップ",
+            "en": "Guard Swap"
+        },
+        {
+            "index": "386",
+            "cht": "懲罰",
+            "jp": "おしおき",
+            "en": "Punishment"
+        },
+        {
+            "index": "387",
+            "cht": "珍藏",
+            "jp": "とっておき",
+            "en": "Last Resort"
+        },
+        {
+            "index": "388",
+            "cht": "煩惱種子",
+            "jp": "なやみのタネ",
+            "en": "Worry Seed"
+        },
+        {
+            "index": "389",
+            "cht": "突襲",
+            "jp": "ふいうち",
+            "en": "Sucker Punch"
+        },
+        {
+            "index": "390",
+            "cht": "毒菱",
+            "jp": "どくびし",
+            "en": "Toxic Spikes"
+        },
+        {
+            "index": "391",
+            "cht": "心靈互換",
+            "jp": "ハートスワップ",
+            "en": "Heart Swap"
+        },
+        {
+            "index": "392",
+            "cht": "水流環",
+            "jp": "アクアリング",
+            "en": "Aqua Ring"
+        },
+        {
+            "index": "393",
+            "cht": "電磁飄浮",
+            "jp": "でんじふゆう",
+            "en": "Magnet Rise"
+        },
+        {
+            "index": "394",
+            "cht": "閃焰衝鋒",
+            "jp": "フレアドライブ",
+            "en": "Flare Blitz"
+        },
+        {
+            "index": "395",
+            "cht": "發勁",
+            "jp": "はっけい",
+            "en": "Force Palm"
+        },
+        {
+            "index": "396",
+            "cht": "波導彈",
+            "jp": "はどうだん",
+            "en": "Aura Sphere"
+        },
+        {
+            "index": "397",
+            "cht": "岩石打磨",
+            "jp": "ロックカット",
+            "en": "Rock Polish"
+        },
+        {
+            "index": "398",
+            "cht": "毒擊",
+            "jp": "どくづき",
+            "en": "Poison Jab"
+        },
+        {
+            "index": "399",
+            "cht": "惡之波動",
+            "jp": "あくのはどう",
+            "en": "Dark Pulse"
+        },
+        {
+            "index": "400",
+            "cht": "暗襲要害",
+            "jp": "つじぎり",
+            "en": "Night Slash"
+        },
+        {
+            "index": "401",
+            "cht": "水流尾",
+            "jp": "アクアテール",
+            "en": "Aqua Tail"
+        },
+        {
+            "index": "402",
+            "cht": "種子炸彈",
+            "jp": "タネばくだん",
+            "en": "Seed Bomb"
+        },
+        {
+            "index": "403",
+            "cht": "空氣斬",
+            "jp": "エアスラッシュ",
+            "en": "Air Slash"
+        },
+        {
+            "index": "404",
+            "cht": "十字剪",
+            "jp": "シザークロス",
+            "en": "X-Scissor"
+        },
+        {
+            "index": "405",
+            "cht": "蟲鳴",
+            "jp": "むしのさざめき",
+            "en": "Bug Buzz"
+        },
+        {
+            "index": "406",
+            "cht": "龍之波動",
+            "jp": "りゅうのはどう",
+            "en": "Dragon Pulse"
+        },
+        {
+            "index": "407",
+            "cht": "龍之俯衝",
+            "jp": "ドラゴンダイブ",
+            "en": "Dragon Rush"
+        },
+        {
+            "index": "408",
+            "cht": "力量寶石",
+            "jp": "パワージェム",
+            "en": "Power Gem"
+        },
+        {
+            "index": "409",
+            "cht": "吸取拳",
+            "jp": "ドレインパンチ",
+            "en": "Drain Punch"
+        },
+        {
+            "index": "410",
+            "cht": "真空波",
+            "jp": "しんくうは",
+            "en": "Vacuum Wave"
+        },
+        {
+            "index": "411",
+            "cht": "真氣彈",
+            "jp": "きあいだま",
+            "en": "Focus Blast"
+        },
+        {
+            "index": "412",
+            "cht": "能量球",
+            "jp": "エナジーボール",
+            "en": "Energy Ball"
+        },
+        {
+            "index": "413",
+            "cht": "勇鳥猛攻",
+            "jp": "ブレイブバード",
+            "en": "Brave Bird"
+        },
+        {
+            "index": "414",
+            "cht": "大地之力",
+            "jp": "だいちのちから",
+            "en": "Earth Power"
+        },
+        {
+            "index": "415",
+            "cht": "掉包",
+            "jp": "すりかえ",
+            "en": "Switcheroo"
+        },
+        {
+            "index": "416",
+            "cht": "終極衝擊",
+            "jp": "ギガインパクト",
+            "en": "Giga Impact"
+        },
+        {
+            "index": "417",
+            "cht": "詭計",
+            "jp": "わるだくみ",
+            "en": "Nasty Plot"
+        },
+        {
+            "index": "418",
+            "cht": "子彈拳",
+            "jp": "バレットパンチ",
+            "en": "Bullet Punch"
+        },
+        {
+            "index": "419",
+            "cht": "雪崩",
+            "jp": "ゆきなだれ",
+            "en": "Avalanche"
+        },
+        {
+            "index": "420",
+            "cht": "冰礫",
+            "jp": "こおりのつぶて",
+            "en": "Ice Shard"
+        },
+        {
+            "index": "421",
+            "cht": "暗影爪",
+            "jp": "シャドークロー",
+            "en": "Shadow Claw"
+        },
+        {
+            "index": "422",
+            "cht": "雷電牙",
+            "jp": "かみなりのキバ",
+            "en": "Thunder Fang"
+        },
+        {
+            "index": "423",
+            "cht": "冰凍牙",
+            "jp": "こおりのキバ",
+            "en": "Ice Fang"
+        },
+        {
+            "index": "424",
+            "cht": "火焰牙",
+            "jp": "ほのおのキバ",
+            "en": "Fire Fang"
+        },
+        {
+            "index": "425",
+            "cht": "影子偷襲",
+            "jp": "かげうち",
+            "en": "Shadow Sneak"
+        },
+        {
+            "index": "426",
+            "cht": "泥巴炸彈",
+            "jp": "どろばくだん",
+            "en": "Mud Bomb"
+        },
+        {
+            "index": "427",
+            "cht": "精神利刃",
+            "jp": "サイコカッター",
+            "en": "Psycho Cut"
+        },
+        {
+            "index": "428",
+            "cht": "意念頭錘",
+            "jp": "しねんのずつき",
+            "en": "Zen Headbutt"
+        },
+        {
+            "index": "429",
+            "cht": "鏡光射擊",
+            "jp": "ミラーショット",
+            "en": "Mirror Shot"
+        },
+        {
+            "index": "430",
+            "cht": "加農光炮",
+            "jp": "ラスターカノン",
+            "en": "Flash Cannon"
+        },
+        {
+            "index": "431",
+            "cht": "攀岩",
+            "jp": "ロッククライム",
+            "en": "Rock Climb"
+        },
+        {
+            "index": "432",
+            "cht": "清除濃霧",
+            "jp": "きりばらい",
+            "en": "Defog"
+        },
+        {
+            "index": "433",
+            "cht": "戲法空間",
+            "jp": "トリックルーム",
+            "en": "Trick Room"
+        },
+        {
+            "index": "434",
+            "cht": "流星群",
+            "jp": "りゅうせいぐん",
+            "en": "Draco Meteor"
+        },
+        {
+            "index": "435",
+            "cht": "放電",
+            "jp": "ほうでん",
+            "en": "Discharge"
+        },
+        {
+            "index": "436",
+            "cht": "噴煙",
+            "jp": "ふんえん",
+            "en": "Lava Plume"
+        },
+        {
+            "index": "437",
+            "cht": "飛葉風暴",
+            "jp": "リーフストーム",
+            "en": "Leaf Storm"
+        },
+        {
+            "index": "438",
+            "cht": "強力鞭打",
+            "jp": "パワーウィップ",
+            "en": "Power Whip"
+        },
+        {
+            "index": "439",
+            "cht": "岩石炮",
+            "jp": "がんせきほう",
+            "en": "Rock Wrecker"
+        },
+        {
+            "index": "440",
+            "cht": "十字毒刃",
+            "jp": "クロスポイズン",
+            "en": "Cross Poison"
+        },
+        {
+            "index": "441",
+            "cht": "垃圾射擊",
+            "jp": "ダストシュート",
+            "en": "Gunk Shot"
+        },
+        {
+            "index": "442",
+            "cht": "鐵頭",
+            "jp": "アイアンヘッド",
+            "en": "Iron Head"
+        },
+        {
+            "index": "443",
+            "cht": "磁鐵炸彈",
+            "jp": "マグネットボム",
+            "en": "Magnet Bomb"
+        },
+        {
+            "index": "444",
+            "cht": "尖石攻擊",
+            "jp": "ストーンエッジ",
+            "en": "Stone Edge"
+        },
+        {
+            "index": "445",
+            "cht": "誘惑",
+            "jp": "ゆうわく",
+            "en": "Captivate"
+        },
+        {
+            "index": "446",
+            "cht": "隱形岩",
+            "jp": "ステルスロック",
+            "en": "Stealth Rock"
+        },
+        {
+            "index": "447",
+            "cht": "打草結",
+            "jp": "くさむすび",
+            "en": "Grass Knot"
+        },
+        {
+            "index": "448",
+            "cht": "喋喋不休",
+            "jp": "おしゃべり",
+            "en": "Chatter"
+        },
+        {
+            "index": "449",
+            "cht": "制裁光礫",
+            "jp": "さばきのつぶて",
+            "en": "Judgment"
+        },
+        {
+            "index": "450",
+            "cht": "蟲咬",
+            "jp": "むしくい",
+            "en": "Bug Bite"
+        },
+        {
+            "index": "451",
+            "cht": "充電光束",
+            "jp": "チャージビーム",
+            "en": "Charge Beam"
+        },
+        {
+            "index": "452",
+            "cht": "木槌",
+            "jp": "ウッドハンマー",
+            "en": "Wood Hammer"
+        },
+        {
+            "index": "453",
+            "cht": "水流噴射",
+            "jp": "アクアジェット",
+            "en": "Aqua Jet"
+        },
+        {
+            "index": "454",
+            "cht": "攻擊指令",
+            "jp": "こうげきしれい",
+            "en": "Attack Order"
+        },
+        {
+            "index": "455",
+            "cht": "防禦指令",
+            "jp": "ぼうぎょしれい",
+            "en": "Defend Order"
+        },
+        {
+            "index": "456",
+            "cht": "回復指令",
+            "jp": "かいふくしれい",
+            "en": "Heal Order"
+        },
+        {
+            "index": "457",
+            "cht": "雙刃頭錘",
+            "jp": "もろはのずつき",
+            "en": "Head Smash"
+        },
+        {
+            "index": "458",
+            "cht": "二連擊",
+            "jp": "ダブルアタック",
+            "en": "Double Hit"
+        },
+        {
+            "index": "459",
+            "cht": "時光咆哮",
+            "jp": "ときのほうこう",
+            "en": "Roar of Time"
+        },
+        {
+            "index": "460",
+            "cht": "亞空裂斬",
+            "jp": "あくうせつだん",
+            "en": "Spacial Rend"
+        },
+        {
+            "index": "461",
+            "cht": "新月舞",
+            "jp": "みかづきのまい",
+            "en": "Lunar Dance"
+        },
+        {
+            "index": "462",
+            "cht": "捏碎",
+            "jp": "にぎりつぶす",
+            "en": "Crush Grip"
+        },
+        {
+            "index": "463",
+            "cht": "熔岩風暴",
+            "jp": "マグマストーム",
+            "en": "Magma Storm"
+        },
+        {
+            "index": "464",
+            "cht": "暗黑洞",
+            "jp": "ダークホール",
+            "en": "Dark Void"
+        },
+        {
+            "index": "465",
+            "cht": "種子閃光",
+            "jp": "シードフレア",
+            "en": "Seed Flare"
+        },
+        {
+            "index": "466",
+            "cht": "奇異之風",
+            "jp": "あやしいかぜ",
+            "en": "Ominous Wind"
+        },
+        {
+            "index": "467",
+            "cht": "暗影潛襲",
+            "jp": "シャドーダイブ",
+            "en": "Shadow Force"
+        },
+        {
+            "index": "468",
+            "cht": "磨爪",
+            "jp": "つめとぎ",
+            "en": "Hone Claws"
+        },
+        {
+            "index": "469",
+            "cht": "廣域防守",
+            "jp": "ワイドガード",
+            "en": "Wide Guard"
+        },
+        {
+            "index": "470",
+            "cht": "防守平分",
+            "jp": "ガードシェア",
+            "en": "Guard Split"
+        },
+        {
+            "index": "471",
+            "cht": "力量平分",
+            "jp": "パワーシェア",
+            "en": "Power Split"
+        },
+        {
+            "index": "472",
+            "cht": "奇妙空間",
+            "jp": "ワンダールーム",
+            "en": "Wonder Room"
+        },
+        {
+            "index": "473",
+            "cht": "精神衝擊",
+            "jp": "サイコショック",
+            "en": "Psyshock"
+        },
+        {
+            "index": "474",
+            "cht": "毒液衝擊",
+            "jp": "ベノムショック",
+            "en": "Venoshock"
+        },
+        {
+            "index": "475",
+            "cht": "身體輕量化",
+            "jp": "ボディパージ",
+            "en": "Autotomize"
+        },
+        {
+            "index": "476",
+            "cht": "憤怒粉",
+            "jp": "いかりのこな",
+            "en": "Rage Powder"
+        },
+        {
+            "index": "477",
+            "cht": "意念移物",
+            "jp": "テレキネシス",
+            "en": "Telekinesis"
+        },
+        {
+            "index": "478",
+            "cht": "魔法空間",
+            "jp": "マジックルーム",
+            "en": "Magic Room"
+        },
+        {
+            "index": "479",
+            "cht": "擊落",
+            "jp": "うちおとす",
+            "en": "Smack Down"
+        },
+        {
+            "index": "480",
+            "cht": "山嵐摔",
+            "jp": "やまあらし",
+            "en": "Storm Throw"
+        },
+        {
+            "index": "481",
+            "cht": "烈焰濺射",
+            "jp": "はじけるほのお",
+            "en": "Flame Burst"
+        },
+        {
+            "index": "482",
+            "cht": "污泥波",
+            "jp": "ヘドロウェーブ",
+            "en": "Sludge Wave"
+        },
+        {
+            "index": "483",
+            "cht": "蝶舞",
+            "jp": "ちょうのまい",
+            "en": "Quiver Dance"
+        },
+        {
+            "index": "484",
+            "cht": "重磅衝撞",
+            "jp": "ヘビーボンバー",
+            "en": "Heavy Slam"
+        },
+        {
+            "index": "485",
+            "cht": "同步干擾",
+            "jp": "シンクロノイズ",
+            "en": "Synchronoise"
+        },
+        {
+            "index": "486",
+            "cht": "電球",
+            "jp": "エレキボール",
+            "en": "Electro Ball"
+        },
+        {
+            "index": "487",
+            "cht": "浸水",
+            "jp": "みずびたし",
+            "en": "Soak"
+        },
+        {
+            "index": "488",
+            "cht": "蓄能焰襲",
+            "jp": "ニトロチャージ",
+            "en": "Flame Charge"
+        },
+        {
+            "index": "489",
+            "cht": "盤蜷",
+            "jp": "とぐろをまく",
+            "en": "Coil"
+        },
+        {
+            "index": "490",
+            "cht": "下盤踢",
+            "jp": "ローキック",
+            "en": "Low Sweep"
+        },
+        {
+            "index": "491",
+            "cht": "酸液炸彈",
+            "jp": "アシッドボム",
+            "en": "Acid Spray"
+        },
+        {
+            "index": "492",
+            "cht": "欺詐",
+            "jp": "イカサマ",
+            "en": "Foul Play"
+        },
+        {
+            "index": "493",
+            "cht": "單純光束",
+            "jp": "シンプルビーム",
+            "en": "Simple Beam"
+        },
+        {
+            "index": "494",
+            "cht": "找夥伴",
+            "jp": "なかまづくり",
+            "en": "Entrainment"
+        },
+        {
+            "index": "495",
+            "cht": "您先請",
+            "jp": "おさきにどうぞ",
+            "en": "After You"
+        },
+        {
+            "index": "496",
+            "cht": "輪唱",
+            "jp": "りんしょう",
+            "en": "Round"
+        },
+        {
+            "index": "497",
+            "cht": "迴聲",
+            "jp": "エコーボイス",
+            "en": "Echoed Voice"
+        },
+        {
+            "index": "498",
+            "cht": "逐步擊破",
+            "jp": "なしくずし",
+            "en": "Chip Away"
+        },
+        {
+            "index": "499",
+            "cht": "清除之煙",
+            "jp": "クリアスモッグ",
+            "en": "Clear Smog"
+        },
+        {
+            "index": "500",
+            "cht": "輔助力量",
+            "jp": "アシストパワー",
+            "en": "Stored Power"
+        },
+        {
+            "index": "501",
+            "cht": "快速防守",
+            "jp": "ファストガード",
+            "en": "Quick Guard"
+        },
+        {
+            "index": "502",
+            "cht": "交換場地",
+            "jp": "サイドチェンジ",
+            "en": "Ally Switch"
+        },
+        {
+            "index": "503",
+            "cht": "熱水",
+            "jp": "ねっとう",
+            "en": "Scald"
+        },
+        {
+            "index": "504",
+            "cht": "破殼",
+            "jp": "からをやぶる",
+            "en": "Shell Smash"
+        },
+        {
+            "index": "505",
+            "cht": "治癒波動",
+            "jp": "いやしのはどう",
+            "en": "Heal Pulse"
+        },
+        {
+            "index": "506",
+            "cht": "禍不單行",
+            "jp": "たたりめ",
+            "en": "Hex"
+        },
+        {
+            "index": "507",
+            "cht": "自由落體",
+            "jp": "フリーフォール",
+            "en": "Sky Drop"
+        },
+        {
+            "index": "508",
+            "cht": "換檔",
+            "jp": "ギアチェンジ",
+            "en": "Shift Gear"
+        },
+        {
+            "index": "509",
+            "cht": "巴投",
+            "jp": "ともえなげ",
+            "en": "Circle Throw"
+        },
+        {
+            "index": "510",
+            "cht": "燒盡",
+            "jp": "やきつくす",
+            "en": "Incinerate"
+        },
+        {
+            "index": "511",
+            "cht": "延後",
+            "jp": "さきおくり",
+            "en": "Quash"
+        },
+        {
+            "index": "512",
+            "cht": "雜技",
+            "jp": "アクロバット",
+            "en": "Acrobatics"
+        },
+        {
+            "index": "513",
+            "cht": "鏡面屬性",
+            "jp": "ミラータイプ",
+            "en": "Reflect Type"
+        },
+        {
+            "index": "514",
+            "cht": "報仇",
+            "jp": "かたきうち",
+            "en": "Retaliate"
+        },
+        {
+            "index": "515",
+            "cht": "搏命",
+            "jp": "いのちがけ",
+            "en": "Final Gambit"
+        },
+        {
+            "index": "516",
+            "cht": "傳遞禮物",
+            "jp": "ギフトパス",
+            "en": "Bestow"
+        },
+        {
+            "index": "517",
+            "cht": "煉獄",
+            "jp": "れんごく",
+            "en": "Inferno"
+        },
+        {
+            "index": "518",
+            "cht": "水之誓約",
+            "jp": "みずのちかい",
+            "en": "Water Pledge"
+        },
+        {
+            "index": "519",
+            "cht": "火之誓約",
+            "jp": "ほのおのちかい",
+            "en": "Fire Pledge"
+        },
+        {
+            "index": "520",
+            "cht": "草之誓約",
+            "jp": "くさのちかい",
+            "en": "Grass Pledge"
+        },
+        {
+            "index": "521",
+            "cht": "伏特替換",
+            "jp": "ボルトチェンジ",
+            "en": "Volt Switch"
+        },
+        {
+            "index": "522",
+            "cht": "蟲之抵抗",
+            "jp": "むしのていこう",
+            "en": "Struggle Bug"
+        },
+        {
+            "index": "523",
+            "cht": "重踏",
+            "jp": "じならし",
+            "en": "Bulldoze"
+        },
+        {
+            "index": "524",
+            "cht": "冰息",
+            "jp": "こおりのいぶき",
+            "en": "Frost Breath"
+        },
+        {
+            "index": "525",
+            "cht": "龍尾",
+            "jp": "ドラゴンテール",
+            "en": "Dragon Tail"
+        },
+        {
+            "index": "526",
+            "cht": "自我激勵",
+            "jp": "ふるいたてる",
+            "en": "Work Up"
+        },
+        {
+            "index": "527",
+            "cht": "電網",
+            "jp": "エレキネット",
+            "en": "Electroweb"
+        },
+        {
+            "index": "528",
+            "cht": "瘋狂伏特",
+            "jp": "ワイルドボルト",
+            "en": "Wild Charge"
+        },
+        {
+            "index": "529",
+            "cht": "直衝鑽",
+            "jp": "ドリルライナー",
+            "en": "Drill Run"
+        },
+        {
+            "index": "530",
+            "cht": "二連劈",
+            "jp": "ダブルチョップ",
+            "en": "Dual Chop"
+        },
+        {
+            "index": "531",
+            "cht": "愛心印章",
+            "jp": "ハートスタンプ",
+            "en": "Heart Stamp"
+        },
+        {
+            "index": "532",
+            "cht": "木角",
+            "jp": "ウッドホーン",
+            "en": "Horn Leech"
+        },
+        {
+            "index": "533",
+            "cht": "聖劍",
+            "jp": "せいなるつるぎ",
+            "en": "Sacred Sword"
+        },
+        {
+            "index": "534",
+            "cht": "貝殼刃",
+            "jp": "シェルブレード",
+            "en": "Razor Shell"
+        },
+        {
+            "index": "535",
+            "cht": "高溫重壓",
+            "jp": "ヒートスタンプ",
+            "en": "Heat Crash"
+        },
+        {
+            "index": "536",
+            "cht": "青草攪拌器",
+            "jp": "グラスミキサー",
+            "en": "Leaf Tornado"
+        },
+        {
+            "index": "537",
+            "cht": "瘋狂滾壓",
+            "jp": "ハードローラー",
+            "en": "Steamroller"
+        },
+        {
+            "index": "538",
+            "cht": "棉花防守",
+            "jp": "コットンガード",
+            "en": "Cotton Guard"
+        },
+        {
+            "index": "539",
+            "cht": "暗黑爆破",
+            "jp": "ナイトバースト",
+            "en": "Night Daze"
+        },
+        {
+            "index": "540",
+            "cht": "精神擊破",
+            "jp": "サイコブレイク",
+            "en": "Psystrike"
+        },
+        {
+            "index": "541",
+            "cht": "掃尾拍打",
+            "jp": "スイープビンタ",
+            "en": "Tail Slap"
+        },
+        {
+            "index": "542",
+            "cht": "暴風",
+            "jp": "ぼうふう",
+            "en": "Hurricane"
+        },
+        {
+            "index": "543",
+            "cht": "爆炸頭突擊",
+            "jp": "アフロブレイク",
+            "en": "Head Charge"
+        },
+        {
+            "index": "544",
+            "cht": "齒輪飛盤",
+            "jp": "ギアソーサー",
+            "en": "Gear Grind"
+        },
+        {
+            "index": "545",
+            "cht": "火焰彈",
+            "jp": "かえんだん",
+            "en": "Searing Shot"
+        },
+        {
+            "index": "546",
+            "cht": "高科技光炮",
+            "jp": "テクノバスター",
+            "en": "Techno Blast"
+        },
+        {
+            "index": "547",
+            "cht": "古老之歌",
+            "jp": "いにしえのうた",
+            "en": "Relic Song"
+        },
+        {
+            "index": "548",
+            "cht": "神秘之劍",
+            "jp": "しんぴのつるぎ",
+            "en": "Secret Sword"
+        },
+        {
+            "index": "549",
+            "cht": "冰封世界",
+            "jp": "こごえるせかい",
+            "en": "Glaciate"
+        },
+        {
+            "index": "550",
+            "cht": "雷擊",
+            "jp": "らいげき",
+            "en": "Bolt Strike"
+        },
+        {
+            "index": "551",
+            "cht": "青焰",
+            "jp": "あおいほのお",
+            "en": "Blue Flare"
+        },
+        {
+            "index": "552",
+            "cht": "火之舞",
+            "jp": "ほのおのまい",
+            "en": "Fiery Dance"
+        },
+        {
+            "index": "553",
+            "cht": "冰凍伏特",
+            "jp": "フリーズボルト",
+            "en": "Freeze Shock"
+        },
+        {
+            "index": "554",
+            "cht": "極寒冷焰",
+            "jp": "コールドフレア",
+            "en": "Ice Burn"
+        },
+        {
+            "index": "555",
+            "cht": "大聲咆哮",
+            "jp": "バークアウト",
+            "en": "Snarl"
+        },
+        {
+            "index": "556",
+            "cht": "冰柱墜擊",
+            "jp": "つららおとし",
+            "en": "Icicle Crash"
+        },
+        {
+            "index": "557",
+            "cht": "Ｖ熱焰",
+            "jp": "Ｖジェネレート",
+            "en": "V-create"
+        },
+        {
+            "index": "558",
+            "cht": "交錯火焰",
+            "jp": "クロスフレイム",
+            "en": "Fusion Flare"
+        },
+        {
+            "index": "559",
+            "cht": "交錯閃電",
+            "jp": "クロスサンダー",
+            "en": "Fusion Bolt"
+        },
+        {
+            "index": "560",
+            "cht": "飛身重壓",
+            "jp": "フライングプレス",
+            "en": "Flying Press"
+        },
+        {
+            "index": "561",
+            "cht": "掀榻榻米",
+            "jp": "たたみがえし",
+            "en": "Mat Block"
+        },
+        {
+            "index": "562",
+            "cht": "打嗝",
+            "jp": "ゲップ",
+            "en": "Belch"
+        },
+        {
+            "index": "563",
+            "cht": "耕地",
+            "jp": "たがやす",
+            "en": "Rototiller"
+        },
+        {
+            "index": "564",
+            "cht": "黏黏網",
+            "jp": "ねばねばネット",
+            "en": "Sticky Web"
+        },
+        {
+            "index": "565",
+            "cht": "致命針刺",
+            "jp": "とどめばり",
+            "en": "Fell Stinger"
+        },
+        {
+            "index": "566",
+            "cht": "潛靈奇襲",
+            "jp": "ゴーストダイブ",
+            "en": "Phantom Force"
+        },
+        {
+            "index": "567",
+            "cht": "萬聖夜",
+            "jp": "ハロウィン",
+            "en": "Trick-or-Treat"
+        },
+        {
+            "index": "568",
+            "cht": "戰吼",
+            "jp": "おたけび",
+            "en": "Noble Roar"
+        },
+        {
+            "index": "569",
+            "cht": "等離子浴",
+            "jp": "プラズマシャワー",
+            "en": "Ion Deluge"
+        },
+        {
+            "index": "570",
+            "cht": "拋物面充電",
+            "jp": "パラボラチャージ",
+            "en": "Parabolic Charge"
+        },
+        {
+            "index": "571",
+            "cht": "森林詛咒",
+            "jp": "もりののろい",
+            "en": "Forest's Curse"
+        },
+        {
+            "index": "572",
+            "cht": "落英繽紛",
+            "jp": "はなふぶき",
+            "en": "Petal Blizzard"
+        },
+        {
+            "index": "573",
+            "cht": "冷凍乾燥",
+            "jp": "フリーズドライ",
+            "en": "Freeze-Dry"
+        },
+        {
+            "index": "574",
+            "cht": "魅惑之聲",
+            "jp": "チャームボイス",
+            "en": "Disarming Voice"
+        },
+        {
+            "index": "575",
+            "cht": "拋下狠話",
+            "jp": "すてゼリフ",
+            "en": "Parting Shot"
+        },
+        {
+            "index": "576",
+            "cht": "顛倒",
+            "jp": "ひっくりかえす",
+            "en": "Topsy-Turvy"
+        },
+        {
+            "index": "577",
+            "cht": "吸取之吻",
+            "jp": "ドレインキッス",
+            "en": "Draining Kiss"
+        },
+        {
+            "index": "578",
+            "cht": "戲法防守",
+            "jp": "トリックガード",
+            "en": "Crafty Shield"
+        },
+        {
+            "index": "579",
+            "cht": "鮮花防守",
+            "jp": "フラワーガード",
+            "en": "Flower Shield"
+        },
+        {
+            "index": "580",
+            "cht": "青草場地",
+            "jp": "グラスフィールド",
+            "en": "Grassy Terrain"
+        },
+        {
+            "index": "581",
+            "cht": "薄霧場地",
+            "jp": "ミストフィールド",
+            "en": "Misty Terrain"
+        },
+        {
+            "index": "582",
+            "cht": "輸電",
+            "jp": "そうでん",
+            "en": "Electrify"
+        },
+        {
+            "index": "583",
+            "cht": "嬉鬧",
+            "jp": "じゃれつく",
+            "en": "Play Rough"
+        },
+        {
+            "index": "584",
+            "cht": "妖精之風",
+            "jp": "ようせいのかぜ",
+            "en": "Fairy Wind"
+        },
+        {
+            "index": "585",
+            "cht": "月亮之力",
+            "jp": "ムーンフォース",
+            "en": "Moonblast"
+        },
+        {
+            "index": "586",
+            "cht": "爆音波",
+            "jp": "ばくおんぱ",
+            "en": "Boomburst"
+        },
+        {
+            "index": "587",
+            "cht": "妖精之鎖",
+            "jp": "フェアリーロック",
+            "en": "Fairy Lock"
+        },
+        {
+            "index": "588",
+            "cht": "王者盾牌",
+            "jp": "キングシールド",
+            "en": "King's Shield"
+        },
+        {
+            "index": "589",
+            "cht": "和睦相處",
+            "jp": "なかよくする",
+            "en": "Play Nice"
+        },
+        {
+            "index": "590",
+            "cht": "密語",
+            "jp": "ないしょばなし",
+            "en": "Confide"
+        },
+        {
+            "index": "591",
+            "cht": "鑽石風暴",
+            "jp": "ダイヤストーム",
+            "en": "Diamond Storm"
+        },
+        {
+            "index": "592",
+            "cht": "蒸汽爆炸",
+            "jp": "スチームバースト",
+            "en": "Steam Eruption"
+        },
+        {
+            "index": "593",
+            "cht": "異次元洞",
+            "jp": "いじげんホール",
+            "en": "Hyperspace Hole"
+        },
+        {
+            "index": "594",
+            "cht": "飛水手裡劍",
+            "jp": "みずしゅりけん",
+            "en": "Water Shuriken"
+        },
+        {
+            "index": "595",
+            "cht": "魔法火焰",
+            "jp": "マジカルフレイム",
+            "en": "Mystical Fire"
+        },
+        {
+            "index": "596",
+            "cht": "尖刺防守",
+            "jp": "ニードルガード",
+            "en": "Spiky Shield"
+        },
+        {
+            "index": "597",
+            "cht": "芳香薄霧",
+            "jp": "アロマミスト",
+            "en": "Aromatic Mist"
+        },
+        {
+            "index": "598",
+            "cht": "怪異電波",
+            "jp": "かいでんぱ",
+            "en": "Eerie Impulse"
+        },
+        {
+            "index": "599",
+            "cht": "毒液陷阱",
+            "jp": "ベノムトラップ",
+            "en": "Venom Drench"
+        },
+        {
+            "index": "600",
+            "cht": "粉塵",
+            "jp": "ふんじん",
+            "en": "Powder"
+        },
+        {
+            "index": "601",
+            "cht": "大地掌控",
+            "jp": "ジオコントロール",
+            "en": "Geomancy"
+        },
+        {
+            "index": "602",
+            "cht": "磁場操控",
+            "jp": "じばそうさ",
+            "en": "Magnetic Flux"
+        },
+        {
+            "index": "603",
+            "cht": "歡樂時光",
+            "jp": "ハッピータイム",
+            "en": "Happy Hour"
+        },
+        {
+            "index": "604",
+            "cht": "電氣場地",
+            "jp": "エレキフィールド",
+            "en": "Electric Terrain"
+        },
+        {
+            "index": "605",
+            "cht": "魔法閃耀",
+            "jp": "マジカルシャイン",
+            "en": "Dazzling Gleam"
+        },
+        {
+            "index": "606",
+            "cht": "慶祝",
+            "jp": "おいわい",
+            "en": "Celebrate"
+        },
+        {
+            "index": "607",
+            "cht": "牽手",
+            "jp": "てをつなぐ",
+            "en": "Hold Hands"
+        },
+        {
+            "index": "608",
+            "cht": "圓瞳",
+            "jp": "つぶらなひとみ",
+            "en": "Baby-Doll Eyes"
+        },
+        {
+            "index": "609",
+            "cht": "蹭蹭臉頰",
+            "jp": "ほっぺすりすり",
+            "en": "Nuzzle"
+        },
+        {
+            "index": "610",
+            "cht": "手下留情",
+            "jp": "てかげん",
+            "en": "Hold Back"
+        },
+        {
+            "index": "611",
+            "cht": "死纏爛打",
+            "jp": "まとわりつく",
+            "en": "Infestation"
+        },
+        {
+            "index": "612",
+            "cht": "增強拳",
+            "jp": "グロウパンチ",
+            "en": "Power-Up Punch"
+        },
+        {
+            "index": "613",
+            "cht": "死亡之翼",
+            "jp": "デスウイング",
+            "en": "Oblivion Wing"
+        },
+        {
+            "index": "614",
+            "cht": "千箭齊發",
+            "jp": "サウザンアロー",
+            "en": "Thousand Arrows"
+        },
+        {
+            "index": "615",
+            "cht": "千波激盪",
+            "jp": "サウザンウェーブ",
+            "en": "Thousand Waves"
+        },
+        {
+            "index": "616",
+            "cht": "大地神力",
+            "jp": "グランドフォース",
+            "en": "Land's Wrath"
+        },
+        {
+            "index": "617",
+            "cht": "破滅之光",
+            "jp": "はめつのひかり",
+            "en": "Light of Ruin"
+        },
+        {
+            "index": "618",
+            "cht": "根源波動",
+            "jp": "こんげんのはどう",
+            "en": "Origin Pulse"
+        },
+        {
+            "index": "619",
+            "cht": "斷崖之劍",
+            "jp": "だんがいのつるぎ",
+            "en": "Precipice Blades"
+        },
+        {
+            "index": "620",
+            "cht": "畫龍點睛",
+            "jp": "ガリョウテンセイ",
+            "en": "Dragon Ascent"
+        },
+        {
+            "index": "621",
+            "cht": "異次元猛攻",
+            "jp": "いじげんラッシュ",
+            "en": "Hyperspace Fury"
+        },
+        {
+            "index": "659",
+            "cht": "集沙",
+            "jp": "すなあつめ",
+            "en": "Shore Up"
+        },
+        {
+            "index": "660",
+            "cht": "迎頭一擊",
+            "jp": "であいがしら",
+            "en": "First Impression"
+        },
+        {
+            "index": "661",
+            "cht": "碉堡",
+            "jp": "トーチカ",
+            "en": "Baneful Bunker"
+        },
+        {
+            "index": "662",
+            "cht": "縫影",
+            "jp": "かげぬい",
+            "en": "Spirit Shackle"
+        },
+        {
+            "index": "663",
+            "cht": "ＤＤ金勾臂",
+            "jp": "ＤＤラリアット",
+            "en": "Darkest Lariat"
+        },
+        {
+            "index": "664",
+            "cht": "泡影的詠歎調",
+            "jp": "うたかたのアリア",
+            "en": "Sparkling Aria"
+        },
+        {
+            "index": "665",
+            "cht": "冰錘",
+            "jp": "アイスハンマー",
+            "en": "Ice Hammer"
+        },
+        {
+            "index": "666",
+            "cht": "花療",
+            "jp": "フラワーヒール",
+            "en": "Floral Healing"
+        },
+        {
+            "index": "667",
+            "cht": "十萬馬力",
+            "jp": "１０まんばりき",
+            "en": "High Horsepower"
+        },
+        {
+            "index": "668",
+            "cht": "吸取力量",
+            "jp": "ちからをすいとる",
+            "en": "Strength Sap"
+        },
+        {
+            "index": "669",
+            "cht": "日光刃",
+            "jp": "ソーラーブレード",
+            "en": "Solar Blade"
+        },
+        {
+            "index": "670",
+            "cht": "樹葉",
+            "jp": "このは",
+            "en": "Leafage"
+        },
+        {
+            "index": "671",
+            "cht": "聚光燈",
+            "jp": "スポットライト",
+            "en": "Spotlight"
+        },
+        {
+            "index": "672",
+            "cht": "毒絲",
+            "jp": "どくのいと",
+            "en": "Toxic Thread"
+        },
+        {
+            "index": "673",
+            "cht": "磨礪",
+            "jp": "とぎすます",
+            "en": "Laser Focus"
+        },
+        {
+            "index": "674",
+            "cht": "輔助齒輪",
+            "jp": "アシストギア",
+            "en": "Gear Up"
+        },
+        {
+            "index": "675",
+            "cht": "地獄突刺",
+            "jp": "じごくづき",
+            "en": "Throat Chop"
+        },
+        {
+            "index": "676",
+            "cht": "花粉團",
+            "jp": "かふんだんご",
+            "en": "Pollen Puff"
+        },
+        {
+            "index": "677",
+            "cht": "擲錨",
+            "jp": "アンカーショット",
+            "en": "Anchor Shot"
+        },
+        {
+            "index": "678",
+            "cht": "精神場地",
+            "jp": "サイコフィールド",
+            "en": "Psychic Terrain"
+        },
+        {
+            "index": "679",
+            "cht": "猛撲",
+            "jp": "とびかかる",
+            "en": "Lunge"
+        },
+        {
+            "index": "680",
+            "cht": "火焰鞭",
+            "jp": "ほのおのムチ",
+            "en": "Fire Lash"
+        },
+        {
+            "index": "681",
+            "cht": "囂張",
+            "jp": "つけあがる",
+            "en": "Power Trip"
+        },
+        {
+            "index": "682",
+            "cht": "燃盡",
+            "jp": "もえつきる",
+            "en": "Burn Up"
+        },
+        {
+            "index": "683",
+            "cht": "速度互換",
+            "jp": "スピードスワップ",
+            "en": "Speed Swap"
+        },
+        {
+            "index": "684",
+            "cht": "修長之角",
+            "jp": "スマートホーン",
+            "en": "Smart Strike"
+        },
+        {
+            "index": "685",
+            "cht": "淨化",
+            "jp": "じょうか",
+            "en": "Purify"
+        },
+        {
+            "index": "686",
+            "cht": "覺醒之舞",
+            "jp": "めざめるダンス",
+            "en": "Revelation Dance"
+        },
+        {
+            "index": "687",
+            "cht": "核心懲罰者",
+            "jp": "コアパニッシャー",
+            "en": "Core Enforcer"
+        },
+        {
+            "index": "688",
+            "cht": "熱帶踢",
+            "jp": "トロピカルキック",
+            "en": "Trop Kick"
+        },
+        {
+            "index": "689",
+            "cht": "號令",
+            "jp": "さいはい",
+            "en": "Instruct"
+        },
+        {
+            "index": "690",
+            "cht": "鳥嘴加農炮",
+            "jp": "くちばしキャノン",
+            "en": "Beak Blast"
+        },
+        {
+            "index": "691",
+            "cht": "鱗片噪音",
+            "jp": "スケイルノイズ",
+            "en": "Clanging Scales"
+        },
+        {
+            "index": "692",
+            "cht": "龍錘",
+            "jp": "ドラゴンハンマー",
+            "en": "Dragon Hammer"
+        },
+        {
+            "index": "693",
+            "cht": "狂舞揮打",
+            "jp": "ぶんまわす",
+            "en": "Brutal Swing"
+        },
+        {
+            "index": "694",
+            "cht": "極光幕",
+            "jp": "オーロラベール",
+            "en": "Aurora Veil"
+        },
+        {
+            "index": "704",
+            "cht": "陷阱甲殼",
+            "jp": "トラップシェル",
+            "en": "Shell Trap"
+        },
+        {
+            "index": "705",
+            "cht": "花朵加農炮",
+            "jp": "フルールカノン",
+            "en": "Fleur Cannon"
+        },
+        {
+            "index": "706",
+            "cht": "精神之牙",
+            "jp": "サイコファング",
+            "en": "Psychic Fangs"
+        },
+        {
+            "index": "707",
+            "cht": "跺腳",
+            "jp": "じだんだ",
+            "en": "Stomping Tantrum"
+        },
+        {
+            "index": "708",
+            "cht": "暗影之骨",
+            "jp": "シャドーボーン",
+            "en": "Shadow Bone"
+        },
+        {
+            "index": "709",
+            "cht": "衝岩",
+            "jp": "アクセルロック",
+            "en": "Accelerock"
+        },
+        {
+            "index": "710",
+            "cht": "水流裂破",
+            "jp": "アクアブレイク",
+            "en": "Liquidation"
+        },
+        {
+            "index": "711",
+            "cht": "稜鏡鐳射",
+            "jp": "プリズムレーザー",
+            "en": "Prismatic Laser"
+        },
+        {
+            "index": "712",
+            "cht": "暗影偷盜",
+            "jp": "シャドースチール",
+            "en": "Spectral Thief"
+        },
+        {
+            "index": "713",
+            "cht": "流星閃衝",
+            "jp": "メテオドライブ",
+            "en": "Sunsteel Strike"
+        },
+        {
+            "index": "714",
+            "cht": "暗影之光",
+            "jp": "シャドーレイ",
+            "en": "Moongeist Beam"
+        },
+        {
+            "index": "715",
+            "cht": "淚眼汪汪",
+            "jp": "なみだめ",
+            "en": "Tearful Look"
+        },
+        {
+            "index": "716",
+            "cht": "麻麻刺刺",
+            "jp": "びりびりちくちく",
+            "en": "Zing Zap"
+        },
+        {
+            "index": "717",
+            "cht": "自然之怒",
+            "jp": "しぜんのいかり",
+            "en": "Nature's Madness"
+        },
+        {
+            "index": "718",
+            "cht": "多屬性攻擊",
+            "jp": "マルチアタック",
+            "en": "Multi-Attack"
+        },
+        {
+            "index": "720",
+            "cht": "驚爆大頭",
+            "jp": "ビックリヘッド",
+            "en": "Mind Blown"
+        },
+        {
+            "index": "721",
+            "cht": "等離子閃電拳",
+            "jp": "プラズマフィスト",
+            "en": "Plasma Fists"
+        },
+        {
+            "index": "722",
+            "cht": "光子噴涌",
+            "jp": "フォトンゲイザー",
+            "en": "Photon Geyser"
+        },
+        {
+            "index": "729",
+            "cht": "電電加速",
+            "jp": "ばちばちアクセル",
+            "en": "Zippy Zap"
+        },
+        {
+            "index": "730",
+            "cht": "滔滔衝浪",
+            "jp": "ざぶざぶサーフ",
+            "en": "Splishy Splash"
+        },
+        {
+            "index": "731",
+            "cht": "飄飄墜落",
+            "jp": "ふわふわフォール",
+            "en": "Floaty Fall"
+        },
+        {
+            "index": "732",
+            "cht": "閃閃雷光",
+            "jp": "ピカピカサンダー",
+            "en": "Pika Papow"
+        },
+        {
+            "index": "733",
+            "cht": "活活氣泡",
+            "jp": "いきいきバブル",
+            "en": "Bouncy Bubble"
+        },
+        {
+            "index": "734",
+            "cht": "麻麻電擊",
+            "jp": "びりびりエレキ",
+            "en": "Buzzy Buzz"
+        },
+        {
+            "index": "735",
+            "cht": "熊熊火爆",
+            "jp": "めらめらバーン",
+            "en": "Sizzly Slide"
+        },
+        {
+            "index": "736",
+            "cht": "嘩嘩氣場",
+            "jp": "どばどばオーラ",
+            "en": "Glitzy Glow"
+        },
+        {
+            "index": "737",
+            "cht": "壞壞領域",
+            "jp": "わるわるゾーン",
+            "en": "Baddy Bad"
+        },
+        {
+            "index": "738",
+            "cht": "茁茁轟炸",
+            "jp": "すくすくボンバー",
+            "en": "Sappy Seed"
+        },
+        {
+            "index": "739",
+            "cht": "冰冰霜凍",
+            "jp": "こちこちフロスト",
+            "en": "Freezy Frost"
+        },
+        {
+            "index": "740",
+            "cht": "亮亮風暴",
+            "jp": "きらきらストーム",
+            "en": "Sparkly Swirl"
+        },
+        {
+            "index": "741",
+            "cht": "砰砰擊破",
+            "jp": "ブイブイブレイク",
+            "en": "Veevee Volley"
+        },
+        {
+            "index": "742",
+            "cht": "鋼拳雙擊",
+            "jp": "ダブルパンツァー",
+            "en": "Double Iron Bash"
+        },
+        {
+            "index": "744",
+            "cht": "極巨炮",
+            "jp": "ダイマックスほう",
+            "en": "Dynamax Cannon"
+        },
+        {
+            "index": "745",
+            "cht": "狙擊",
+            "jp": "ねらいうち",
+            "en": "Snipe Shot"
+        },
+        {
+            "index": "746",
+            "cht": "緊咬不放",
+            "jp": "くらいつく",
+            "en": "Jaw Lock"
+        },
+        {
+            "index": "747",
+            "cht": "大快朵頤",
+            "jp": "ほおばる",
+            "en": "Stuff Cheeks"
+        },
+        {
+            "index": "748",
+            "cht": "背水一戰",
+            "jp": "はいすいのじん",
+            "en": "No Retreat"
+        },
+        {
+            "index": "749",
+            "cht": "瀝青射擊",
+            "jp": "タールショット",
+            "en": "Tar Shot"
+        },
+        {
+            "index": "750",
+            "cht": "魔法粉",
+            "jp": "まほうのこな",
+            "en": "Magic Powder"
+        },
+        {
+            "index": "751",
+            "cht": "龍箭",
+            "jp": "ドラゴンアロー",
+            "en": "Dragon Darts"
+        },
+        {
+            "index": "752",
+            "cht": "茶會",
+            "jp": "おちゃかい",
+            "en": "Teatime"
+        },
+        {
+            "index": "753",
+            "cht": "蛸固",
+            "jp": "たこがため",
+            "en": "Octolock"
+        },
+        {
+            "index": "754",
+            "cht": "電喙",
+            "jp": "でんげきくちばし",
+            "en": "Bolt Beak"
+        },
+        {
+            "index": "755",
+            "cht": "鰓咬",
+            "jp": "エラがみ",
+            "en": "Fishious Rend"
+        },
+        {
+            "index": "756",
+            "cht": "換場",
+            "jp": "コートチェンジ",
+            "en": "Court Change"
+        },
+        {
+            "index": "775",
+            "cht": "魂舞烈音爆",
+            "jp": "ソウルビート",
+            "en": "Clangorous Soul"
+        },
+        {
+            "index": "776",
+            "cht": "撲擊",
+            "jp": "ボディプレス",
+            "en": "Body Press"
+        },
+        {
+            "index": "777",
+            "cht": "裝飾",
+            "jp": "デコレーション",
+            "en": "Decorate"
+        },
+        {
+            "index": "778",
+            "cht": "鼓擊",
+            "jp": "ドラムアタック",
+            "en": "Drum Beating"
+        },
+        {
+            "index": "779",
+            "cht": "捕獸夾",
+            "jp": "トラバサミ",
+            "en": "Snap Trap"
+        },
+        {
+            "index": "780",
+            "cht": "火焰球",
+            "jp": "かえんボール",
+            "en": "Pyro Ball"
+        },
+        {
+            "index": "781",
+            "cht": "巨獸斬",
+            "jp": "きょじゅうざん",
+            "en": "Behemoth Blade"
+        },
+        {
+            "index": "782",
+            "cht": "巨獸彈",
+            "jp": "きょじゅうだん",
+            "en": "Behemoth Bash"
+        },
+        {
+            "index": "783",
+            "cht": "氣場輪",
+            "jp": "オーラぐるま",
+            "en": "Aura Wheel"
+        },
+        {
+            "index": "784",
+            "cht": "廣域破壞",
+            "jp": "ワイドブレイカー",
+            "en": "Breaking Swipe"
+        },
+        {
+            "index": "785",
+            "cht": "木枝突刺",
+            "jp": "えだづき",
+            "en": "Branch Poke"
+        },
+        {
+            "index": "786",
+            "cht": "破音",
+            "jp": "オーバードライブ",
+            "en": "Overdrive"
+        },
+        {
+            "index": "787",
+            "cht": "蘋果酸",
+            "jp": "りんごさん",
+            "en": "Apple Acid"
+        },
+        {
+            "index": "788",
+            "cht": "萬有引力",
+            "jp": "Ｇのちから",
+            "en": "Grav Apple"
+        },
+        {
+            "index": "789",
+            "cht": "靈魂衝擊",
+            "jp": "ソウルクラッシュ",
+            "en": "Spirit Break"
+        },
+        {
+            "index": "790",
+            "cht": "神奇蒸汽",
+            "jp": "ワンダースチーム",
+            "en": "Strange Steam"
+        },
+        {
+            "index": "791",
+            "cht": "生命水滴",
+            "jp": "いのちのしずく",
+            "en": "Life Dew"
+        },
+        {
+            "index": "792",
+            "cht": "攔堵",
+            "jp": "ブロッキング",
+            "en": "Obstruct"
+        },
+        {
+            "index": "793",
+            "cht": "假跪真撞",
+            "jp": "どげざつき",
+            "en": "False Surrender"
+        },
+        {
+            "index": "794",
+            "cht": "流星突擊",
+            "jp": "スターアサルト",
+            "en": "Meteor Assault"
+        },
+        {
+            "index": "795",
+            "cht": "無極光束",
+            "jp": "ムゲンダイビーム",
+            "en": "Eternabeam"
+        },
+        {
+            "index": "796",
+            "cht": "鐵蹄光線",
+            "jp": "てっていこうせん",
+            "en": "Steel Beam"
+        },
+        {
+            "index": "797",
+            "cht": "廣域戰力",
+            "jp": "ワイドフォース",
+            "en": "Expanding Force"
+        },
+        {
+            "index": "798",
+            "cht": "鐵滾輪",
+            "jp": "アイアンローラー",
+            "en": "Steel Roller"
+        },
+        {
+            "index": "799",
+            "cht": "鱗射",
+            "jp": "スケイルショット",
+            "en": "Scale Shot"
+        },
+        {
+            "index": "800",
+            "cht": "流星光束",
+            "jp": "メテオビーム",
+            "en": "Meteor Beam"
+        },
+        {
+            "index": "801",
+            "cht": "臂貝武器",
+            "jp": "シェルアームズ",
+            "en": "Shell Side Arm"
+        },
+        {
+            "index": "802",
+            "cht": "薄霧炸裂",
+            "jp": "ミストバースト",
+            "en": "Misty Explosion"
+        },
+        {
+            "index": "803",
+            "cht": "青草滑梯",
+            "jp": "グラススライダー",
+            "en": "Grassy Glide"
+        },
+        {
+            "index": "804",
+            "cht": "電力上升",
+            "jp": "ライジングボルト",
+            "en": "Rising Voltage"
+        },
+        {
+            "index": "805",
+            "cht": "大地波動",
+            "jp": "だいちのはどう",
+            "en": "Terrain Pulse"
+        },
+        {
+            "index": "806",
+            "cht": "爬擊",
+            "jp": "はいよるいちげき",
+            "en": "Skitter Smack"
+        },
+        {
+            "index": "807",
+            "cht": "妒火",
+            "jp": "しっとのほのお",
+            "en": "Burning Jealousy"
+        },
+        {
+            "index": "808",
+            "cht": "洩憤",
+            "jp": "うっぷんばらし",
+            "en": "Lash Out"
+        },
+        {
+            "index": "809",
+            "cht": "靈騷",
+            "jp": "ポルターガイスト",
+            "en": "Poltergeist"
+        },
+        {
+            "index": "810",
+            "cht": "腐蝕氣體",
+            "jp": "ふしょくガス",
+            "en": "Corrosive Gas"
+        },
+        {
+            "index": "811",
+            "cht": "指導",
+            "jp": "コーチング",
+            "en": "Coaching"
+        },
+        {
+            "index": "812",
+            "cht": "快速折返",
+            "jp": "クイックターン",
+            "en": "Flip Turn"
+        },
+        {
+            "index": "813",
+            "cht": "三旋擊",
+            "jp": "トリプルアクセル",
+            "en": "Triple Axel"
+        },
+        {
+            "index": "814",
+            "cht": "雙翼",
+            "jp": "ダブルウイング",
+            "en": "Dual Wingbeat"
+        },
+        {
+            "index": "815",
+            "cht": "熱沙大地",
+            "jp": "ねっさのだいち",
+            "en": "Scorching Sands"
+        },
+        {
+            "index": "816",
+            "cht": "叢林治療",
+            "jp": "ジャングルヒール",
+            "en": "Jungle Healing"
+        },
+        {
+            "index": "817",
+            "cht": "暗冥強擊",
+            "jp": "あんこくきょうだ",
+            "en": "Wicked Blow"
+        },
+        {
+            "index": "818",
+            "cht": "水流連打",
+            "jp": "すいりゅうれんだ",
+            "en": "Surging Strikes"
+        },
+        {
+            "index": "819",
+            "cht": "雷電囚籠",
+            "jp": "サンダープリズン",
+            "en": "Thunder Cage"
+        },
+        {
+            "index": "820",
+            "cht": "巨龍威能",
+            "jp": "ドラゴンエナジー",
+            "en": "Dragon Energy"
+        },
+        {
+            "index": "821",
+            "cht": "冰冷視線",
+            "jp": "いてつくしせん",
+            "en": "Freezing Glare"
+        },
+        {
+            "index": "822",
+            "cht": "怒火中燒",
+            "jp": "もえあがるいかり",
+            "en": "Fiery Wrath"
+        },
+        {
+            "index": "823",
+            "cht": "雷鳴蹴擊",
+            "jp": "らいめいげり",
+            "en": "Thunderous Kick"
+        },
+        {
+            "index": "824",
+            "cht": "雪矛",
+            "jp": "ブリザードランス",
+            "en": "Glacial Lance"
+        },
+        {
+            "index": "825",
+            "cht": "星碎",
+            "jp": "アストラルビット",
+            "en": "Astral Barrage"
+        },
+        {
+            "index": "826",
+            "cht": "詭異咒語",
+            "jp": "ぶきみなじゅもん",
+            "en": "Eerie Spell"
+        }
+    ]
+}

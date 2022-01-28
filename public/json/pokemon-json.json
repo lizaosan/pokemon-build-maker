@@ -1,0 +1,7361 @@
+﻿{
+    "data": [
+        {
+            "ndex": "001",
+            "cht": "妙蛙種子",
+            "jp": "フシギダネ",
+            "en": "Bulbasaur",
+            "jsonid": "1"
+        },
+        {
+            "ndex": "002",
+            "cht": "妙蛙草",
+            "jp": "フシギソウ",
+            "en": "Ivysaur",
+            "jsonid": "2"
+        },
+        {
+            "ndex": "003",
+            "cht": "妙蛙花",
+            "jp": "フシギバナ",
+            "en": "Venusaur",
+            "jsonid": "3"
+        },
+        {
+            "ndex": "003",
+            "cht": "妙蛙花-超級",
+            "jp": "メガフシギバナ",
+            "en": "Mega Venusaur",
+            "jsonid": "10033"
+        },
+        {
+            "ndex": "003",
+            "cht": "妙蛙花-超極巨",
+            "jp": "キョダイマックスフシギバナ",
+            "en": "Gmax Venusaur",
+            "jsonid": "10186"
+        },
+        {
+            "ndex": "004",
+            "cht": "小火龍",
+            "jp": "ヒトカゲ",
+            "en": "Charmander",
+            "jsonid": "4"
+        },
+        {
+            "ndex": "005",
+            "cht": "火恐龍",
+            "jp": "リザード",
+            "en": "Charmeleon",
+            "jsonid": "5"
+        },
+        {
+            "ndex": "006",
+            "cht": "噴火龍",
+            "jp": "リザードン",
+            "en": "Charizard",
+            "jsonid": "6"
+        },
+        {
+            "ndex": "006",
+            "cht": "噴火龍-超級-X",
+            "jp": "メガリザードンX",
+            "en": "Mega Charizard X",
+            "jsonid": "10034"
+        },
+        {
+            "ndex": "006",
+            "cht": "噴火龍-超級-Y",
+            "jp": "メガリザードンY",
+            "en": "Mega Charizard Y",
+            "jsonid": "10035"
+        },
+        {
+            "ndex": "006",
+            "cht": "噴火龍-超極巨",
+            "jp": "キョダイマックスリザードン",
+            "en": "Gmax Charizard",
+            "jsonid": "10187"
+        },
+        {
+            "ndex": "007",
+            "cht": "傑尼龜",
+            "jp": "ゼニガメ",
+            "en": "Squirtle",
+            "jsonid": "7"
+        },
+        {
+            "ndex": "008",
+            "cht": "卡咪龜",
+            "jp": "カメール",
+            "en": "Wartortle",
+            "jsonid": "8"
+        },
+        {
+            "ndex": "009",
+            "cht": "水箭龜",
+            "jp": "カメックス",
+            "en": "Blastoise",
+            "jsonid": "9"
+        },
+        {
+            "ndex": "009",
+            "cht": "水箭龜-超級",
+            "jp": "メガカメックス",
+            "en": "Mega Blastoise",
+            "jsonid": "10036"
+        },
+        {
+            "ndex": "009",
+            "cht": "水箭龜-超極巨",
+            "jp": "キョダイマックスカメックス",
+            "en": "Gmax Blastoise",
+            "jsonid": "10188"
+        },
+        {
+            "ndex": "010",
+            "cht": "綠毛蟲",
+            "jp": "キャタピー",
+            "en": "Caterpie",
+            "jsonid": "10"
+        },
+        {
+            "ndex": "011",
+            "cht": "鐵甲蛹",
+            "jp": "トランセル",
+            "en": "Metapod",
+            "jsonid": "11"
+        },
+        {
+            "ndex": "012",
+            "cht": "巴大蝶",
+            "jp": "バタフリー",
+            "en": "Butterfree",
+            "jsonid": "12"
+        },
+        {
+            "ndex": "012",
+            "cht": "巴大蝶-超極巨",
+            "jp": "キョダイマックスバタフリー",
+            "en": "Gmax Butterfree",
+            "jsonid": "10189"
+        },
+        {
+            "ndex": "013",
+            "cht": "獨角蟲",
+            "jp": "ビードル",
+            "en": "Weedle",
+            "jsonid": "13"
+        },
+        {
+            "ndex": "014",
+            "cht": "鐵殼蛹",
+            "jp": "コクーン",
+            "en": "Kakuna",
+            "jsonid": "14"
+        },
+        {
+            "ndex": "015",
+            "cht": "大針蜂",
+            "jp": "スピアー",
+            "en": "Beedrill",
+            "jsonid": "15"
+        },
+        {
+            "ndex": "015",
+            "cht": "大針蜂-超級",
+            "jp": "メガスピアー",
+            "en": "Mega Beedrill",
+            "jsonid": "10090"
+        },
+        {
+            "ndex": "016",
+            "cht": "波波",
+            "jp": "ポッポ",
+            "en": "Pidgey",
+            "jsonid": "16"
+        },
+        {
+            "ndex": "017",
+            "cht": "比比鳥",
+            "jp": "ピジョン",
+            "en": "Pidgeotto",
+            "jsonid": "17"
+        },
+        {
+            "ndex": "018",
+            "cht": "大比鳥",
+            "jp": "ピジョット",
+            "en": "Pidgeot",
+            "jsonid": "18"
+        },
+        {
+            "ndex": "018",
+            "cht": "大比鳥-超級",
+            "jp": "メガピジョット",
+            "en": "Mega Pidgeot",
+            "jsonid": "10073"
+        },
+        {
+            "ndex": "019",
+            "cht": "小拉達",
+            "jp": "コラッタ",
+            "en": "Rattata",
+            "jsonid": "19"
+        },
+        {
+            "ndex": "019",
+            "cht": "小拉達-阿羅拉",
+            "jp": "アローラコラッタ",
+            "en": "Alolan Rattata",
+            "jsonid": "10091"
+        },
+        {
+            "ndex": "020",
+            "cht": "拉達",
+            "jp": "ラッタ",
+            "en": "Raticate",
+            "jsonid": "20"
+        },
+        {
+            "ndex": "020",
+            "cht": "拉達-阿羅拉",
+            "jp": "アローララッタ",
+            "en": "Alolan Raticate",
+            "jsonid": "10092"
+        },
+        {
+            "ndex": "021",
+            "cht": "烈雀",
+            "jp": "オニスズメ",
+            "en": "Spearow",
+            "jsonid": "21"
+        },
+        {
+            "ndex": "022",
+            "cht": "大嘴雀",
+            "jp": "オニドリル",
+            "en": "Fearow",
+            "jsonid": "22"
+        },
+        {
+            "ndex": "023",
+            "cht": "阿柏蛇",
+            "jp": "アーボ",
+            "en": "Ekans",
+            "jsonid": "23"
+        },
+        {
+            "ndex": "024",
+            "cht": "阿柏怪",
+            "jp": "アーボック",
+            "en": "Arbok",
+            "jsonid": "24"
+        },
+        {
+            "ndex": "025",
+            "cht": "皮卡丘",
+            "jp": "ピカチュウ",
+            "en": "Pikachu",
+            "jsonid": "25"
+        },
+        {
+            "ndex": "025",
+            "cht": "皮卡丘-超極巨",
+            "jp": "キョダイマックスピカチュウ",
+            "en": "Gmax Pikachu",
+            "jsonid": "10190"
+        },
+        {
+            "ndex": "026",
+            "cht": "雷丘",
+            "jp": "ライチュウ",
+            "en": "Raichu",
+            "jsonid": "26"
+        },
+        {
+            "ndex": "026",
+            "cht": "雷丘-阿羅拉",
+            "jp": "アローラライチュウ",
+            "en": "Alolan Raichu",
+            "jsonid": "10100"
+        },
+        {
+            "ndex": "027",
+            "cht": "穿山鼠",
+            "jp": "サンド",
+            "en": "Sandshrew",
+            "jsonid": "27"
+        },
+        {
+            "ndex": "027",
+            "cht": "穿山鼠-阿羅拉",
+            "jp": "アローラサンド",
+            "en": "Alolan Sandshrew",
+            "jsonid": "10101"
+        },
+        {
+            "ndex": "028",
+            "cht": "穿山王",
+            "jp": "サンドパン",
+            "en": "Sandslash",
+            "jsonid": "28"
+        },
+        {
+            "ndex": "028",
+            "cht": "穿山王-阿羅拉",
+            "jp": "アローラサンドパン",
+            "en": "Alolan Sandslash",
+            "jsonid": "10102"
+        },
+        {
+            "ndex": "029",
+            "cht": "尼多蘭",
+            "jp": "ニドラン♀",
+            "en": "Nidoran♀",
+            "jsonid": "29"
+        },
+        {
+            "ndex": "030",
+            "cht": "尼多娜",
+            "jp": "ニドリーナ",
+            "en": "Nidorina",
+            "jsonid": "30"
+        },
+        {
+            "ndex": "031",
+            "cht": "尼多后",
+            "jp": "ニドクイン",
+            "en": "Nidoqueen",
+            "jsonid": "31"
+        },
+        {
+            "ndex": "032",
+            "cht": "尼多朗",
+            "jp": "ニドラン♂",
+            "en": "Nidoran♂",
+            "jsonid": "32"
+        },
+        {
+            "ndex": "033",
+            "cht": "尼多力諾",
+            "jp": "ニドリーノ",
+            "en": "Nidorino",
+            "jsonid": "33"
+        },
+        {
+            "ndex": "034",
+            "cht": "尼多王",
+            "jp": "ニドキング",
+            "en": "Nidoking",
+            "jsonid": "34"
+        },
+        {
+            "ndex": "035",
+            "cht": "皮皮",
+            "jp": "ピッピ",
+            "en": "Clefairy",
+            "jsonid": "35"
+        },
+        {
+            "ndex": "036",
+            "cht": "皮可西",
+            "jp": "ピクシー",
+            "en": "Clefable",
+            "jsonid": "36"
+        },
+        {
+            "ndex": "037",
+            "cht": "六尾",
+            "jp": "ロコン",
+            "en": "Vulpix",
+            "jsonid": "37"
+        },
+        {
+            "ndex": "037",
+            "cht": "六尾-阿羅拉",
+            "jp": "アローラロコン",
+            "en": "Alolan Vulpix",
+            "jsonid": "10103"
+        },
+        {
+            "ndex": "038",
+            "cht": "九尾",
+            "jp": "キュウコン",
+            "en": "Ninetales",
+            "jsonid": "38"
+        },
+        {
+            "ndex": "038",
+            "cht": "九尾-阿羅拉",
+            "jp": "アローラキュウコン",
+            "en": "Alolan Ninetales",
+            "jsonid": "10104"
+        },
+        {
+            "ndex": "039",
+            "cht": "胖丁",
+            "jp": "プリン",
+            "en": "Jigglypuff",
+            "jsonid": "39"
+        },
+        {
+            "ndex": "040",
+            "cht": "胖可丁",
+            "jp": "プクリン",
+            "en": "Wigglytuff",
+            "jsonid": "40"
+        },
+        {
+            "ndex": "041",
+            "cht": "超音蝠",
+            "jp": "ズバット",
+            "en": "Zubat",
+            "jsonid": "41"
+        },
+        {
+            "ndex": "042",
+            "cht": "大嘴蝠",
+            "jp": "ゴルバット",
+            "en": "Golbat",
+            "jsonid": "42"
+        },
+        {
+            "ndex": "043",
+            "cht": "走路草",
+            "jp": "ナゾノクサ",
+            "en": "Oddish",
+            "jsonid": "43"
+        },
+        {
+            "ndex": "044",
+            "cht": "臭臭花",
+            "jp": "クサイハナ",
+            "en": "Gloom",
+            "jsonid": "44"
+        },
+        {
+            "ndex": "045",
+            "cht": "霸王花",
+            "jp": "ラフレシア",
+            "en": "Vileplume",
+            "jsonid": "45"
+        },
+        {
+            "ndex": "046",
+            "cht": "派拉斯",
+            "jp": "パラス",
+            "en": "Paras",
+            "jsonid": "46"
+        },
+        {
+            "ndex": "047",
+            "cht": "派拉斯特",
+            "jp": "パラセクト",
+            "en": "Parasect",
+            "jsonid": "47"
+        },
+        {
+            "ndex": "048",
+            "cht": "毛球",
+            "jp": "コンパン",
+            "en": "Venonat",
+            "jsonid": "48"
+        },
+        {
+            "ndex": "049",
+            "cht": "摩魯蛾",
+            "jp": "モルフォン",
+            "en": "Venomoth",
+            "jsonid": "49"
+        },
+        {
+            "ndex": "050",
+            "cht": "地鼠",
+            "jp": "ディグダ",
+            "en": "Diglett",
+            "jsonid": "50"
+        },
+        {
+            "ndex": "050",
+            "cht": "地鼠-阿羅拉",
+            "jp": "アローラディグダ",
+            "en": "Alolan Diglett",
+            "jsonid": "10105"
+        },
+        {
+            "ndex": "051",
+            "cht": "三地鼠",
+            "jp": "ダグトリオ",
+            "en": "Dugtrio",
+            "jsonid": "51"
+        },
+        {
+            "ndex": "051",
+            "cht": "三地鼠-阿羅拉",
+            "jp": "アローラダグトリオ",
+            "en": "Alolan Dugtrio",
+            "jsonid": "10106"
+        },
+        {
+            "ndex": "052",
+            "cht": "喵喵",
+            "jp": "ニャース",
+            "en": "Meowth",
+            "jsonid": "52"
+        },
+        {
+            "ndex": "052",
+            "cht": "喵喵-阿羅拉",
+            "jp": "アローラニャース",
+            "en": "Alolan Meowth",
+            "jsonid": "10107"
+        },
+        {
+            "ndex": "052",
+            "cht": "喵喵-伽勒爾",
+            "jp": "ガラルニャース",
+            "en": "Galar Meowth",
+            "jsonid": "10158"
+        },
+        {
+            "ndex": "052",
+            "cht": "喵喵-超極巨",
+            "jp": "キョダイマックスニャース",
+            "en": "Gmax Meowth",
+            "jsonid": "10191"
+        },
+        {
+            "ndex": "053",
+            "cht": "貓老大",
+            "jp": "ペルシアン",
+            "en": "Persian",
+            "jsonid": "53"
+        },
+        {
+            "ndex": "053",
+            "cht": "貓老大-阿羅拉",
+            "jp": "アローラペルシアン",
+            "en": "Alolan Persian",
+            "jsonid": "10108"
+        },
+        {
+            "ndex": "054",
+            "cht": "可達鴨",
+            "jp": "コダック",
+            "en": "Psyduck",
+            "jsonid": "54"
+        },
+        {
+            "ndex": "055",
+            "cht": "哥達鴨",
+            "jp": "ゴルダック",
+            "en": "Golduck",
+            "jsonid": "55"
+        },
+        {
+            "ndex": "056",
+            "cht": "猴怪",
+            "jp": "マンキー",
+            "en": "Mankey",
+            "jsonid": "56"
+        },
+        {
+            "ndex": "057",
+            "cht": "火爆猴",
+            "jp": "オコリザル",
+            "en": "Primeape",
+            "jsonid": "57"
+        },
+        {
+            "ndex": "058",
+            "cht": "卡蒂狗",
+            "jp": "ガーディ",
+            "en": "Growlithe",
+            "jsonid": "58"
+        },
+        {
+            "ndex": "059",
+            "cht": "風速狗",
+            "jp": "ウインディ",
+            "en": "Arcanine",
+            "jsonid": "59"
+        },
+        {
+            "ndex": "060",
+            "cht": "蚊香蝌蚪",
+            "jp": "ニョロモ",
+            "en": "Poliwag",
+            "jsonid": "60"
+        },
+        {
+            "ndex": "061",
+            "cht": "蚊香君",
+            "jp": "ニョロゾ",
+            "en": "Poliwhirl",
+            "jsonid": "61"
+        },
+        {
+            "ndex": "062",
+            "cht": "蚊香泳士",
+            "jp": "ニョロボン",
+            "en": "Poliwrath",
+            "jsonid": "62"
+        },
+        {
+            "ndex": "063",
+            "cht": "凱西",
+            "jp": "ケーシィ",
+            "en": "Abra",
+            "jsonid": "63"
+        },
+        {
+            "ndex": "064",
+            "cht": "勇基拉",
+            "jp": "ユンゲラー",
+            "en": "Kadabra",
+            "jsonid": "64"
+        },
+        {
+            "ndex": "065",
+            "cht": "胡地",
+            "jp": "フーディン",
+            "en": "Alakazam",
+            "jsonid": "65"
+        },
+        {
+            "ndex": "065",
+            "cht": "胡地-超級",
+            "jp": "メガフーディン",
+            "en": "Mega Alakazam",
+            "jsonid": "10037"
+        },
+        {
+            "ndex": "066",
+            "cht": "腕力",
+            "jp": "ワンリキー",
+            "en": "Machop",
+            "jsonid": "66"
+        },
+        {
+            "ndex": "067",
+            "cht": "豪力",
+            "jp": "ゴーリキー",
+            "en": "Machoke",
+            "jsonid": "67"
+        },
+        {
+            "ndex": "068",
+            "cht": "怪力",
+            "jp": "カイリキー",
+            "en": "Machamp",
+            "jsonid": "68"
+        },
+        {
+            "ndex": "068",
+            "cht": "怪力-超極巨",
+            "jp": "キョダイマックスカイリキー",
+            "en": "Gmax Machamp",
+            "jsonid": "10192"
+        },
+        {
+            "ndex": "069",
+            "cht": "喇叭芽",
+            "jp": "マダツボミ",
+            "en": "Bellsprout",
+            "jsonid": "69"
+        },
+        {
+            "ndex": "070",
+            "cht": "口呆花",
+            "jp": "ウツドン",
+            "en": "Weepinbell",
+            "jsonid": "70"
+        },
+        {
+            "ndex": "071",
+            "cht": "大食花",
+            "jp": "ウツボット",
+            "en": "Victreebel",
+            "jsonid": "71"
+        },
+        {
+            "ndex": "072",
+            "cht": "瑪瑙水母",
+            "jp": "メノクラゲ",
+            "en": "Tentacool",
+            "jsonid": "72"
+        },
+        {
+            "ndex": "073",
+            "cht": "毒刺水母",
+            "jp": "ドククラゲ",
+            "en": "Tentacruel",
+            "jsonid": "73"
+        },
+        {
+            "ndex": "074",
+            "cht": "小拳石",
+            "jp": "イシツブテ",
+            "en": "Geodude",
+            "jsonid": "74"
+        },
+        {
+            "ndex": "074",
+            "cht": "小拳石-阿羅拉",
+            "jp": "アローライシツブテ",
+            "en": "Alolan Geodude",
+            "jsonid": "10109"
+        },
+        {
+            "ndex": "075",
+            "cht": "隆隆石",
+            "jp": "ゴローン",
+            "en": "Graveler",
+            "jsonid": "75"
+        },
+        {
+            "ndex": "075",
+            "cht": "隆隆石-阿羅拉",
+            "jp": "アローラゴローン",
+            "en": "Alolan Graveler",
+            "jsonid": "10110"
+        },
+        {
+            "ndex": "076",
+            "cht": "隆隆岩",
+            "jp": "ゴローニャ",
+            "en": "Golem",
+            "jsonid": "76"
+        },
+        {
+            "ndex": "076",
+            "cht": "隆隆岩-阿羅拉",
+            "jp": "アローラゴローニャ",
+            "en": "Alolan Golem",
+            "jsonid": "10111"
+        },
+        {
+            "ndex": "077",
+            "cht": "小火馬",
+            "jp": "ポニータ",
+            "en": "Ponyta",
+            "jsonid": "77"
+        },
+        {
+            "ndex": "077",
+            "cht": "小火馬-伽勒爾",
+            "jp": "ガラルポニータ",
+            "en": "Galar Ponyta",
+            "jsonid": "10159"
+        },
+        {
+            "ndex": "078",
+            "cht": "烈焰馬",
+            "jp": "ギャロップ",
+            "en": "Rapidash",
+            "jsonid": "78"
+        },
+        {
+            "ndex": "078",
+            "cht": "烈焰馬-伽勒爾",
+            "jp": "ガラルギャロップ",
+            "en": "Galar Rapidash",
+            "jsonid": "10160"
+        },
+        {
+            "ndex": "079",
+            "cht": "呆呆獸",
+            "jp": "ヤドン",
+            "en": "Slowpoke",
+            "jsonid": "79"
+        },
+        {
+            "ndex": "079",
+            "cht": "呆呆獸-伽勒爾",
+            "jp": "ガラルヤドン",
+            "en": "Galar Slowpoke",
+            "jsonid": "10161"
+        },
+        {
+            "ndex": "080",
+            "cht": "呆殼獸",
+            "jp": "ヤドラン",
+            "en": "Slowbro",
+            "jsonid": "80"
+        },
+        {
+            "ndex": "080",
+            "cht": "呆殼獸-伽勒爾",
+            "jp": "ガラルヤドラン",
+            "en": "Galar Slowbro",
+            "jsonid": "10162"
+        },
+        {
+            "ndex": "081",
+            "cht": "小磁怪",
+            "jp": "コイル",
+            "en": "Magnemite",
+            "jsonid": "81"
+        },
+        {
+            "ndex": "082",
+            "cht": "三合一磁怪",
+            "jp": "レアコイル",
+            "en": "Magneton",
+            "jsonid": "82"
+        },
+        {
+            "ndex": "083",
+            "cht": "大蔥鴨",
+            "jp": "カモネギ",
+            "en": "Farfetch'd",
+            "jsonid": "83"
+        },
+        {
+            "ndex": "083",
+            "cht": "大蔥鴨-伽勒爾",
+            "jp": "ガラルカモネギ",
+            "en": "Galar Farfetch'd",
+            "jsonid": "10163"
+        },
+        {
+            "ndex": "084",
+            "cht": "嘟嘟",
+            "jp": "ドードー",
+            "en": "Doduo",
+            "jsonid": "84"
+        },
+        {
+            "ndex": "085",
+            "cht": "嘟嘟利",
+            "jp": "ドードリオ",
+            "en": "Dodrio",
+            "jsonid": "85"
+        },
+        {
+            "ndex": "086",
+            "cht": "小海獅",
+            "jp": "パウワウ",
+            "en": "Seel",
+            "jsonid": "86"
+        },
+        {
+            "ndex": "087",
+            "cht": "白海獅",
+            "jp": "ジュゴン",
+            "en": "Dewgong",
+            "jsonid": "87"
+        },
+        {
+            "ndex": "088",
+            "cht": "臭泥",
+            "jp": "ベトベター",
+            "en": "Grimer",
+            "jsonid": "88"
+        },
+        {
+            "ndex": "088",
+            "cht": "臭泥-阿羅拉",
+            "jp": "アローラベトベター",
+            "en": "Alolan Grimer",
+            "jsonid": "10112"
+        },
+        {
+            "ndex": "089",
+            "cht": "臭臭泥",
+            "jp": "ベトベトン",
+            "en": "Muk",
+            "jsonid": "89"
+        },
+        {
+            "ndex": "089",
+            "cht": "臭臭泥-阿羅拉",
+            "jp": "アローラベトベトン",
+            "en": "Alolan Muk",
+            "jsonid": "10113"
+        },
+        {
+            "ndex": "090",
+            "cht": "大舌貝",
+            "jp": "シェルダー",
+            "en": "Shellder",
+            "jsonid": "90"
+        },
+        {
+            "ndex": "091",
+            "cht": "刺甲貝",
+            "jp": "パルシェン",
+            "en": "Cloyster",
+            "jsonid": "91"
+        },
+        {
+            "ndex": "092",
+            "cht": "鬼斯",
+            "jp": "ゴース",
+            "en": "Gastly",
+            "jsonid": "92"
+        },
+        {
+            "ndex": "093",
+            "cht": "鬼斯通",
+            "jp": "ゴースト",
+            "en": "Haunter",
+            "jsonid": "93"
+        },
+        {
+            "ndex": "094",
+            "cht": "耿鬼",
+            "jp": "ゲンガー",
+            "en": "Gengar",
+            "jsonid": "94"
+        },
+        {
+            "ndex": "094",
+            "cht": "耿鬼-超級",
+            "jp": "メガゲンガー",
+            "en": "Mega Gengar",
+            "jsonid": "10038"
+        },
+        {
+            "ndex": "094",
+            "cht": "耿鬼-超極巨",
+            "jp": "キョダイマックスゲンガー",
+            "en": "Gmax Gengar",
+            "jsonid": "10193"
+        },
+        {
+            "ndex": "095",
+            "cht": "大岩蛇",
+            "jp": "イワーク",
+            "en": "Onix",
+            "jsonid": "95"
+        },
+        {
+            "ndex": "096",
+            "cht": "催眠貘",
+            "jp": "スリープ",
+            "en": "Drowzee",
+            "jsonid": "96"
+        },
+        {
+            "ndex": "097",
+            "cht": "引夢貘人",
+            "jp": "スリーパー",
+            "en": "Hypno",
+            "jsonid": "97"
+        },
+        {
+            "ndex": "098",
+            "cht": "大鉗蟹",
+            "jp": "クラブ",
+            "en": "Krabby",
+            "jsonid": "98"
+        },
+        {
+            "ndex": "099",
+            "cht": "巨鉗蟹",
+            "jp": "キングラー",
+            "en": "Kingler",
+            "jsonid": "99"
+        },
+        {
+            "ndex": "099",
+            "cht": "巨鉗蟹-超極巨",
+            "jp": "キョダイマックスキングラー",
+            "en": "Gmax Kingler",
+            "jsonid": "10194"
+        },
+        {
+            "ndex": "100",
+            "cht": "霹靂電球",
+            "jp": "ビリリダマ",
+            "en": "Voltorb",
+            "jsonid": "100"
+        },
+        {
+            "ndex": "101",
+            "cht": "頑皮雷彈",
+            "jp": "マルマイン",
+            "en": "Electrode",
+            "jsonid": "101"
+        },
+        {
+            "ndex": "102",
+            "cht": "蛋蛋",
+            "jp": "タマタマ",
+            "en": "Exeggcute",
+            "jsonid": "102"
+        },
+        {
+            "ndex": "103",
+            "cht": "椰蛋樹",
+            "jp": "ナッシー",
+            "en": "Exeggutor",
+            "jsonid": "103"
+        },
+        {
+            "ndex": "103",
+            "cht": "椰蛋樹-阿羅拉",
+            "jp": "アローラナッシー",
+            "en": "Alolan Exeggutor",
+            "jsonid": "10114"
+        },
+        {
+            "ndex": "104",
+            "cht": "卡拉卡拉",
+            "jp": "カラカラ",
+            "en": "Cubone",
+            "jsonid": "104"
+        },
+        {
+            "ndex": "105",
+            "cht": "嘎啦嘎啦",
+            "jp": "ガラガラ",
+            "en": "Marowak",
+            "jsonid": "105"
+        },
+        {
+            "ndex": "105",
+            "cht": "嘎啦嘎啦-阿羅拉",
+            "jp": "アローラガラガラ",
+            "en": "Alolan Marowak",
+            "jsonid": "10115"
+        },
+        {
+            "ndex": "106",
+            "cht": "飛腿郎",
+            "jp": "サワムラー",
+            "en": "Hitmonlee",
+            "jsonid": "106"
+        },
+        {
+            "ndex": "107",
+            "cht": "快拳郎",
+            "jp": "エビワラー",
+            "en": "Hitmonchan",
+            "jsonid": "107"
+        },
+        {
+            "ndex": "108",
+            "cht": "大舌頭",
+            "jp": "ベロリンガ",
+            "en": "Lickitung",
+            "jsonid": "108"
+        },
+        {
+            "ndex": "109",
+            "cht": "瓦斯彈",
+            "jp": "ドガース",
+            "en": "Koffing",
+            "jsonid": "109"
+        },
+        {
+            "ndex": "110",
+            "cht": "雙彈瓦斯",
+            "jp": "マタドガス",
+            "en": "Weezing",
+            "jsonid": "110"
+        },
+        {
+            "ndex": "110",
+            "cht": "雙彈瓦斯-伽勒爾",
+            "jp": "ガラルマタドガス",
+            "en": "Galar Weezing",
+            "jsonid": "10164"
+        },
+        {
+            "ndex": "111",
+            "cht": "獨角犀牛",
+            "jp": "サイホーン",
+            "en": "Rhyhorn",
+            "jsonid": "111"
+        },
+        {
+            "ndex": "112",
+            "cht": "鑽角犀獸",
+            "jp": "サイドン",
+            "en": "Rhydon",
+            "jsonid": "112"
+        },
+        {
+            "ndex": "113",
+            "cht": "吉利蛋",
+            "jp": "ラッキー",
+            "en": "Chansey",
+            "jsonid": "113"
+        },
+        {
+            "ndex": "114",
+            "cht": "蔓藤怪",
+            "jp": "モンジャラ",
+            "en": "Tangela",
+            "jsonid": "114"
+        },
+        {
+            "ndex": "115",
+            "cht": "袋獸",
+            "jp": "ガルーラ",
+            "en": "Kangaskhan",
+            "jsonid": "115"
+        },
+        {
+            "ndex": "115",
+            "cht": "袋獸-超級",
+            "jp": "メガガルーラ",
+            "en": "Mega Kangaskhan",
+            "jsonid": "10039"
+        },
+        {
+            "ndex": "116",
+            "cht": "墨海馬",
+            "jp": "タッツー",
+            "en": "Horsea",
+            "jsonid": "116"
+        },
+        {
+            "ndex": "117",
+            "cht": "海刺龍",
+            "jp": "シードラ",
+            "en": "Seadra",
+            "jsonid": "117"
+        },
+        {
+            "ndex": "118",
+            "cht": "角金魚",
+            "jp": "トサキント",
+            "en": "Goldeen",
+            "jsonid": "118"
+        },
+        {
+            "ndex": "119",
+            "cht": "金魚王",
+            "jp": "アズマオウ",
+            "en": "Seaking",
+            "jsonid": "119"
+        },
+        {
+            "ndex": "120",
+            "cht": "海星星",
+            "jp": "ヒトデマン",
+            "en": "Staryu",
+            "jsonid": "120"
+        },
+        {
+            "ndex": "121",
+            "cht": "寶石海星",
+            "jp": "スターミー",
+            "en": "Starmie",
+            "jsonid": "121"
+        },
+        {
+            "ndex": "122",
+            "cht": "魔牆人偶",
+            "jp": "バリヤード",
+            "en": "Mr. Mime",
+            "jsonid": "122"
+        },
+        {
+            "ndex": "122",
+            "cht": "魔牆人偶-伽勒爾",
+            "jp": "ガラルバリヤード",
+            "en": "Galar Mr. Mime",
+            "jsonid": "10165"
+        },
+        {
+            "ndex": "123",
+            "cht": "飛天螳螂",
+            "jp": "ストライク",
+            "en": "Scyther",
+            "jsonid": "123"
+        },
+        {
+            "ndex": "124",
+            "cht": "迷唇姐",
+            "jp": "ルージュラ",
+            "en": "Jynx",
+            "jsonid": "124"
+        },
+        {
+            "ndex": "125",
+            "cht": "電擊獸",
+            "jp": "エレブー",
+            "en": "Electabuzz",
+            "jsonid": "125"
+        },
+        {
+            "ndex": "126",
+            "cht": "鴨嘴火獸",
+            "jp": "ブーバー",
+            "en": "Magmar",
+            "jsonid": "126"
+        },
+        {
+            "ndex": "127",
+            "cht": "凱羅斯",
+            "jp": "カイロス",
+            "en": "Pinsir",
+            "jsonid": "127"
+        },
+        {
+            "ndex": "127",
+            "cht": "凱羅斯-超級",
+            "jp": "メガカイロス",
+            "en": "Mega Pinsir",
+            "jsonid": "10040"
+        },
+        {
+            "ndex": "128",
+            "cht": "肯泰羅",
+            "jp": "ケンタロス",
+            "en": "Tauros",
+            "jsonid": "128"
+        },
+        {
+            "ndex": "129",
+            "cht": "鯉魚王",
+            "jp": "コイキング",
+            "en": "Magikarp",
+            "jsonid": "129"
+        },
+        {
+            "ndex": "130",
+            "cht": "暴鯉龍",
+            "jp": "ギャラドス",
+            "en": "Gyarados",
+            "jsonid": "130"
+        },
+        {
+            "ndex": "130",
+            "cht": "暴鯉龍-超級",
+            "jp": "メガギャラドス",
+            "en": "Mega Gyarados",
+            "jsonid": "10041"
+        },
+        {
+            "ndex": "131",
+            "cht": "拉普拉斯",
+            "jp": "ラプラス",
+            "en": "Lapras",
+            "jsonid": "131"
+        },
+        {
+            "ndex": "131",
+            "cht": "拉普拉斯-超極巨",
+            "jp": "キョダイマックスラプラス",
+            "en": "Gmax Lapras",
+            "jsonid": "10195"
+        },
+        {
+            "ndex": "132",
+            "cht": "百變怪",
+            "jp": "メタモン",
+            "en": "Ditto",
+            "jsonid": "132"
+        },
+        {
+            "ndex": "133",
+            "cht": "伊布",
+            "jp": "イーブイ",
+            "en": "Eevee",
+            "jsonid": "133"
+        },
+        {
+            "ndex": "133",
+            "cht": "伊布-超極巨",
+            "jp": "キョダイマックスイーブイ",
+            "en": "Gmax Eevee",
+            "jsonid": "10196"
+        },
+        {
+            "ndex": "134",
+            "cht": "水伊布",
+            "jp": "シャワーズ",
+            "en": "Vaporeon",
+            "jsonid": "134"
+        },
+        {
+            "ndex": "135",
+            "cht": "雷伊布",
+            "jp": "サンダース",
+            "en": "Jolteon",
+            "jsonid": "135"
+        },
+        {
+            "ndex": "136",
+            "cht": "火伊布",
+            "jp": "ブースター",
+            "en": "Flareon",
+            "jsonid": "136"
+        },
+        {
+            "ndex": "137",
+            "cht": "多邊獸",
+            "jp": "ポリゴン",
+            "en": "Porygon",
+            "jsonid": "137"
+        },
+        {
+            "ndex": "138",
+            "cht": "菊石獸",
+            "jp": "オムナイト",
+            "en": "Omanyte",
+            "jsonid": "138"
+        },
+        {
+            "ndex": "139",
+            "cht": "多刺菊石獸",
+            "jp": "オムスター",
+            "en": "Omastar",
+            "jsonid": "139"
+        },
+        {
+            "ndex": "140",
+            "cht": "化石盔",
+            "jp": "カブト",
+            "en": "Kabuto",
+            "jsonid": "140"
+        },
+        {
+            "ndex": "141",
+            "cht": "鐮刀盔",
+            "jp": "カブトプス",
+            "en": "Kabutops",
+            "jsonid": "141"
+        },
+        {
+            "ndex": "142",
+            "cht": "化石翼龍",
+            "jp": "プテラ",
+            "en": "Aerodactyl",
+            "jsonid": "142"
+        },
+        {
+            "ndex": "142",
+            "cht": "化石翼龍-超級",
+            "jp": "メガプテラ",
+            "en": "Mega Aerodactyl",
+            "jsonid": "10042"
+        },
+        {
+            "ndex": "143",
+            "cht": "卡比獸",
+            "jp": "カビゴン",
+            "en": "Snorlax",
+            "jsonid": "143"
+        },
+        {
+            "ndex": "143",
+            "cht": "卡比獸-超極巨",
+            "jp": "キョダイマックスカビゴン",
+            "en": "Gmax Snorlax",
+            "jsonid": "10197"
+        },
+        {
+            "ndex": "144",
+            "cht": "急凍鳥",
+            "jp": "フリーザー",
+            "en": "Articuno",
+            "jsonid": "144"
+        },
+        {
+            "ndex": "144",
+            "cht": "急凍鳥-伽勒爾",
+            "jp": "ガラルフリーザー",
+            "en": "Galar Articuno",
+            "jsonid": "10166"
+        },
+        {
+            "ndex": "145",
+            "cht": "閃電鳥",
+            "jp": "サンダー",
+            "en": "Zapdos",
+            "jsonid": "145"
+        },
+        {
+            "ndex": "145",
+            "cht": "閃電鳥-伽勒爾",
+            "jp": "ガラルサンダー",
+            "en": "Galar Zapdos",
+            "jsonid": "10167"
+        },
+        {
+            "ndex": "146",
+            "cht": "火焰鳥",
+            "jp": "ファイヤー",
+            "en": "Moltres",
+            "jsonid": "146"
+        },
+        {
+            "ndex": "146",
+            "cht": "火焰鳥-伽勒爾",
+            "jp": "ガラルファイヤー",
+            "en": "Galar Moltres",
+            "jsonid": "10168"
+        },
+        {
+            "ndex": "147",
+            "cht": "迷你龍",
+            "jp": "ミニリュウ",
+            "en": "Dratini",
+            "jsonid": "147"
+        },
+        {
+            "ndex": "148",
+            "cht": "哈克龍",
+            "jp": "ハクリュー",
+            "en": "Dragonair",
+            "jsonid": "148"
+        },
+        {
+            "ndex": "149",
+            "cht": "快龍",
+            "jp": "カイリュー",
+            "en": "Dragonite",
+            "jsonid": "149"
+        },
+        {
+            "ndex": "150",
+            "cht": "超夢",
+            "jp": "ミュウツー",
+            "en": "Mewtwo",
+            "jsonid": "150"
+        },
+        {
+            "ndex": "150",
+            "cht": "超夢-超級-X",
+            "jp": "メガミュウツーX",
+            "en": "Mega Mewtwo X",
+            "jsonid": "10043"
+        },
+        {
+            "ndex": "150",
+            "cht": "超夢-超級-Y",
+            "jp": "メガミュウツーY",
+            "en": "Mega Mewtwo Y",
+            "jsonid": "10044"
+        },
+        {
+            "ndex": "151",
+            "cht": "夢幻",
+            "jp": "ミュウ",
+            "en": "Mew",
+            "jsonid": "151"
+        },
+        {
+            "ndex": "152",
+            "cht": "菊草葉",
+            "jp": "チコリータ",
+            "en": "Chikorita",
+            "jsonid": "152"
+        },
+        {
+            "ndex": "153",
+            "cht": "月桂葉",
+            "jp": "ベイリーフ",
+            "en": "Bayleef",
+            "jsonid": "153"
+        },
+        {
+            "ndex": "154",
+            "cht": "大竺葵",
+            "jp": "メガニウム",
+            "en": "Meganium",
+            "jsonid": "154"
+        },
+        {
+            "ndex": "155",
+            "cht": "火球鼠",
+            "jp": "ヒノアラシ",
+            "en": "Cyndaquil",
+            "jsonid": "155"
+        },
+        {
+            "ndex": "156",
+            "cht": "火岩鼠",
+            "jp": "マグマラシ",
+            "en": "Quilava",
+            "jsonid": "156"
+        },
+        {
+            "ndex": "157",
+            "cht": "火爆獸",
+            "jp": "バクフーン",
+            "en": "Typhlosion",
+            "jsonid": "157"
+        },
+        {
+            "ndex": "158",
+            "cht": "小鋸鱷",
+            "jp": "ワニノコ",
+            "en": "Totodile",
+            "jsonid": "158"
+        },
+        {
+            "ndex": "159",
+            "cht": "藍鱷",
+            "jp": "アリゲイツ",
+            "en": "Croconaw",
+            "jsonid": "159"
+        },
+        {
+            "ndex": "160",
+            "cht": "大力鱷",
+            "jp": "オーダイル",
+            "en": "Feraligatr",
+            "jsonid": "160"
+        },
+        {
+            "ndex": "161",
+            "cht": "尾立",
+            "jp": "オタチ",
+            "en": "Sentret",
+            "jsonid": "161"
+        },
+        {
+            "ndex": "162",
+            "cht": "大尾立",
+            "jp": "オオタチ",
+            "en": "Furret",
+            "jsonid": "162"
+        },
+        {
+            "ndex": "163",
+            "cht": "咕咕",
+            "jp": "ホーホー",
+            "en": "Hoothoot",
+            "jsonid": "163"
+        },
+        {
+            "ndex": "164",
+            "cht": "貓頭夜鷹",
+            "jp": "ヨルノズク",
+            "en": "Noctowl",
+            "jsonid": "164"
+        },
+        {
+            "ndex": "165",
+            "cht": "芭瓢蟲",
+            "jp": "レディバ",
+            "en": "Ledyba",
+            "jsonid": "165"
+        },
+        {
+            "ndex": "166",
+            "cht": "安瓢蟲",
+            "jp": "レディアン",
+            "en": "Ledian",
+            "jsonid": "166"
+        },
+        {
+            "ndex": "167",
+            "cht": "圓絲蛛",
+            "jp": "イトマル",
+            "en": "Spinarak",
+            "jsonid": "167"
+        },
+        {
+            "ndex": "168",
+            "cht": "阿利多斯",
+            "jp": "アリアドス",
+            "en": "Ariados",
+            "jsonid": "168"
+        },
+        {
+            "ndex": "169",
+            "cht": "叉字蝠",
+            "jp": "クロバット",
+            "en": "Crobat",
+            "jsonid": "169"
+        },
+        {
+            "ndex": "170",
+            "cht": "燈籠魚",
+            "jp": "チョンチー",
+            "en": "Chinchou",
+            "jsonid": "170"
+        },
+        {
+            "ndex": "171",
+            "cht": "電燈怪",
+            "jp": "ランターン",
+            "en": "Lanturn",
+            "jsonid": "171"
+        },
+        {
+            "ndex": "172",
+            "cht": "皮丘",
+            "jp": "ピチュー",
+            "en": "Pichu",
+            "jsonid": "172"
+        },
+        {
+            "ndex": "173",
+            "cht": "皮寶寶",
+            "jp": "ピィ",
+            "en": "Cleffa",
+            "jsonid": "173"
+        },
+        {
+            "ndex": "174",
+            "cht": "寶寶丁",
+            "jp": "ププリン",
+            "en": "Igglybuff",
+            "jsonid": "174"
+        },
+        {
+            "ndex": "175",
+            "cht": "波克比",
+            "jp": "トゲピー",
+            "en": "Togepi",
+            "jsonid": "175"
+        },
+        {
+            "ndex": "176",
+            "cht": "波克基古",
+            "jp": "トゲチック",
+            "en": "Togetic",
+            "jsonid": "176"
+        },
+        {
+            "ndex": "177",
+            "cht": "天然雀",
+            "jp": "ネイティ",
+            "en": "Natu",
+            "jsonid": "177"
+        },
+        {
+            "ndex": "178",
+            "cht": "天然鳥",
+            "jp": "ネイティオ",
+            "en": "Xatu",
+            "jsonid": "178"
+        },
+        {
+            "ndex": "179",
+            "cht": "咩利羊",
+            "jp": "メリープ",
+            "en": "Mareep",
+            "jsonid": "179"
+        },
+        {
+            "ndex": "180",
+            "cht": "茸茸羊",
+            "jp": "モココ",
+            "en": "Flaaffy",
+            "jsonid": "180"
+        },
+        {
+            "ndex": "181",
+            "cht": "電龍",
+            "jp": "デンリュウ",
+            "en": "Ampharos",
+            "jsonid": "181"
+        },
+        {
+            "ndex": "181",
+            "cht": "電龍-超級",
+            "jp": "メガデンリュウ",
+            "en": "Mega Ampharos",
+            "jsonid": "10045"
+        },
+        {
+            "ndex": "182",
+            "cht": "美麗花",
+            "jp": "キレイハナ",
+            "en": "Bellossom",
+            "jsonid": "182"
+        },
+        {
+            "ndex": "183",
+            "cht": "瑪力露",
+            "jp": "マリル",
+            "en": "Marill",
+            "jsonid": "183"
+        },
+        {
+            "ndex": "184",
+            "cht": "瑪力露麗",
+            "jp": "マリルリ",
+            "en": "Azumarill",
+            "jsonid": "184"
+        },
+        {
+            "ndex": "185",
+            "cht": "樹才怪",
+            "jp": "ウソッキー",
+            "en": "Sudowoodo",
+            "jsonid": "185"
+        },
+        {
+            "ndex": "186",
+            "cht": "蚊香蛙皇",
+            "jp": "ニョロトノ",
+            "en": "Politoed",
+            "jsonid": "186"
+        },
+        {
+            "ndex": "187",
+            "cht": "毽子草",
+            "jp": "ハネッコ",
+            "en": "Hoppip",
+            "jsonid": "187"
+        },
+        {
+            "ndex": "188",
+            "cht": "毽子花",
+            "jp": "ポポッコ",
+            "en": "Skiploom",
+            "jsonid": "188"
+        },
+        {
+            "ndex": "189",
+            "cht": "毽子棉",
+            "jp": "ワタッコ",
+            "en": "Jumpluff",
+            "jsonid": "189"
+        },
+        {
+            "ndex": "190",
+            "cht": "長尾怪手",
+            "jp": "エイパム",
+            "en": "Aipom",
+            "jsonid": "190"
+        },
+        {
+            "ndex": "191",
+            "cht": "向日種子",
+            "jp": "ヒマナッツ",
+            "en": "Sunkern",
+            "jsonid": "191"
+        },
+        {
+            "ndex": "192",
+            "cht": "向日花怪",
+            "jp": "キマワリ",
+            "en": "Sunflora",
+            "jsonid": "192"
+        },
+        {
+            "ndex": "193",
+            "cht": "蜻蜻蜓",
+            "jp": "ヤンヤンマ",
+            "en": "Yanma",
+            "jsonid": "193"
+        },
+        {
+            "ndex": "194",
+            "cht": "烏波",
+            "jp": "ウパー",
+            "en": "Wooper",
+            "jsonid": "194"
+        },
+        {
+            "ndex": "195",
+            "cht": "沼王",
+            "jp": "ヌオー",
+            "en": "Quagsire",
+            "jsonid": "195"
+        },
+        {
+            "ndex": "196",
+            "cht": "太陽伊布",
+            "jp": "エーフィ",
+            "en": "Espeon",
+            "jsonid": "196"
+        },
+        {
+            "ndex": "197",
+            "cht": "月亮伊布",
+            "jp": "ブラッキー",
+            "en": "Umbreon",
+            "jsonid": "197"
+        },
+        {
+            "ndex": "198",
+            "cht": "黑暗鴉",
+            "jp": "ヤミカラス",
+            "en": "Murkrow",
+            "jsonid": "198"
+        },
+        {
+            "ndex": "199",
+            "cht": "呆呆王",
+            "jp": "ヤドキング",
+            "en": "Slowking",
+            "jsonid": "199"
+        },
+        {
+            "ndex": "199",
+            "cht": "呆呆王-伽勒爾",
+            "jp": "ガラルヤドキング",
+            "en": "Galar Slowking",
+            "jsonid": "10169"
+        },
+        {
+            "ndex": "200",
+            "cht": "夢妖",
+            "jp": "ムウマ",
+            "en": "Misdreavus",
+            "jsonid": "200"
+        },
+        {
+            "ndex": "201",
+            "cht": "未知圖騰",
+            "jp": "アンノーン",
+            "en": "Unown",
+            "jsonid": "201"
+        },
+        {
+            "ndex": "202",
+            "cht": "果然翁",
+            "jp": "ソーナンス",
+            "en": "Wobbuffet",
+            "jsonid": "202"
+        },
+        {
+            "ndex": "203",
+            "cht": "麒麟奇",
+            "jp": "キリンリキ",
+            "en": "Girafarig",
+            "jsonid": "203"
+        },
+        {
+            "ndex": "204",
+            "cht": "榛果球",
+            "jp": "クヌギダマ",
+            "en": "Pineco",
+            "jsonid": "204"
+        },
+        {
+            "ndex": "205",
+            "cht": "佛烈托斯",
+            "jp": "フォレトス",
+            "en": "Forretress",
+            "jsonid": "205"
+        },
+        {
+            "ndex": "206",
+            "cht": "土龍弟弟",
+            "jp": "ノコッチ",
+            "en": "Dunsparce",
+            "jsonid": "206"
+        },
+        {
+            "ndex": "207",
+            "cht": "天蠍",
+            "jp": "グライガー",
+            "en": "Gligar",
+            "jsonid": "207"
+        },
+        {
+            "ndex": "208",
+            "cht": "大鋼蛇",
+            "jp": "ハガネール",
+            "en": "Steelix",
+            "jsonid": "208"
+        },
+        {
+            "ndex": "209",
+            "cht": "布魯",
+            "jp": "ブルー",
+            "en": "Snubbull",
+            "jsonid": "209"
+        },
+        {
+            "ndex": "210",
+            "cht": "布魯皇",
+            "jp": "グランブル",
+            "en": "Granbull",
+            "jsonid": "210"
+        },
+        {
+            "ndex": "211",
+            "cht": "千針魚",
+            "jp": "ハリーセン",
+            "en": "Qwilfish",
+            "jsonid": "211"
+        },
+        {
+            "ndex": "212",
+            "cht": "巨鉗螳螂",
+            "jp": "ハッサム",
+            "en": "Scizor",
+            "jsonid": "212"
+        },
+        {
+            "ndex": "212",
+            "cht": "巨鉗螳螂-超級",
+            "jp": "メガハッサム",
+            "en": "Mega Scizor",
+            "jsonid": "10046"
+        },
+        {
+            "ndex": "213",
+            "cht": "壺壺",
+            "jp": "ツボツボ",
+            "en": "Shuckle",
+            "jsonid": "213"
+        },
+        {
+            "ndex": "214",
+            "cht": "赫拉克羅斯",
+            "jp": "ヘラクロス",
+            "en": "Heracross",
+            "jsonid": "214"
+        },
+        {
+            "ndex": "214",
+            "cht": "赫拉克羅斯-超級",
+            "jp": "メガヘラクロス",
+            "en": "Mega Heracross",
+            "jsonid": "10047"
+        },
+        {
+            "ndex": "215",
+            "cht": "狃拉",
+            "jp": "ニューラ",
+            "en": "Sneasel",
+            "jsonid": "215"
+        },
+        {
+            "ndex": "216",
+            "cht": "熊寶寶",
+            "jp": "ヒメグマ",
+            "en": "Teddiursa",
+            "jsonid": "216"
+        },
+        {
+            "ndex": "217",
+            "cht": "圈圈熊",
+            "jp": "リングマ",
+            "en": "Ursaring",
+            "jsonid": "217"
+        },
+        {
+            "ndex": "218",
+            "cht": "熔岩蟲",
+            "jp": "マグマッグ",
+            "en": "Slugma",
+            "jsonid": "218"
+        },
+        {
+            "ndex": "219",
+            "cht": "熔岩蝸牛",
+            "jp": "マグカルゴ",
+            "en": "Magcargo",
+            "jsonid": "219"
+        },
+        {
+            "ndex": "220",
+            "cht": "小山豬",
+            "jp": "ウリムー",
+            "en": "Swinub",
+            "jsonid": "220"
+        },
+        {
+            "ndex": "221",
+            "cht": "長毛豬",
+            "jp": "イノムー",
+            "en": "Piloswine",
+            "jsonid": "221"
+        },
+        {
+            "ndex": "222",
+            "cht": "太陽珊瑚",
+            "jp": "サニーゴ",
+            "en": "Corsola",
+            "jsonid": "222"
+        },
+        {
+            "ndex": "222",
+            "cht": "太陽珊瑚-伽勒爾",
+            "jp": "ガラルサニーゴ",
+            "en": "Galar Corsola",
+            "jsonid": "10170"
+        },
+        {
+            "ndex": "223",
+            "cht": "鐵炮魚",
+            "jp": "テッポウオ",
+            "en": "Remoraid",
+            "jsonid": "223"
+        },
+        {
+            "ndex": "224",
+            "cht": "章魚桶",
+            "jp": "オクタン",
+            "en": "Octillery",
+            "jsonid": "224"
+        },
+        {
+            "ndex": "225",
+            "cht": "信使鳥",
+            "jp": "デリバード",
+            "en": "Delibird",
+            "jsonid": "225"
+        },
+        {
+            "ndex": "226",
+            "cht": "巨翅飛魚",
+            "jp": "マンタイン",
+            "en": "Mantine",
+            "jsonid": "226"
+        },
+        {
+            "ndex": "227",
+            "cht": "盔甲鳥",
+            "jp": "エアームド",
+            "en": "Skarmory",
+            "jsonid": "227"
+        },
+        {
+            "ndex": "228",
+            "cht": "戴魯比",
+            "jp": "デルビル",
+            "en": "Houndour",
+            "jsonid": "228"
+        },
+        {
+            "ndex": "229",
+            "cht": "黑魯加",
+            "jp": "ヘルガー",
+            "en": "Houndoom",
+            "jsonid": "229"
+        },
+        {
+            "ndex": "230",
+            "cht": "刺龍王",
+            "jp": "キングドラ",
+            "en": "Kingdra",
+            "jsonid": "230"
+        },
+        {
+            "ndex": "231",
+            "cht": "小小象",
+            "jp": "ゴマゾウ",
+            "en": "Phanpy",
+            "jsonid": "231"
+        },
+        {
+            "ndex": "232",
+            "cht": "頓甲",
+            "jp": "ドンファン",
+            "en": "Donphan",
+            "jsonid": "232"
+        },
+        {
+            "ndex": "233",
+            "cht": "多邊獸Ⅱ",
+            "jp": "ポリゴン２",
+            "en": "Porygon2",
+            "jsonid": "233"
+        },
+        {
+            "ndex": "234",
+            "cht": "驚角鹿",
+            "jp": "オドシシ",
+            "en": "Stantler",
+            "jsonid": "234"
+        },
+        {
+            "ndex": "235",
+            "cht": "圖圖犬",
+            "jp": "ドーブル",
+            "en": "Smeargle",
+            "jsonid": "235"
+        },
+        {
+            "ndex": "236",
+            "cht": "無畏小子",
+            "jp": "バルキー",
+            "en": "Tyrogue",
+            "jsonid": "236"
+        },
+        {
+            "ndex": "237",
+            "cht": "戰舞郎",
+            "jp": "カポエラー",
+            "en": "Hitmontop",
+            "jsonid": "237"
+        },
+        {
+            "ndex": "238",
+            "cht": "迷唇娃",
+            "jp": "ムチュール",
+            "en": "Smoochum",
+            "jsonid": "238"
+        },
+        {
+            "ndex": "239",
+            "cht": "電擊怪",
+            "jp": "エレキッド",
+            "en": "Elekid",
+            "jsonid": "239"
+        },
+        {
+            "ndex": "240",
+            "cht": "鴨嘴寶寶",
+            "jp": "ブビィ",
+            "en": "Magby",
+            "jsonid": "240"
+        },
+        {
+            "ndex": "241",
+            "cht": "大奶罐",
+            "jp": "ミルタンク",
+            "en": "Miltank",
+            "jsonid": "241"
+        },
+        {
+            "ndex": "242",
+            "cht": "幸福蛋",
+            "jp": "ハピナス",
+            "en": "Blissey",
+            "jsonid": "242"
+        },
+        {
+            "ndex": "243",
+            "cht": "雷公",
+            "jp": "ライコウ",
+            "en": "Raikou",
+            "jsonid": "243"
+        },
+        {
+            "ndex": "244",
+            "cht": "炎帝",
+            "jp": "エンテイ",
+            "en": "Entei",
+            "jsonid": "244"
+        },
+        {
+            "ndex": "245",
+            "cht": "水君",
+            "jp": "スイクン",
+            "en": "Suicune",
+            "jsonid": "245"
+        },
+        {
+            "ndex": "246",
+            "cht": "幼基拉斯",
+            "jp": "ヨーギラス",
+            "en": "Larvitar",
+            "jsonid": "246"
+        },
+        {
+            "ndex": "247",
+            "cht": "沙基拉斯",
+            "jp": "サナギラス",
+            "en": "Pupitar",
+            "jsonid": "247"
+        },
+        {
+            "ndex": "248",
+            "cht": "班基拉斯",
+            "jp": "バンギラス",
+            "en": "Tyranitar",
+            "jsonid": "248"
+        },
+        {
+            "ndex": "248",
+            "cht": "班基拉斯-超級",
+            "jp": "メガバンギラス",
+            "en": "Mega Tyranitar",
+            "jsonid": "10049"
+        },
+        {
+            "ndex": "249",
+            "cht": "洛奇亞",
+            "jp": "ルギア",
+            "en": "Lugia",
+            "jsonid": "249"
+        },
+        {
+            "ndex": "250",
+            "cht": "鳳王",
+            "jp": "ホウオウ",
+            "en": "Ho-Oh",
+            "jsonid": "250"
+        },
+        {
+            "ndex": "251",
+            "cht": "時拉比",
+            "jp": "セレビィ",
+            "en": "Celebi",
+            "jsonid": "251"
+        },
+        {
+            "ndex": "252",
+            "cht": "木守宮",
+            "jp": "キモリ",
+            "en": "Treecko",
+            "jsonid": "252"
+        },
+        {
+            "ndex": "253",
+            "cht": "森林蜥蜴",
+            "jp": "ジュプトル",
+            "en": "Grovyle",
+            "jsonid": "253"
+        },
+        {
+            "ndex": "254",
+            "cht": "蜥蜴王",
+            "jp": "ジュカイン",
+            "en": "Sceptile",
+            "jsonid": "254"
+        },
+        {
+            "ndex": "254",
+            "cht": "蜥蜴王-超級",
+            "jp": "メガジュカイン",
+            "en": "Mega Sceptile",
+            "jsonid": "10065"
+        },
+        {
+            "ndex": "255",
+            "cht": "火稚雞",
+            "jp": "アチャモ",
+            "en": "Torchic",
+            "jsonid": "255"
+        },
+        {
+            "ndex": "256",
+            "cht": "力壯雞",
+            "jp": "ワカシャモ",
+            "en": "Combusken",
+            "jsonid": "256"
+        },
+        {
+            "ndex": "257",
+            "cht": "火焰雞",
+            "jp": "バシャーモ",
+            "en": "Blaziken",
+            "jsonid": "257"
+        },
+        {
+            "ndex": "257",
+            "cht": "火焰雞-超級",
+            "jp": "メガバシャーモ",
+            "en": "Mega Blaziken",
+            "jsonid": "10050"
+        },
+        {
+            "ndex": "258",
+            "cht": "水躍魚",
+            "jp": "ミズゴロウ",
+            "en": "Mudkip",
+            "jsonid": "258"
+        },
+        {
+            "ndex": "259",
+            "cht": "沼躍魚",
+            "jp": "ヌマクロー",
+            "en": "Marshtomp",
+            "jsonid": "259"
+        },
+        {
+            "ndex": "260",
+            "cht": "巨沼怪",
+            "jp": "ラグラージ",
+            "en": "Swampert",
+            "jsonid": "260"
+        },
+        {
+            "ndex": "260",
+            "cht": "巨沼怪-超級",
+            "jp": "メガラグラージ",
+            "en": "Mega Swampert",
+            "jsonid": "10064"
+        },
+        {
+            "ndex": "261",
+            "cht": "土狼犬",
+            "jp": "ポチエナ",
+            "en": "Poochyena",
+            "jsonid": "261"
+        },
+        {
+            "ndex": "262",
+            "cht": "大狼犬",
+            "jp": "グラエナ",
+            "en": "Mightyena",
+            "jsonid": "262"
+        },
+        {
+            "ndex": "263",
+            "cht": "蛇紋熊",
+            "jp": "ジグザグマ",
+            "en": "Zigzagoon",
+            "jsonid": "263"
+        },
+        {
+            "ndex": "263",
+            "cht": "蛇紋熊-伽勒爾",
+            "jp": "ガラルジグザグマ",
+            "en": "Galar Zigzagoon",
+            "jsonid": "10171"
+        },
+        {
+            "ndex": "264",
+            "cht": "直衝熊",
+            "jp": "マッスグマ",
+            "en": "Linoone",
+            "jsonid": "264"
+        },
+        {
+            "ndex": "264",
+            "cht": "直衝熊-伽勒爾",
+            "jp": "ガラルマッスグマ",
+            "en": "Galar Linoone",
+            "jsonid": "10172"
+        },
+        {
+            "ndex": "265",
+            "cht": "刺尾蟲",
+            "jp": "ケムッソ",
+            "en": "Wurmple",
+            "jsonid": "265"
+        },
+        {
+            "ndex": "266",
+            "cht": "甲殼繭",
+            "jp": "カラサリス",
+            "en": "Silcoon",
+            "jsonid": "266"
+        },
+        {
+            "ndex": "267",
+            "cht": "狩獵鳳蝶",
+            "jp": "アゲハント",
+            "en": "Beautifly",
+            "jsonid": "267"
+        },
+        {
+            "ndex": "268",
+            "cht": "盾甲繭",
+            "jp": "マユルド",
+            "en": "Cascoon",
+            "jsonid": "268"
+        },
+        {
+            "ndex": "269",
+            "cht": "毒粉蛾",
+            "jp": "ドクケイル",
+            "en": "Dustox",
+            "jsonid": "269"
+        },
+        {
+            "ndex": "270",
+            "cht": "蓮葉童子",
+            "jp": "ハスボー",
+            "en": "Lotad",
+            "jsonid": "270"
+        },
+        {
+            "ndex": "271",
+            "cht": "蓮帽小童",
+            "jp": "ハスブレロ",
+            "en": "Lombre",
+            "jsonid": "271"
+        },
+        {
+            "ndex": "272",
+            "cht": "樂天河童",
+            "jp": "ルンパッパ",
+            "en": "Ludicolo",
+            "jsonid": "272"
+        },
+        {
+            "ndex": "273",
+            "cht": "橡實果",
+            "jp": "タネボー",
+            "en": "Seedot",
+            "jsonid": "273"
+        },
+        {
+            "ndex": "274",
+            "cht": "長鼻葉",
+            "jp": "コノハナ",
+            "en": "Nuzleaf",
+            "jsonid": "274"
+        },
+        {
+            "ndex": "275",
+            "cht": "狡猾天狗",
+            "jp": "ダーテング",
+            "en": "Shiftry",
+            "jsonid": "275"
+        },
+        {
+            "ndex": "276",
+            "cht": "傲骨燕",
+            "jp": "スバメ",
+            "en": "Taillow",
+            "jsonid": "276"
+        },
+        {
+            "ndex": "277",
+            "cht": "大王燕",
+            "jp": "オオスバメ",
+            "en": "Swellow",
+            "jsonid": "277"
+        },
+        {
+            "ndex": "278",
+            "cht": "長翅鷗",
+            "jp": "キャモメ",
+            "en": "Wingull",
+            "jsonid": "278"
+        },
+        {
+            "ndex": "279",
+            "cht": "大嘴鷗",
+            "jp": "ペリッパー",
+            "en": "Pelipper",
+            "jsonid": "279"
+        },
+        {
+            "ndex": "280",
+            "cht": "拉魯拉絲",
+            "jp": "ラルトス",
+            "en": "Ralts",
+            "jsonid": "280"
+        },
+        {
+            "ndex": "281",
+            "cht": "奇魯莉安",
+            "jp": "キルリア",
+            "en": "Kirlia",
+            "jsonid": "281"
+        },
+        {
+            "ndex": "282",
+            "cht": "沙奈朵",
+            "jp": "サーナイト",
+            "en": "Gardevoir",
+            "jsonid": "282"
+        },
+        {
+            "ndex": "282",
+            "cht": "沙奈朵-超級",
+            "jp": "メガサーナイト",
+            "en": "Mega Gardevoir",
+            "jsonid": "10051"
+        },
+        {
+            "ndex": "283",
+            "cht": "溜溜糖球",
+            "jp": "アメタマ",
+            "en": "Surskit",
+            "jsonid": "283"
+        },
+        {
+            "ndex": "284",
+            "cht": "雨翅蛾",
+            "jp": "アメモース",
+            "en": "Masquerain",
+            "jsonid": "284"
+        },
+        {
+            "ndex": "285",
+            "cht": "蘑蘑菇",
+            "jp": "キノココ",
+            "en": "Shroomish",
+            "jsonid": "285"
+        },
+        {
+            "ndex": "286",
+            "cht": "斗笠菇",
+            "jp": "キノガッサ",
+            "en": "Breloom",
+            "jsonid": "286"
+        },
+        {
+            "ndex": "287",
+            "cht": "懶人獺",
+            "jp": "ナマケロ",
+            "en": "Slakoth",
+            "jsonid": "287"
+        },
+        {
+            "ndex": "288",
+            "cht": "過動猿",
+            "jp": "ヤルキモノ",
+            "en": "Vigoroth",
+            "jsonid": "288"
+        },
+        {
+            "ndex": "289",
+            "cht": "請假王",
+            "jp": "ケッキング",
+            "en": "Slaking",
+            "jsonid": "289"
+        },
+        {
+            "ndex": "290",
+            "cht": "土居忍士",
+            "jp": "ツチニン",
+            "en": "Nincada",
+            "jsonid": "290"
+        },
+        {
+            "ndex": "291",
+            "cht": "鐵面忍者",
+            "jp": "テッカニン",
+            "en": "Ninjask",
+            "jsonid": "291"
+        },
+        {
+            "ndex": "292",
+            "cht": "脫殼忍者",
+            "jp": "ヌケニン",
+            "en": "Shedinja",
+            "jsonid": "292"
+        },
+        {
+            "ndex": "293",
+            "cht": "咕妞妞",
+            "jp": "ゴニョニョ",
+            "en": "Whismur",
+            "jsonid": "293"
+        },
+        {
+            "ndex": "294",
+            "cht": "吼爆彈",
+            "jp": "ドゴーム",
+            "en": "Loudred",
+            "jsonid": "294"
+        },
+        {
+            "ndex": "295",
+            "cht": "爆音怪",
+            "jp": "バクオング",
+            "en": "Exploud",
+            "jsonid": "295"
+        },
+        {
+            "ndex": "296",
+            "cht": "幕下力士",
+            "jp": "マクノシタ",
+            "en": "Makuhita",
+            "jsonid": "296"
+        },
+        {
+            "ndex": "297",
+            "cht": "鐵掌力士",
+            "jp": "ハリテヤマ",
+            "en": "Hariyama",
+            "jsonid": "297"
+        },
+        {
+            "ndex": "298",
+            "cht": "露力麗",
+            "jp": "ルリリ",
+            "en": "Azurill",
+            "jsonid": "298"
+        },
+        {
+            "ndex": "299",
+            "cht": "朝北鼻",
+            "jp": "ノズパス",
+            "en": "Nosepass",
+            "jsonid": "299"
+        },
+        {
+            "ndex": "300",
+            "cht": "向尾喵",
+            "jp": "エネコ",
+            "en": "Skitty",
+            "jsonid": "300"
+        },
+        {
+            "ndex": "301",
+            "cht": "優雅貓",
+            "jp": "エネコロロ",
+            "en": "Delcatty",
+            "jsonid": "301"
+        },
+        {
+            "ndex": "302",
+            "cht": "勾魂眼",
+            "jp": "ヤミラミ",
+            "en": "Sableye",
+            "jsonid": "302"
+        },
+        {
+            "ndex": "302",
+            "cht": "勾魂眼-超級",
+            "jp": "メガヤミラミ",
+            "en": "Mega Sableye",
+            "jsonid": "10066"
+        },
+        {
+            "ndex": "303",
+            "cht": "大嘴娃-超級",
+            "jp": "メガクチート",
+            "en": "Mega Mawile",
+            "jsonid": "10052"
+        },
+        {
+            "ndex": "304",
+            "cht": "可可多拉",
+            "jp": "ココドラ",
+            "en": "Aron",
+            "jsonid": "304"
+        },
+        {
+            "ndex": "305",
+            "cht": "可多拉",
+            "jp": "コドラ",
+            "en": "Lairon",
+            "jsonid": "305"
+        },
+        {
+            "ndex": "306",
+            "cht": "波士可多拉",
+            "jp": "ボスゴドラ",
+            "en": "Aggron",
+            "jsonid": "306"
+        },
+        {
+            "ndex": "306",
+            "cht": "波士可多拉-超級",
+            "jp": "メガボスゴドラ",
+            "en": "Mega Aggron",
+            "jsonid": "10053"
+        },
+        {
+            "ndex": "307",
+            "cht": "瑪沙那",
+            "jp": "アサナン",
+            "en": "Meditite",
+            "jsonid": "307"
+        },
+        {
+            "ndex": "308",
+            "cht": "恰雷姆",
+            "jp": "チャーレム",
+            "en": "Medicham",
+            "jsonid": "308"
+        },
+        {
+            "ndex": "308",
+            "cht": "恰雷姆-超級",
+            "jp": "メガチャーレム",
+            "en": "Mega Medicham",
+            "jsonid": "10054"
+        },
+        {
+            "ndex": "309",
+            "cht": "落雷獸",
+            "jp": "ラクライ",
+            "en": "Electrike",
+            "jsonid": "309"
+        },
+        {
+            "ndex": "310",
+            "cht": "雷電獸",
+            "jp": "ライボルト",
+            "en": "Manectric",
+            "jsonid": "310"
+        },
+        {
+            "ndex": "310",
+            "cht": "雷電獸-超級",
+            "jp": "メガライボルト",
+            "en": "Mega Manectric",
+            "jsonid": "10055"
+        },
+        {
+            "ndex": "311",
+            "cht": "正電拍拍",
+            "jp": "プラスル",
+            "en": "Plusle",
+            "jsonid": "311"
+        },
+        {
+            "ndex": "312",
+            "cht": "負電拍拍",
+            "jp": "マイナン",
+            "en": "Minun",
+            "jsonid": "312"
+        },
+        {
+            "ndex": "313",
+            "cht": "電螢蟲",
+            "jp": "バルビート",
+            "en": "Volbeat",
+            "jsonid": "313"
+        },
+        {
+            "ndex": "314",
+            "cht": "甜甜螢",
+            "jp": "イルミーゼ",
+            "en": "Illumise",
+            "jsonid": "314"
+        },
+        {
+            "ndex": "315",
+            "cht": "毒薔薇",
+            "jp": "ロゼリア",
+            "en": "Roselia",
+            "jsonid": "315"
+        },
+        {
+            "ndex": "316",
+            "cht": "溶食獸",
+            "jp": "ゴクリン",
+            "en": "Gulpin",
+            "jsonid": "316"
+        },
+        {
+            "ndex": "317",
+            "cht": "吞食獸",
+            "jp": "マルノーム",
+            "en": "Swalot",
+            "jsonid": "317"
+        },
+        {
+            "ndex": "318",
+            "cht": "利牙魚",
+            "jp": "キバニア",
+            "en": "Carvanha",
+            "jsonid": "318"
+        },
+        {
+            "ndex": "319",
+            "cht": "巨牙鯊",
+            "jp": "サメハダー",
+            "en": "Sharpedo",
+            "jsonid": "319"
+        },
+        {
+            "ndex": "319",
+            "cht": "巨牙鯊-超級",
+            "jp": "メガサメハダー",
+            "en": "Mega Sharpedo",
+            "jsonid": "10070"
+        },
+        {
+            "ndex": "320",
+            "cht": "吼吼鯨",
+            "jp": "ホエルコ",
+            "en": "Wailmer",
+            "jsonid": "320"
+        },
+        {
+            "ndex": "321",
+            "cht": "吼鯨王",
+            "jp": "ホエルオー",
+            "en": "Wailord",
+            "jsonid": "321"
+        },
+        {
+            "ndex": "322",
+            "cht": "呆火駝",
+            "jp": "ドンメル",
+            "en": "Numel",
+            "jsonid": "322"
+        },
+        {
+            "ndex": "323",
+            "cht": "噴火駝",
+            "jp": "バクーダ",
+            "en": "Camerupt",
+            "jsonid": "323"
+        },
+        {
+            "ndex": "323",
+            "cht": "噴火駝-超級",
+            "jp": "メガバクーダ",
+            "en": "Mega Camerupt",
+            "jsonid": "10087"
+        },
+        {
+            "ndex": "324",
+            "cht": "煤炭龜",
+            "jp": "コータス",
+            "en": "Torkoal",
+            "jsonid": "324"
+        },
+        {
+            "ndex": "325",
+            "cht": "跳跳豬",
+            "jp": "バネブー",
+            "en": "Spoink",
+            "jsonid": "325"
+        },
+        {
+            "ndex": "326",
+            "cht": "噗噗豬",
+            "jp": "ブーピッグ",
+            "en": "Grumpig",
+            "jsonid": "326"
+        },
+        {
+            "ndex": "327",
+            "cht": "晃晃斑",
+            "jp": "パッチール",
+            "en": "Spinda",
+            "jsonid": "327"
+        },
+        {
+            "ndex": "328",
+            "cht": "大顎蟻",
+            "jp": "ナックラー",
+            "en": "Trapinch",
+            "jsonid": "328"
+        },
+        {
+            "ndex": "329",
+            "cht": "超音波幼蟲",
+            "jp": "ビブラーバ",
+            "en": "Vibrava",
+            "jsonid": "329"
+        },
+        {
+            "ndex": "330",
+            "cht": "沙漠蜻蜓",
+            "jp": "フライゴン",
+            "en": "Flygon",
+            "jsonid": "330"
+        },
+        {
+            "ndex": "331",
+            "cht": "刺球仙人掌",
+            "jp": "サボネア",
+            "en": "Cacnea",
+            "jsonid": "331"
+        },
+        {
+            "ndex": "332",
+            "cht": "夢歌仙人掌",
+            "jp": "ノクタス",
+            "en": "Cacturne",
+            "jsonid": "332"
+        },
+        {
+            "ndex": "333",
+            "cht": "青綿鳥",
+            "jp": "チルット",
+            "en": "Swablu",
+            "jsonid": "333"
+        },
+        {
+            "ndex": "334",
+            "cht": "七夕青鳥",
+            "jp": "チルタリス",
+            "en": "Altaria",
+            "jsonid": "334"
+        },
+        {
+            "ndex": "334",
+            "cht": "七夕青鳥-超級",
+            "jp": "メガチルタリス",
+            "en": "Altaria",
+            "jsonid": "10067"
+        },
+        {
+            "ndex": "335",
+            "cht": "貓鼬斬",
+            "jp": "ザングース",
+            "en": "Zangoose",
+            "jsonid": "335"
+        },
+        {
+            "ndex": "336",
+            "cht": "飯匙蛇",
+            "jp": "ハブネーク",
+            "en": "Seviper",
+            "jsonid": "336"
+        },
+        {
+            "ndex": "337",
+            "cht": "月石",
+            "jp": "ルナトーン",
+            "en": "Lunatone",
+            "jsonid": "337"
+        },
+        {
+            "ndex": "338",
+            "cht": "太陽岩",
+            "jp": "ソルロック",
+            "en": "Solrock",
+            "jsonid": "338"
+        },
+        {
+            "ndex": "339",
+            "cht": "泥泥鰍",
+            "jp": "ドジョッチ",
+            "en": "Barboach",
+            "jsonid": "339"
+        },
+        {
+            "ndex": "340",
+            "cht": "鯰魚王",
+            "jp": "ナマズン",
+            "en": "Whiscash",
+            "jsonid": "340"
+        },
+        {
+            "ndex": "341",
+            "cht": "龍蝦小兵",
+            "jp": "ヘイガニ",
+            "en": "Corphish",
+            "jsonid": "341"
+        },
+        {
+            "ndex": "342",
+            "cht": "鐵螯龍蝦",
+            "jp": "シザリガー",
+            "en": "Crawdaunt",
+            "jsonid": "342"
+        },
+        {
+            "ndex": "343",
+            "cht": "天秤偶",
+            "jp": "ヤジロン",
+            "en": "Baltoy",
+            "jsonid": "343"
+        },
+        {
+            "ndex": "344",
+            "cht": "念力土偶",
+            "jp": "ネンドール",
+            "en": "Claydol",
+            "jsonid": "344"
+        },
+        {
+            "ndex": "345",
+            "cht": "觸手百合",
+            "jp": "リリーラ",
+            "en": "Lileep",
+            "jsonid": "345"
+        },
+        {
+            "ndex": "346",
+            "cht": "搖籃百合",
+            "jp": "ユレイドル",
+            "en": "Cradily",
+            "jsonid": "346"
+        },
+        {
+            "ndex": "347",
+            "cht": "太古羽蟲",
+            "jp": "アノプス",
+            "en": "Anorith",
+            "jsonid": "347"
+        },
+        {
+            "ndex": "348",
+            "cht": "太古盔甲",
+            "jp": "アーマルド",
+            "en": "Armaldo",
+            "jsonid": "348"
+        },
+        {
+            "ndex": "349",
+            "cht": "醜醜魚",
+            "jp": "ヒンバス",
+            "en": "Feebas",
+            "jsonid": "349"
+        },
+        {
+            "ndex": "350",
+            "cht": "美納斯",
+            "jp": "ミロカロス",
+            "en": "Milotic",
+            "jsonid": "350"
+        },
+        {
+            "ndex": "351",
+            "cht": "飄浮泡泡",
+            "jp": "ポワルン",
+            "en": "Castform",
+            "jsonid": "351"
+        },
+        {
+            "ndex": "352",
+            "cht": "變隱龍",
+            "jp": "カクレオン",
+            "en": "Kecleon",
+            "jsonid": "352"
+        },
+        {
+            "ndex": "353",
+            "cht": "怨影娃娃",
+            "jp": "カゲボウズ",
+            "en": "Shuppet",
+            "jsonid": "353"
+        },
+        {
+            "ndex": "354",
+            "cht": "詛咒娃娃",
+            "jp": "ジュペッタ",
+            "en": "Banette",
+            "jsonid": "354"
+        },
+        {
+            "ndex": "354",
+            "cht": "詛咒娃娃-超級",
+            "jp": "メガジュペッタ",
+            "en": "Mega Banette",
+            "jsonid": "10056"
+        },
+        {
+            "ndex": "355",
+            "cht": "夜巡靈",
+            "jp": "ヨマワル",
+            "en": "Duskull",
+            "jsonid": "355"
+        },
+        {
+            "ndex": "356",
+            "cht": "彷徨夜靈",
+            "jp": "サマヨール",
+            "en": "Dusclops",
+            "jsonid": "356"
+        },
+        {
+            "ndex": "357",
+            "cht": "熱帶龍",
+            "jp": "トロピウス",
+            "en": "Tropius",
+            "jsonid": "357"
+        },
+        {
+            "ndex": "358",
+            "cht": "風鈴鈴",
+            "jp": "チリーン",
+            "en": "Chimecho",
+            "jsonid": "358"
+        },
+        {
+            "ndex": "359",
+            "cht": "阿勃梭魯",
+            "jp": "アブソル",
+            "en": "Absol",
+            "jsonid": "359"
+        },
+        {
+            "ndex": "359",
+            "cht": "阿勃梭魯-超級",
+            "jp": "メガアブソル",
+            "en": "Mega Absol",
+            "jsonid": "10057"
+        },
+        {
+            "ndex": "360",
+            "cht": "小果然",
+            "jp": "ソーナノ",
+            "en": "Wynaut",
+            "jsonid": "360"
+        },
+        {
+            "ndex": "361",
+            "cht": "雪童子",
+            "jp": "ユキワラシ",
+            "en": "Snorunt",
+            "jsonid": "361"
+        },
+        {
+            "ndex": "362",
+            "cht": "冰鬼護",
+            "jp": "オニゴーリ",
+            "en": "Glalie",
+            "jsonid": "362"
+        },
+        {
+            "ndex": "362",
+            "cht": "冰鬼護-超級",
+            "jp": "メガオニゴーリ",
+            "en": "Mega Glalie",
+            "jsonid": "10074"
+        },
+        {
+            "ndex": "363",
+            "cht": "海豹球",
+            "jp": "タマザラシ",
+            "en": "Spheal",
+            "jsonid": "363"
+        },
+        {
+            "ndex": "364",
+            "cht": "海魔獅",
+            "jp": "トドグラー",
+            "en": "Sealeo",
+            "jsonid": "364"
+        },
+        {
+            "ndex": "365",
+            "cht": "帝牙海獅",
+            "jp": "トドゼルガ",
+            "en": "Walrein",
+            "jsonid": "365"
+        },
+        {
+            "ndex": "366",
+            "cht": "珍珠貝",
+            "jp": "パールル",
+            "en": "Clamperl",
+            "jsonid": "366"
+        },
+        {
+            "ndex": "367",
+            "cht": "獵斑魚",
+            "jp": "ハンテール",
+            "en": "Huntail",
+            "jsonid": "367"
+        },
+        {
+            "ndex": "368",
+            "cht": "櫻花魚",
+            "jp": "サクラビス",
+            "en": "Gorebyss",
+            "jsonid": "368"
+        },
+        {
+            "ndex": "369",
+            "cht": "古空棘魚",
+            "jp": "ジーランス",
+            "en": "Relicanth",
+            "jsonid": "369"
+        },
+        {
+            "ndex": "370",
+            "cht": "愛心魚",
+            "jp": "ラブカス",
+            "en": "Luvdisc",
+            "jsonid": "370"
+        },
+        {
+            "ndex": "371",
+            "cht": "寶貝龍",
+            "jp": "タツベイ",
+            "en": "Bagon",
+            "jsonid": "371"
+        },
+        {
+            "ndex": "372",
+            "cht": "甲殼龍",
+            "jp": "コモルー",
+            "en": "Shelgon",
+            "jsonid": "372"
+        },
+        {
+            "ndex": "373",
+            "cht": "暴飛龍",
+            "jp": "ボーマンダ",
+            "en": "Salamence",
+            "jsonid": "373"
+        },
+        {
+            "ndex": "373",
+            "cht": "暴飛龍-超級",
+            "jp": "メガボーマンダ",
+            "en": "Mega Salamence",
+            "jsonid": "10089"
+        },
+        {
+            "ndex": "374",
+            "cht": "鐵啞鈴",
+            "jp": "ダンバル",
+            "en": "Beldum",
+            "jsonid": "374"
+        },
+        {
+            "ndex": "375",
+            "cht": "金屬怪",
+            "jp": "メタング",
+            "en": "Metang",
+            "jsonid": "375"
+        },
+        {
+            "ndex": "376",
+            "cht": "巨金怪",
+            "jp": "メタグロス",
+            "en": "Metagross",
+            "jsonid": "376"
+        },
+        {
+            "ndex": "376",
+            "cht": "巨金怪-超級",
+            "jp": "メガメタグロス",
+            "en": "Mega Metagross",
+            "jsonid": "10076"
+        },
+        {
+            "ndex": "377",
+            "cht": "雷吉洛克",
+            "jp": "レジロック",
+            "en": "Regirock",
+            "jsonid": "377"
+        },
+        {
+            "ndex": "378",
+            "cht": "雷吉艾斯",
+            "jp": "レジアイス",
+            "en": "Regice",
+            "jsonid": "378"
+        },
+        {
+            "ndex": "379",
+            "cht": "雷吉斯奇魯",
+            "jp": "レジスチル",
+            "en": "Registeel",
+            "jsonid": "379"
+        },
+        {
+            "ndex": "380",
+            "cht": "拉帝亞斯",
+            "jp": "ラティアス",
+            "en": "Latias",
+            "jsonid": "380"
+        },
+        {
+            "ndex": "380",
+            "cht": "拉帝亞斯-超級",
+            "jp": "メガラティアス",
+            "en": "Mega Latias",
+            "jsonid": "10062"
+        },
+        {
+            "ndex": "381",
+            "cht": "拉帝歐斯",
+            "jp": "ラティオス",
+            "en": "Latios",
+            "jsonid": "381"
+        },
+        {
+            "ndex": "381",
+            "cht": "拉帝歐斯-超級",
+            "jp": "メガラティオス",
+            "en": "Mega Latios",
+            "jsonid": "10063"
+        },
+        {
+            "ndex": "382",
+            "cht": "蓋歐卡",
+            "jp": "ンシカイオーガ",
+            "en": "Kyogre",
+            "jsonid": "382"
+        },
+        {
+            "ndex": "382",
+            "cht": "蓋歐卡-原始回歸",
+            "jp": "ゲンシカイオーガ",
+            "en": "Prime Kyogre",
+            "jsonid": "10077"
+        },
+        {
+            "ndex": "383",
+            "cht": "固拉多",
+            "jp": "グラードン",
+            "en": "Groudon",
+            "jsonid": "383"
+        },
+        {
+            "ndex": "383",
+            "cht": "固拉多-原始回歸",
+            "jp": "ゲンシグラードン",
+            "en": "Prime Groudon",
+            "jsonid": "10078"
+        },
+        {
+            "ndex": "384",
+            "cht": "烈空坐",
+            "jp": "レックウザ",
+            "en": "Rayquaza",
+            "jsonid": "384"
+        },
+        {
+            "ndex": "384",
+            "cht": "烈空坐-超級",
+            "jp": "メガレックウザ",
+            "en": "Mega Rayquaza",
+            "jsonid": "10079"
+        },
+        {
+            "ndex": "385",
+            "cht": "基拉祈",
+            "jp": "ジラーチ",
+            "en": "Jirachi",
+            "jsonid": "385"
+        },
+        {
+            "ndex": "386",
+            "cht": "代歐奇希斯",
+            "jp": "デオキシス",
+            "en": "Deoxys",
+            "jsonid": "386"
+        },
+        {
+            "ndex": "386",
+            "cht": "代歐奇希斯-攻擊",
+            "jp": "アタックデオキシス",
+            "en": "Attack Deoxys",
+            "jsonid": "10001"
+        },
+        {
+            "ndex": "386",
+            "cht": "代歐奇希斯-防禦",
+            "jp": "ディフェンスデオキシス",
+            "en": "Defense Deoxys",
+            "jsonid": "10002"
+        },
+        {
+            "ndex": "386",
+            "cht": "代歐奇希斯-速度",
+            "jp": "スピードデオキシス",
+            "en": "Speed Deoxys",
+            "jsonid": "10003"
+        },
+        {
+            "ndex": "387",
+            "cht": "草苗龜",
+            "jp": "ナエトル",
+            "en": "Turtwig",
+            "jsonid": "387"
+        },
+        {
+            "ndex": "388",
+            "cht": "樹林龜",
+            "jp": "ハヤシガメ",
+            "en": "Grotle",
+            "jsonid": "388"
+        },
+        {
+            "ndex": "389",
+            "cht": "土台龜",
+            "jp": "ドダイトス",
+            "en": "Torterra",
+            "jsonid": "389"
+        },
+        {
+            "ndex": "390",
+            "cht": "小火焰猴",
+            "jp": "ヒコザル",
+            "en": "Chimchar",
+            "jsonid": "390"
+        },
+        {
+            "ndex": "391",
+            "cht": "猛火猴",
+            "jp": "モウカザル",
+            "en": "Monferno",
+            "jsonid": "391"
+        },
+        {
+            "ndex": "392",
+            "cht": "烈焰猴",
+            "jp": "ゴウカザル",
+            "en": "Infernape",
+            "jsonid": "392"
+        },
+        {
+            "ndex": "393",
+            "cht": "波加曼",
+            "jp": "ポッチャマ",
+            "en": "Piplup",
+            "jsonid": "393"
+        },
+        {
+            "ndex": "394",
+            "cht": "波皇子",
+            "jp": "ポッタイシ",
+            "en": "Prinplup",
+            "jsonid": "394"
+        },
+        {
+            "ndex": "395",
+            "cht": "帝王拿波",
+            "jp": "エンペルト",
+            "en": "Empoleon",
+            "jsonid": "395"
+        },
+        {
+            "ndex": "396",
+            "cht": "姆克兒",
+            "jp": "ムックル",
+            "en": "Starly",
+            "jsonid": "396"
+        },
+        {
+            "ndex": "397",
+            "cht": "姆克鳥",
+            "jp": "ムクバード",
+            "en": "Staravia",
+            "jsonid": "397"
+        },
+        {
+            "ndex": "398",
+            "cht": "姆克鷹",
+            "jp": "ムクホーク",
+            "en": "Staraptor",
+            "jsonid": "398"
+        },
+        {
+            "ndex": "399",
+            "cht": "大牙狸",
+            "jp": "ビッパ",
+            "en": "Bidoof",
+            "jsonid": "399"
+        },
+        {
+            "ndex": "400",
+            "cht": "大尾狸",
+            "jp": "ビーダル",
+            "en": "Bibarel",
+            "jsonid": "400"
+        },
+        {
+            "ndex": "401",
+            "cht": "圓法師",
+            "jp": "コロボーシ",
+            "en": "Kricketot",
+            "jsonid": "401"
+        },
+        {
+            "ndex": "402",
+            "cht": "音箱蟀",
+            "jp": "コロトック",
+            "en": "Kricketune",
+            "jsonid": "402"
+        },
+        {
+            "ndex": "403",
+            "cht": "小貓怪",
+            "jp": "コリンク",
+            "en": "Shinx",
+            "jsonid": "403"
+        },
+        {
+            "ndex": "404",
+            "cht": "勒克貓",
+            "jp": "ルクシオ",
+            "en": "Luxio",
+            "jsonid": "404"
+        },
+        {
+            "ndex": "405",
+            "cht": "倫琴貓",
+            "jp": "レントラー",
+            "en": "Luxray",
+            "jsonid": "405"
+        },
+        {
+            "ndex": "406",
+            "cht": "含羞苞",
+            "jp": "スボミー",
+            "en": "Budew",
+            "jsonid": "406"
+        },
+        {
+            "ndex": "407",
+            "cht": "羅絲雷朵",
+            "jp": "ロズレイド",
+            "en": "Roserade",
+            "jsonid": "407"
+        },
+        {
+            "ndex": "408",
+            "cht": "頭蓋龍",
+            "jp": "ズガイドス",
+            "en": "Cranidos",
+            "jsonid": "408"
+        },
+        {
+            "ndex": "409",
+            "cht": "戰槌龍",
+            "jp": "ラムパルド",
+            "en": "Rampardos",
+            "jsonid": "409"
+        },
+        {
+            "ndex": "410",
+            "cht": "盾甲龍",
+            "jp": "タテトプス",
+            "en": "Shieldon",
+            "jsonid": "410"
+        },
+        {
+            "ndex": "411",
+            "cht": "護城龍",
+            "jp": "トリデプス",
+            "en": "Bastiodon",
+            "jsonid": "411"
+        },
+        {
+            "ndex": "412",
+            "cht": "結草兒",
+            "jp": "ミノムッチ",
+            "en": "Burmy",
+            "jsonid": "412"
+        },
+        {
+            "ndex": "413",
+            "cht": "結草貴婦-草木",
+            "jp": "くさきミノマダム",
+            "en": "Plant Cloak Wormadam",
+            "jsonid": "413"
+        },
+        {
+            "ndex": "413",
+            "cht": "結草貴婦-砂土",
+            "jp": "すなちミノマダム",
+            "en": "Sandy Cloak Wormadam",
+            "jsonid": "10004"
+        },
+        {
+            "ndex": "413",
+            "cht": "結草貴婦-垃圾",
+            "jp": "ゴミミノマダム",
+            "en": "Trash Cloak Wormadam",
+            "jsonid": "10005"
+        },
+        {
+            "ndex": "414",
+            "cht": "紳士蛾",
+            "jp": "ガーメイル",
+            "en": "Mothim",
+            "jsonid": "414"
+        },
+        {
+            "ndex": "415",
+            "cht": "三蜜蜂",
+            "jp": "ミツハニー",
+            "en": "Combee",
+            "jsonid": "415"
+        },
+        {
+            "ndex": "416",
+            "cht": "蜂女王",
+            "jp": "ビークイン",
+            "en": "Vespiquen",
+            "jsonid": "416"
+        },
+        {
+            "ndex": "417",
+            "cht": "帕奇利茲",
+            "jp": "パチリス",
+            "en": "Pachirisu",
+            "jsonid": "417"
+        },
+        {
+            "ndex": "418",
+            "cht": "泳圈鼬",
+            "jp": "ブイゼル",
+            "en": "Buizel",
+            "jsonid": "418"
+        },
+        {
+            "ndex": "419",
+            "cht": "浮潛鼬",
+            "jp": "フローゼル",
+            "en": "Floatzel",
+            "jsonid": "419"
+        },
+        {
+            "ndex": "420",
+            "cht": "櫻花寶",
+            "jp": "チェリンボ",
+            "en": "Cherubi",
+            "jsonid": "420"
+        },
+        {
+            "ndex": "421",
+            "cht": "櫻花兒",
+            "jp": "チェリム",
+            "en": "Cherrim",
+            "jsonid": "421"
+        },
+        {
+            "ndex": "422",
+            "cht": "無殼海兔",
+            "jp": "カラナクシ",
+            "en": "Shellos",
+            "jsonid": "422"
+        },
+        {
+            "ndex": "423",
+            "cht": "海兔獸",
+            "jp": "トリトドン",
+            "en": "Gastrodon",
+            "jsonid": "423"
+        },
+        {
+            "ndex": "424",
+            "cht": "雙尾怪手",
+            "jp": "エテボース",
+            "en": "Ambipom",
+            "jsonid": "424"
+        },
+        {
+            "ndex": "425",
+            "cht": "飄飄球",
+            "jp": "フワンテ",
+            "en": "Drifloon",
+            "jsonid": "425"
+        },
+        {
+            "ndex": "426",
+            "cht": "隨風球",
+            "jp": "フワライド",
+            "en": "Drifblim",
+            "jsonid": "426"
+        },
+        {
+            "ndex": "427",
+            "cht": "捲捲耳",
+            "jp": "ミミロル",
+            "en": "Buneary",
+            "jsonid": "427"
+        },
+        {
+            "ndex": "428",
+            "cht": "長耳兔",
+            "jp": "ミミロップ",
+            "en": "Lopunny",
+            "jsonid": "428"
+        },
+        {
+            "ndex": "428",
+            "cht": "長耳兔-超級",
+            "jp": "メガミミロップ",
+            "en": "Mega Lopunny",
+            "jsonid": "10088"
+        },
+        {
+            "ndex": "429",
+            "cht": "夢妖魔",
+            "jp": "ムウマージ",
+            "en": "Mismagius",
+            "jsonid": "429"
+        },
+        {
+            "ndex": "430",
+            "cht": "烏鴉頭頭",
+            "jp": "ドンカラス",
+            "en": "Honchkrow",
+            "jsonid": "430"
+        },
+        {
+            "ndex": "431",
+            "cht": "魅力喵",
+            "jp": "ニャルマー",
+            "en": "Glameow",
+            "jsonid": "431"
+        },
+        {
+            "ndex": "432",
+            "cht": "東施喵",
+            "jp": "ブニャット",
+            "en": "Purugly",
+            "jsonid": "432"
+        },
+        {
+            "ndex": "433",
+            "cht": "鈴鐺響",
+            "jp": "リーシャン",
+            "en": "Chingling",
+            "jsonid": "433"
+        },
+        {
+            "ndex": "434",
+            "cht": "臭鼬噗",
+            "jp": "スカンプー",
+            "en": "Stunky",
+            "jsonid": "434"
+        },
+        {
+            "ndex": "435",
+            "cht": "坦克臭鼬",
+            "jp": "スカタンク",
+            "en": "Skuntank",
+            "jsonid": "435"
+        },
+        {
+            "ndex": "436",
+            "cht": "銅鏡怪",
+            "jp": "ドーミラー",
+            "en": "Bronzor",
+            "jsonid": "436"
+        },
+        {
+            "ndex": "437",
+            "cht": "青銅鐘",
+            "jp": "ドータクン",
+            "en": "Bronzong",
+            "jsonid": "437"
+        },
+        {
+            "ndex": "438",
+            "cht": "盆才怪",
+            "jp": "ウソハチ",
+            "en": "Bonsly",
+            "jsonid": "438"
+        },
+        {
+            "ndex": "439",
+            "cht": "魔尼尼",
+            "jp": "マネネ",
+            "en": "Mime Jr.",
+            "jsonid": "439"
+        },
+        {
+            "ndex": "440",
+            "cht": "小福蛋",
+            "jp": "ピンプク",
+            "en": "Happiny",
+            "jsonid": "440"
+        },
+        {
+            "ndex": "441",
+            "cht": "聒噪鳥",
+            "jp": "ペラップ",
+            "en": "Chatot",
+            "jsonid": "441"
+        },
+        {
+            "ndex": "442",
+            "cht": "花岩怪",
+            "jp": "ミカルゲ",
+            "en": "Spiritomb",
+            "jsonid": "442"
+        },
+        {
+            "ndex": "443",
+            "cht": "圓陸鯊",
+            "jp": "フカマル",
+            "en": "Gible",
+            "jsonid": "443"
+        },
+        {
+            "ndex": "444",
+            "cht": "尖牙陸鯊",
+            "jp": "ガバイト",
+            "en": "Gabite",
+            "jsonid": "444"
+        },
+        {
+            "ndex": "445",
+            "cht": "烈咬陸鯊",
+            "jp": "ガブリアス",
+            "en": "Garchomp",
+            "jsonid": "445"
+        },
+        {
+            "ndex": "445",
+            "cht": "烈咬陸鯊-超級",
+            "jp": "メガガブリアス",
+            "en": "Mega Garchomp",
+            "jsonid": "10058"
+        },
+        {
+            "ndex": "446",
+            "cht": "小卡比獸",
+            "jp": "ゴンベ",
+            "en": "Munchlax",
+            "jsonid": "446"
+        },
+        {
+            "ndex": "447",
+            "cht": "利歐路",
+            "jp": "リオル",
+            "en": "Riolu",
+            "jsonid": "447"
+        },
+        {
+            "ndex": "448",
+            "cht": "路卡利歐",
+            "jp": "ルカリオ",
+            "en": "Lucario",
+            "jsonid": "448"
+        },
+        {
+            "ndex": "448",
+            "cht": "路卡利歐-超級",
+            "jp": "メガルカリオ",
+            "en": "Mega Lucario",
+            "jsonid": "10059"
+        },
+        {
+            "ndex": "449",
+            "cht": "沙河馬",
+            "jp": "ヒポポタス",
+            "en": "Hippopotas",
+            "jsonid": "449"
+        },
+        {
+            "ndex": "450",
+            "cht": "河馬獸",
+            "jp": "カバルドン",
+            "en": "Hippowdon",
+            "jsonid": "450"
+        },
+        {
+            "ndex": "451",
+            "cht": "鉗尾蠍",
+            "jp": "スコルピ",
+            "en": "Skorupi",
+            "jsonid": "451"
+        },
+        {
+            "ndex": "452",
+            "cht": "龍王蠍",
+            "jp": "ドラピオン",
+            "en": "Drapion",
+            "jsonid": "452"
+        },
+        {
+            "ndex": "453",
+            "cht": "不良蛙",
+            "jp": "グレッグル",
+            "en": "Croagunk",
+            "jsonid": "453"
+        },
+        {
+            "ndex": "454",
+            "cht": "毒骷蛙",
+            "jp": "ドクロッグ",
+            "en": "Toxicroak",
+            "jsonid": "454"
+        },
+        {
+            "ndex": "455",
+            "cht": "尖牙籠",
+            "jp": "マスキッパ",
+            "en": "Carnivine",
+            "jsonid": "455"
+        },
+        {
+            "ndex": "456",
+            "cht": "螢光魚",
+            "jp": "ケイコウオ",
+            "en": "Finneon",
+            "jsonid": "456"
+        },
+        {
+            "ndex": "457",
+            "cht": "霓虹魚",
+            "jp": "ネオラント",
+            "en": "Lumineon",
+            "jsonid": "457"
+        },
+        {
+            "ndex": "458",
+            "cht": "小球飛魚",
+            "jp": "タマンタ",
+            "en": "Mantyke",
+            "jsonid": "458"
+        },
+        {
+            "ndex": "459",
+            "cht": "雪笠怪",
+            "jp": "ユキカブリ",
+            "en": "Snover",
+            "jsonid": "459"
+        },
+        {
+            "ndex": "460",
+            "cht": "暴雪王",
+            "jp": "ユキノオー",
+            "en": "Abomasnow",
+            "jsonid": "460"
+        },
+        {
+            "ndex": "460",
+            "cht": "暴雪王-超級",
+            "jp": "メガユキノオー",
+            "en": "Mega Abomasnow",
+            "jsonid": "10060"
+        },
+        {
+            "ndex": "461",
+            "cht": "瑪狃拉",
+            "jp": "マニューラ",
+            "en": "Weavile",
+            "jsonid": "461"
+        },
+        {
+            "ndex": "462",
+            "cht": "自爆磁怪",
+            "jp": "ジバコイル",
+            "en": "Magnezone",
+            "jsonid": "462"
+        },
+        {
+            "ndex": "463",
+            "cht": "大舌舔",
+            "jp": "ベロベルト",
+            "en": "Lickilicky",
+            "jsonid": "463"
+        },
+        {
+            "ndex": "464",
+            "cht": "超甲狂犀",
+            "jp": "ドサイドン",
+            "en": "Rhyperior",
+            "jsonid": "464"
+        },
+        {
+            "ndex": "465",
+            "cht": "巨蔓藤",
+            "jp": "モジャンボ",
+            "en": "Tangrowth",
+            "jsonid": "465"
+        },
+        {
+            "ndex": "466",
+            "cht": "電擊魔獸",
+            "jp": "エレキブル",
+            "en": "Electivire",
+            "jsonid": "466"
+        },
+        {
+            "ndex": "467",
+            "cht": "鴨嘴炎獸",
+            "jp": "ブーバーン",
+            "en": "Magmortar",
+            "jsonid": "467"
+        },
+        {
+            "ndex": "468",
+            "cht": "波克基斯",
+            "jp": "トゲキッス",
+            "en": "Togekiss",
+            "jsonid": "468"
+        },
+        {
+            "ndex": "469",
+            "cht": "遠古巨蜓",
+            "jp": "メガヤンマ",
+            "en": "Yanmega",
+            "jsonid": "469"
+        },
+        {
+            "ndex": "470",
+            "cht": "葉伊布",
+            "jp": "リーフィア",
+            "en": "Leafeon",
+            "jsonid": "470"
+        },
+        {
+            "ndex": "471",
+            "cht": "冰伊布",
+            "jp": "グレイシア",
+            "en": "Glaceon",
+            "jsonid": "471"
+        },
+        {
+            "ndex": "472",
+            "cht": "天蠍王",
+            "jp": "グライオン",
+            "en": "Gliscor",
+            "jsonid": "472"
+        },
+        {
+            "ndex": "473",
+            "cht": "象牙豬",
+            "jp": "マンムー",
+            "en": "Mamoswine",
+            "jsonid": "473"
+        },
+        {
+            "ndex": "474",
+            "cht": "多邊獸Ｚ",
+            "jp": "ポリゴンＺ",
+            "en": "Porygon-Z",
+            "jsonid": "474"
+        },
+        {
+            "ndex": "475",
+            "cht": "艾路雷朵",
+            "jp": "エルレイド",
+            "en": "Gallade",
+            "jsonid": "475"
+        },
+        {
+            "ndex": "476",
+            "cht": "大朝北鼻",
+            "jp": "ダイノーズ",
+            "en": "Probopass",
+            "jsonid": "476"
+        },
+        {
+            "ndex": "477",
+            "cht": "黑夜魔靈",
+            "jp": "ヨノワール",
+            "en": "Dusknoir",
+            "jsonid": "477"
+        },
+        {
+            "ndex": "478",
+            "cht": "雪妖女",
+            "jp": "ユキメノコ",
+            "en": "Froslass",
+            "jsonid": "478"
+        },
+        {
+            "ndex": "479",
+            "cht": "洛托姆",
+            "jp": "ロトム",
+            "en": "Rotom",
+            "jsonid": "479",
+            "undefined": "鋼"
+        },
+        {
+            "ndex": "479",
+            "cht": "洛托姆-加熱",
+            "jp": "ヒートロトム",
+            "en": "Heat Rotom",
+            "jsonid": "10008"
+        },
+        {
+            "ndex": "479",
+            "cht": "洛托姆-清洗",
+            "jp": "ウォッシュロトム",
+            "en": "Wash Rotom",
+            "jsonid": "10009"
+        },
+        {
+            "ndex": "479",
+            "cht": "洛托姆-結冰",
+            "jp": "フロストロトム",
+            "en": "Frost Rotom",
+            "jsonid": "10010"
+        },
+        {
+            "ndex": "479",
+            "cht": "洛托姆-旋轉",
+            "jp": "スピンロトム",
+            "en": "Fan Rotom",
+            "jsonid": "10011"
+        },
+        {
+            "ndex": "479",
+            "cht": "洛托姆-切割",
+            "jp": "カットロトム",
+            "en": "Mow Rotom",
+            "jsonid": "10012"
+        },
+        {
+            "ndex": "480",
+            "cht": "由克希",
+            "jp": "ユクシー",
+            "en": "Uxie",
+            "jsonid": "480"
+        },
+        {
+            "ndex": "481",
+            "cht": "艾姆利多",
+            "jp": "エムリット",
+            "en": "Mesprit",
+            "jsonid": "481",
+            "undefined": "幽靈"
+        },
+        {
+            "ndex": "482",
+            "cht": "亞克諾姆",
+            "jp": "アグノム",
+            "en": "Azelf",
+            "jsonid": "482",
+            "undefined": "幽靈"
+        },
+        {
+            "ndex": "483",
+            "cht": "帝牙盧卡",
+            "jp": "ディアルガ",
+            "en": "Dialga",
+            "jsonid": "483"
+        },
+        {
+            "ndex": "484",
+            "cht": "帕路奇亞",
+            "jp": "パルキア",
+            "en": "Palkia",
+            "jsonid": "484"
+        },
+        {
+            "ndex": "485",
+            "cht": "席多藍恩",
+            "jp": "ヒードラン",
+            "en": "Heatran",
+            "jsonid": "485"
+        },
+        {
+            "ndex": "486",
+            "cht": "雷吉奇卡斯",
+            "jp": "レジギガス",
+            "en": "Regigigas",
+            "jsonid": "486",
+            "undefined": "龍"
+        },
+        {
+            "ndex": "487",
+            "cht": "騎拉帝納-別種",
+            "jp": "アナザーギラティナ",
+            "en": "Altered Giratina",
+            "jsonid": "487",
+            "undefined": "龍"
+        },
+        {
+            "ndex": "487",
+            "cht": "騎拉帝納-起源",
+            "jp": "オリジンギラティナ",
+            "en": "Origin Giratina",
+            "jsonid": "10007"
+        },
+        {
+            "ndex": "488",
+            "cht": "克雷色利亞",
+            "jp": "クレセリア",
+            "en": "Cresselia",
+            "jsonid": "488",
+            "undefined": "鋼"
+        },
+        {
+            "ndex": "489",
+            "cht": "霏歐納",
+            "jp": "フィオネ",
+            "en": "Phione",
+            "jsonid": "489"
+        },
+        {
+            "ndex": "490",
+            "cht": "瑪納霏",
+            "jp": "マナフィ",
+            "en": "Manaphy",
+            "jsonid": "490",
+            "undefined": "龍"
+        },
+        {
+            "ndex": "491",
+            "cht": "達克萊伊",
+            "jp": "ダークライ",
+            "en": "Darkrai",
+            "jsonid": "491"
+        },
+        {
+            "ndex": "492",
+            "cht": "謝米-陸上",
+            "jp": "ランドシェイミ",
+            "en": "Land Shaymin",
+            "jsonid": "492"
+        },
+        {
+            "ndex": "492",
+            "cht": "謝米-天空",
+            "jp": "スカイシェイミ",
+            "en": "Sky Shaymin",
+            "jsonid": "10006"
+        },
+        {
+            "ndex": "493",
+            "cht": "阿爾宙斯",
+            "jp": "アルセウス",
+            "en": "Arceus",
+            "jsonid": "493"
+        },
+        {
+            "ndex": "494",
+            "cht": "比克提尼",
+            "jp": "ビクティニ",
+            "en": "Victini",
+            "jsonid": "494"
+        },
+        {
+            "ndex": "495",
+            "cht": "藤藤蛇",
+            "jp": "ツタージャ",
+            "en": "Snivy",
+            "jsonid": "495"
+        },
+        {
+            "ndex": "496",
+            "cht": "青藤蛇",
+            "jp": "ジャノビー",
+            "en": "Servine",
+            "jsonid": "496"
+        },
+        {
+            "ndex": "497",
+            "cht": "君主蛇",
+            "jp": "ジャローダ",
+            "en": "Serperior",
+            "jsonid": "497"
+        },
+        {
+            "ndex": "498",
+            "cht": "暖暖豬",
+            "jp": "ポカブ",
+            "en": "Tepig",
+            "jsonid": "498"
+        },
+        {
+            "ndex": "499",
+            "cht": "炒炒豬",
+            "jp": "チャオブー",
+            "en": "Pignite",
+            "jsonid": "499"
+        },
+        {
+            "ndex": "500",
+            "cht": "炎武王",
+            "jp": "エンブオー",
+            "en": "Emboar",
+            "jsonid": "500"
+        },
+        {
+            "ndex": "501",
+            "cht": "水水獺",
+            "jp": "ミジュマル",
+            "en": "Oshawott",
+            "jsonid": "501"
+        },
+        {
+            "ndex": "502",
+            "cht": "雙刃丸",
+            "jp": "フタチマル",
+            "en": "Dewott",
+            "jsonid": "502"
+        },
+        {
+            "ndex": "503",
+            "cht": "大劍鬼",
+            "jp": "ダイケンキ",
+            "en": "Samurott",
+            "jsonid": "503"
+        },
+        {
+            "ndex": "504",
+            "cht": "探探鼠",
+            "jp": "ミネズミ",
+            "en": "Patrat",
+            "jsonid": "504"
+        },
+        {
+            "ndex": "505",
+            "cht": "步哨鼠",
+            "jp": "ミルホッグ",
+            "en": "Watchog",
+            "jsonid": "505"
+        },
+        {
+            "ndex": "506",
+            "cht": "小約克",
+            "jp": "ヨーテリー",
+            "en": "Lillipup",
+            "jsonid": "506"
+        },
+        {
+            "ndex": "507",
+            "cht": "哈約克",
+            "jp": "ハーデリア",
+            "en": "Herdier",
+            "jsonid": "507"
+        },
+        {
+            "ndex": "508",
+            "cht": "長毛狗",
+            "jp": "ムーランド",
+            "en": "Stoutland",
+            "jsonid": "508"
+        },
+        {
+            "ndex": "509",
+            "cht": "扒手貓",
+            "jp": "チョロネコ",
+            "en": "Purrloin",
+            "jsonid": "509"
+        },
+        {
+            "ndex": "510",
+            "cht": "酷豹",
+            "jp": "レパルダス",
+            "en": "Liepard",
+            "jsonid": "510"
+        },
+        {
+            "ndex": "511",
+            "cht": "花椰猴",
+            "jp": "ヤナップ",
+            "en": "Pansage",
+            "jsonid": "511"
+        },
+        {
+            "ndex": "512",
+            "cht": "花椰猿",
+            "jp": "ヤナッキー",
+            "en": "Simisage",
+            "jsonid": "512"
+        },
+        {
+            "ndex": "513",
+            "cht": "爆香猴",
+            "jp": "バオップ",
+            "en": "Pansear",
+            "jsonid": "513"
+        },
+        {
+            "ndex": "514",
+            "cht": "爆香猿",
+            "jp": "バオッキー",
+            "en": "Simisear",
+            "jsonid": "514"
+        },
+        {
+            "ndex": "515",
+            "cht": "冷水猴",
+            "jp": "ヒヤップ",
+            "en": "Panpour",
+            "jsonid": "515"
+        },
+        {
+            "ndex": "516",
+            "cht": "冷水猿",
+            "jp": "ヒヤッキー",
+            "en": "Simipour",
+            "jsonid": "516"
+        },
+        {
+            "ndex": "517",
+            "cht": "食夢夢",
+            "jp": "ムンナ",
+            "en": "Munna",
+            "jsonid": "517"
+        },
+        {
+            "ndex": "518",
+            "cht": "夢夢蝕",
+            "jp": "ムシャーナ",
+            "en": "Musharna",
+            "jsonid": "518"
+        },
+        {
+            "ndex": "519",
+            "cht": "豆豆鴿",
+            "jp": "マメパト",
+            "en": "Pidove",
+            "jsonid": "519"
+        },
+        {
+            "ndex": "520",
+            "cht": "咕咕鴿",
+            "jp": "ハトーボー",
+            "en": "Tranquill",
+            "jsonid": "520"
+        },
+        {
+            "ndex": "521",
+            "cht": "高傲雉雞",
+            "jp": "ケンホロウ",
+            "en": "Unfezant",
+            "jsonid": "521"
+        },
+        {
+            "ndex": "522",
+            "cht": "斑斑馬",
+            "jp": "シママ",
+            "en": "Blitzle",
+            "jsonid": "522"
+        },
+        {
+            "ndex": "523",
+            "cht": "雷電斑馬",
+            "jp": "ゼブライカ",
+            "en": "Zebstrika",
+            "jsonid": "523"
+        },
+        {
+            "ndex": "524",
+            "cht": "石丸子",
+            "jp": "ダンゴロ",
+            "en": "Roggenrola",
+            "jsonid": "524"
+        },
+        {
+            "ndex": "525",
+            "cht": "地幔岩",
+            "jp": "ガントル",
+            "en": "Boldore",
+            "jsonid": "525"
+        },
+        {
+            "ndex": "526",
+            "cht": "龐岩怪",
+            "jp": "ギガイアス",
+            "en": "Gigalith",
+            "jsonid": "526"
+        },
+        {
+            "ndex": "527",
+            "cht": "滾滾蝙蝠",
+            "jp": "コロモリ",
+            "en": "Woobat",
+            "jsonid": "527"
+        },
+        {
+            "ndex": "528",
+            "cht": "心蝙蝠",
+            "jp": "ココロモリ",
+            "en": "Swoobat",
+            "jsonid": "528"
+        },
+        {
+            "ndex": "529",
+            "cht": "螺釘地鼠",
+            "jp": "モグリュー",
+            "en": "Drilbur",
+            "jsonid": "529"
+        },
+        {
+            "ndex": "530",
+            "cht": "龍頭地鼠",
+            "jp": "ドリュウズ",
+            "en": "Excadrill",
+            "jsonid": "530"
+        },
+        {
+            "ndex": "531",
+            "cht": "差不多娃娃",
+            "jp": "タブンネ",
+            "en": "Audino",
+            "jsonid": "531"
+        },
+        {
+            "ndex": "532",
+            "cht": "搬運小匠",
+            "jp": "ドッコラー",
+            "en": "Timburr",
+            "jsonid": "532"
+        },
+        {
+            "ndex": "533",
+            "cht": "鐵骨土人",
+            "jp": "ドテッコツ",
+            "en": "Gurdurr",
+            "jsonid": "533"
+        },
+        {
+            "ndex": "534",
+            "cht": "修建老匠",
+            "jp": "ローブシン",
+            "en": "Conkeldurr",
+            "jsonid": "534"
+        },
+        {
+            "ndex": "535",
+            "cht": "圓蝌蚪",
+            "jp": "オタマロ",
+            "en": "Tympole",
+            "jsonid": "535"
+        },
+        {
+            "ndex": "536",
+            "cht": "藍蟾蜍",
+            "jp": "ガマガル",
+            "en": "Palpitoad",
+            "jsonid": "536"
+        },
+        {
+            "ndex": "537",
+            "cht": "蟾蜍王",
+            "jp": "ガマゲロゲ",
+            "en": "Seismitoad",
+            "jsonid": "537"
+        },
+        {
+            "ndex": "538",
+            "cht": "投摔鬼",
+            "jp": "ナゲキ",
+            "en": "Throh",
+            "jsonid": "538"
+        },
+        {
+            "ndex": "539",
+            "cht": "打擊鬼",
+            "jp": "ダゲキ",
+            "en": "Sawk",
+            "jsonid": "539"
+        },
+        {
+            "ndex": "540",
+            "cht": "蟲寶包",
+            "jp": "クルミル",
+            "en": "Sewaddle",
+            "jsonid": "540"
+        },
+        {
+            "ndex": "541",
+            "cht": "寶包繭",
+            "jp": "クルマユ",
+            "en": "Swadloon",
+            "jsonid": "541"
+        },
+        {
+            "ndex": "542",
+            "cht": "保母蟲",
+            "jp": "ハハコモリ",
+            "en": "Leavanny",
+            "jsonid": "542"
+        },
+        {
+            "ndex": "543",
+            "cht": "百足蜈蚣",
+            "jp": "フシデ",
+            "en": "Venipede",
+            "jsonid": "543"
+        },
+        {
+            "ndex": "544",
+            "cht": "車輪毬",
+            "jp": "ホイーガ",
+            "en": "Whirlipede",
+            "jsonid": "544"
+        },
+        {
+            "ndex": "545",
+            "cht": "蜈蚣王",
+            "jp": "ペンドラー",
+            "en": "Scolipede",
+            "jsonid": "545"
+        },
+        {
+            "ndex": "546",
+            "cht": "木棉球",
+            "jp": "モンメン",
+            "en": "Cottonee",
+            "jsonid": "546"
+        },
+        {
+            "ndex": "547",
+            "cht": "風妖精",
+            "jp": "エルフーン",
+            "en": "Whimsicott",
+            "jsonid": "547"
+        },
+        {
+            "ndex": "548",
+            "cht": "百合根娃娃",
+            "jp": "チュリネ",
+            "en": "Petilil",
+            "jsonid": "548"
+        },
+        {
+            "ndex": "549",
+            "cht": "裙兒小姐",
+            "jp": "ドレディア",
+            "en": "Lilligant",
+            "jsonid": "549"
+        },
+        {
+            "ndex": "550",
+            "cht": "野蠻鱸魚",
+            "jp": "バスラオ",
+            "en": "Basculin",
+            "jsonid": "550"
+        },
+        {
+            "ndex": "551",
+            "cht": "黑眼鱷",
+            "jp": "メグロコ",
+            "en": "Sandile",
+            "jsonid": "551"
+        },
+        {
+            "ndex": "552",
+            "cht": "混混鱷",
+            "jp": "ワルビル",
+            "en": "Krokorok",
+            "jsonid": "552"
+        },
+        {
+            "ndex": "553",
+            "cht": "流氓鱷",
+            "jp": "ワルビアル",
+            "en": "Krookodile",
+            "jsonid": "553"
+        },
+        {
+            "ndex": "554",
+            "cht": "火紅不倒翁",
+            "jp": "ダルマッカ",
+            "en": "Darumaka",
+            "jsonid": "554"
+        },
+        {
+            "ndex": "554",
+            "cht": "火紅不倒翁-伽勒爾",
+            "jp": "ガラルダルマッカ",
+            "en": "Galar Darumaka",
+            "jsonid": "10173"
+        },
+        {
+            "ndex": "555",
+            "cht": "達摩狒狒",
+            "jp": "ヒヒダルマ",
+            "en": "Darmanitan",
+            "jsonid": "555"
+        },
+        {
+            "ndex": "555",
+            "cht": "達摩狒狒-達摩模式",
+            "jp": "ダルマモードヒヒダルマ",
+            "en": "Zen Darmanitan",
+            "jsonid": "10017"
+        },
+        {
+            "ndex": "555",
+            "cht": "達摩狒狒-伽勒爾",
+            "jp": "ガラルヒヒダルマ",
+            "en": "Galar Darmanitan",
+            "jsonid": "10174"
+        },
+        {
+            "ndex": "555",
+            "cht": "達摩狒狒-伽勒爾-達摩模式",
+            "jp": "ガラルダルマモードヒヒダルマ",
+            "en": "Galar Zen Darmanitan",
+            "jsonid": "10175"
+        },
+        {
+            "ndex": "556",
+            "cht": "沙鈴仙人掌",
+            "jp": "マラカッチ",
+            "en": "Maractus",
+            "jsonid": "556"
+        },
+        {
+            "ndex": "557",
+            "cht": "石居蟹",
+            "jp": "イシズマイ",
+            "en": "Dwebble",
+            "jsonid": "557"
+        },
+        {
+            "ndex": "558",
+            "cht": "岩殿居蟹",
+            "jp": "イワパレス",
+            "en": "Crustle",
+            "jsonid": "558"
+        },
+        {
+            "ndex": "559",
+            "cht": "滑滑小子",
+            "jp": "ズルッグ",
+            "en": "Scraggy",
+            "jsonid": "559"
+        },
+        {
+            "ndex": "560",
+            "cht": "頭巾混混",
+            "jp": "ズルズキン",
+            "en": "Scrafty",
+            "jsonid": "560"
+        },
+        {
+            "ndex": "561",
+            "cht": "象徵鳥",
+            "jp": "シンボラー",
+            "en": "Sigilyph",
+            "jsonid": "561"
+        },
+        {
+            "ndex": "562",
+            "cht": "哭哭面具",
+            "jp": "デスマス",
+            "en": "Yamask",
+            "jsonid": "562"
+        },
+        {
+            "ndex": "562",
+            "cht": "哭哭面具-伽勒爾",
+            "jp": "ガラルデスマス",
+            "en": "Galar Yamask",
+            "jsonid": "10176"
+        },
+        {
+            "ndex": "563",
+            "cht": "死神棺",
+            "jp": "デスカーン",
+            "en": "Cofagrigus",
+            "jsonid": "563"
+        },
+        {
+            "ndex": "564",
+            "cht": "原蓋海龜",
+            "jp": "プロトーガ",
+            "en": "Tirtouga",
+            "jsonid": "564"
+        },
+        {
+            "ndex": "565",
+            "cht": "肋骨海龜",
+            "jp": "アバゴーラ",
+            "en": "Carracosta",
+            "jsonid": "565"
+        },
+        {
+            "ndex": "566",
+            "cht": "始祖小鳥",
+            "jp": "アーケン",
+            "en": "Archen",
+            "jsonid": "566"
+        },
+        {
+            "ndex": "567",
+            "cht": "始祖大鳥",
+            "jp": "アーケオス",
+            "en": "Archeops",
+            "jsonid": "567"
+        },
+        {
+            "ndex": "568",
+            "cht": "破破袋",
+            "jp": "ヤブクロン",
+            "en": "Trubbish",
+            "jsonid": "568"
+        },
+        {
+            "ndex": "569",
+            "cht": "灰塵山",
+            "jp": "ダストダス",
+            "en": "Garbodor",
+            "jsonid": "569"
+        },
+        {
+            "ndex": "569",
+            "cht": "灰塵山-超極巨",
+            "jp": "キョダイマックスダストダス",
+            "en": "Gmax Garbodor",
+            "jsonid": "10189"
+        },
+        {
+            "ndex": "570",
+            "cht": "索羅亞",
+            "jp": "ゾロア",
+            "en": "Zorua",
+            "jsonid": "570"
+        },
+        {
+            "ndex": "571",
+            "cht": "索羅亞克",
+            "jp": "ゾロアーク",
+            "en": "Zoroark",
+            "jsonid": "571"
+        },
+        {
+            "ndex": "572",
+            "cht": "泡沫栗鼠",
+            "jp": "チラーミィ",
+            "en": "Minccino",
+            "jsonid": "572"
+        },
+        {
+            "ndex": "573",
+            "cht": "奇諾栗鼠",
+            "jp": "チラチーノ",
+            "en": "Cinccino",
+            "jsonid": "573"
+        },
+        {
+            "ndex": "574",
+            "cht": "哥德寶寶",
+            "jp": "ゴチム",
+            "en": "Gothita",
+            "jsonid": "574"
+        },
+        {
+            "ndex": "575",
+            "cht": "哥德小童",
+            "jp": "ゴチミル",
+            "en": "Gothorita",
+            "jsonid": "575"
+        },
+        {
+            "ndex": "576",
+            "cht": "哥德小姐",
+            "jp": "ゴチルゼル",
+            "en": "Gothitelle",
+            "jsonid": "576"
+        },
+        {
+            "ndex": "577",
+            "cht": "單卵細胞球",
+            "jp": "ユニラン",
+            "en": "Solosis",
+            "jsonid": "577"
+        },
+        {
+            "ndex": "578",
+            "cht": "雙卵細胞球",
+            "jp": "ダブラン",
+            "en": "Duosion",
+            "jsonid": "578"
+        },
+        {
+            "ndex": "579",
+            "cht": "人造細胞卵",
+            "jp": "ランクルス",
+            "en": "Reuniclus",
+            "jsonid": "579"
+        },
+        {
+            "ndex": "580",
+            "cht": "鴨寶寶",
+            "jp": "コアルヒー",
+            "en": "Ducklett",
+            "jsonid": "580"
+        },
+        {
+            "ndex": "581",
+            "cht": "舞天鵝",
+            "jp": "スワンナ",
+            "en": "Swanna",
+            "jsonid": "581"
+        },
+        {
+            "ndex": "582",
+            "cht": "迷你冰",
+            "jp": "バニプッチ",
+            "en": "Vanillite",
+            "jsonid": "582"
+        },
+        {
+            "ndex": "583",
+            "cht": "多多冰",
+            "jp": "バニリッチ",
+            "en": "Vanillish",
+            "jsonid": "583"
+        },
+        {
+            "ndex": "584",
+            "cht": "雙倍多多冰",
+            "jp": "バイバニラ",
+            "en": "Vanilluxe",
+            "jsonid": "584"
+        },
+        {
+            "ndex": "585",
+            "cht": "四季鹿",
+            "jp": "シキジカ",
+            "en": "Deerling",
+            "jsonid": "585"
+        },
+        {
+            "ndex": "586",
+            "cht": "萌芽鹿",
+            "jp": "メブキジカ",
+            "en": "Sawsbuck",
+            "jsonid": "586"
+        },
+        {
+            "ndex": "587",
+            "cht": "電飛鼠",
+            "jp": "エモンガ",
+            "en": "Emolga",
+            "jsonid": "587"
+        },
+        {
+            "ndex": "588",
+            "cht": "蓋蓋蟲",
+            "jp": "カブルモ",
+            "en": "Karrablast",
+            "jsonid": "588"
+        },
+        {
+            "ndex": "589",
+            "cht": "騎士蝸牛",
+            "jp": "シュバルゴ",
+            "en": "Escavalier",
+            "jsonid": "589"
+        },
+        {
+            "ndex": "590",
+            "cht": "哎呀球菇",
+            "jp": "タマゲタケ",
+            "en": "Foongus",
+            "jsonid": "590"
+        },
+        {
+            "ndex": "591",
+            "cht": "敗露球菇",
+            "jp": "モロバレル",
+            "en": "Amoonguss",
+            "jsonid": "591"
+        },
+        {
+            "ndex": "592",
+            "cht": "輕飄飄",
+            "jp": "プルリル",
+            "en": "Frillish",
+            "jsonid": "592"
+        },
+        {
+            "ndex": "593",
+            "cht": "胖嘟嘟",
+            "jp": "ブルンゲル",
+            "en": "Jellicent",
+            "jsonid": "593"
+        },
+        {
+            "ndex": "594",
+            "cht": "保母曼波",
+            "jp": "ママンボウ",
+            "en": "Alomomola",
+            "jsonid": "594"
+        },
+        {
+            "ndex": "595",
+            "cht": "電電蟲",
+            "jp": "バチュル",
+            "en": "Joltik",
+            "jsonid": "595"
+        },
+        {
+            "ndex": "596",
+            "cht": "電蜘蛛",
+            "jp": "デンチュラ",
+            "en": "Galvantula",
+            "jsonid": "596"
+        },
+        {
+            "ndex": "597",
+            "cht": "種子鐵球",
+            "jp": "テッシード",
+            "en": "Ferroseed",
+            "jsonid": "597"
+        },
+        {
+            "ndex": "598",
+            "cht": "堅果啞鈴",
+            "jp": "ナットレイ",
+            "en": "Ferrothorn",
+            "jsonid": "598"
+        },
+        {
+            "ndex": "599",
+            "cht": "齒輪兒",
+            "jp": "ギアル",
+            "en": "Klink",
+            "jsonid": "599"
+        },
+        {
+            "ndex": "600",
+            "cht": "齒輪組",
+            "jp": "ギギアル",
+            "en": "Klang",
+            "jsonid": "600"
+        },
+        {
+            "ndex": "601",
+            "cht": "齒輪怪",
+            "jp": "ギギギアル",
+            "en": "Klinklang",
+            "jsonid": "601"
+        },
+        {
+            "ndex": "602",
+            "cht": "麻麻小魚",
+            "jp": "シビシラス",
+            "en": "Tynamo",
+            "jsonid": "602"
+        },
+        {
+            "ndex": "603",
+            "cht": "麻麻鰻",
+            "jp": "シビビール",
+            "en": "Eelektrik",
+            "jsonid": "603"
+        },
+        {
+            "ndex": "604",
+            "cht": "麻麻鰻魚王",
+            "jp": "シビルドン",
+            "en": "Eelektross",
+            "jsonid": "604"
+        },
+        {
+            "ndex": "605",
+            "cht": "小灰怪",
+            "jp": "リグレー",
+            "en": "Elgyem",
+            "jsonid": "605"
+        },
+        {
+            "ndex": "606",
+            "cht": "大宇怪",
+            "jp": "オーベム",
+            "en": "Beheeyem",
+            "jsonid": "606"
+        },
+        {
+            "ndex": "607",
+            "cht": "燭光靈",
+            "jp": "ヒトモシ",
+            "en": "Litwick",
+            "jsonid": "607"
+        },
+        {
+            "ndex": "608",
+            "cht": "燈火幽靈",
+            "jp": "ランプラー",
+            "en": "Lampent",
+            "jsonid": "608"
+        },
+        {
+            "ndex": "609",
+            "cht": "水晶燈火靈",
+            "jp": "シャンデラ",
+            "en": "Chandelure",
+            "jsonid": "609"
+        },
+        {
+            "ndex": "610",
+            "cht": "牙牙",
+            "jp": "キバゴ",
+            "en": "Axew",
+            "jsonid": "610"
+        },
+        {
+            "ndex": "611",
+            "cht": "斧牙龍",
+            "jp": "オノンド",
+            "en": "Fraxure",
+            "jsonid": "611"
+        },
+        {
+            "ndex": "612",
+            "cht": "雙斧戰龍",
+            "jp": "オノノクス",
+            "en": "Haxorus",
+            "jsonid": "612"
+        },
+        {
+            "ndex": "613",
+            "cht": "噴嚏熊",
+            "jp": "クマシュン",
+            "en": "Cubchoo",
+            "jsonid": "613"
+        },
+        {
+            "ndex": "614",
+            "cht": "凍原熊",
+            "jp": "ツンベアー",
+            "en": "Beartic",
+            "jsonid": "614"
+        },
+        {
+            "ndex": "615",
+            "cht": "幾何雪花",
+            "jp": "フリージオ",
+            "en": "Cryogonal",
+            "jsonid": "615"
+        },
+        {
+            "ndex": "616",
+            "cht": "小嘴蝸",
+            "jp": "チョボマキ",
+            "en": "Shelmet",
+            "jsonid": "616"
+        },
+        {
+            "ndex": "617",
+            "cht": "敏捷蟲",
+            "jp": "アギルダー",
+            "en": "Accelgor",
+            "jsonid": "617"
+        },
+        {
+            "ndex": "618",
+            "cht": "泥巴魚",
+            "jp": "マッギョ",
+            "en": "Stunfisk",
+            "jsonid": "618"
+        },
+        {
+            "ndex": "618",
+            "cht": "泥巴魚-伽勒爾",
+            "jp": "ガラルマッギョ",
+            "en": "Galar Stunfisk",
+            "jsonid": "10177"
+        },
+        {
+            "ndex": "619",
+            "cht": "功夫鼬",
+            "jp": "コジョフー",
+            "en": "Mienfoo",
+            "jsonid": "619"
+        },
+        {
+            "ndex": "620",
+            "cht": "師父鼬",
+            "jp": "コジョンド",
+            "en": "Mienshao",
+            "jsonid": "620"
+        },
+        {
+            "ndex": "621",
+            "cht": "赤面龍",
+            "jp": "クリムガン",
+            "en": "Druddigon",
+            "jsonid": "621"
+        },
+        {
+            "ndex": "622",
+            "cht": "泥偶小人",
+            "jp": "ゴビット",
+            "en": "Golett",
+            "jsonid": "622"
+        },
+        {
+            "ndex": "623",
+            "cht": "泥偶巨人",
+            "jp": "ゴルーグ",
+            "en": "Golurk",
+            "jsonid": "623"
+        },
+        {
+            "ndex": "624",
+            "cht": "駒刀小兵",
+            "jp": "コマタナ",
+            "en": "Pawniard",
+            "jsonid": "624"
+        },
+        {
+            "ndex": "625",
+            "cht": "劈斬司令",
+            "jp": "キリキザン",
+            "en": "Bisharp",
+            "jsonid": "625"
+        },
+        {
+            "ndex": "626",
+            "cht": "爆炸頭水牛",
+            "jp": "バッフロン",
+            "en": "Bouffalant",
+            "jsonid": "626"
+        },
+        {
+            "ndex": "627",
+            "cht": "毛頭小鷹",
+            "jp": "ワシボン",
+            "en": "Rufflet",
+            "jsonid": "627"
+        },
+        {
+            "ndex": "628",
+            "cht": "勇士雄鷹",
+            "jp": "ウォーグル",
+            "en": "Braviary",
+            "jsonid": "628"
+        },
+        {
+            "ndex": "629",
+            "cht": "禿鷹丫頭",
+            "jp": "バルチャイ",
+            "en": "Vullaby",
+            "jsonid": "629"
+        },
+        {
+            "ndex": "630",
+            "cht": "禿鷹娜",
+            "jp": "バルジーナ",
+            "en": "Mandibuzz",
+            "jsonid": "630"
+        },
+        {
+            "ndex": "631",
+            "cht": "熔蟻獸",
+            "jp": "クイタラン",
+            "en": "Heatmor",
+            "jsonid": "631"
+        },
+        {
+            "ndex": "632",
+            "cht": "鐵蟻",
+            "jp": "アイアント",
+            "en": "Durant",
+            "jsonid": "632"
+        },
+        {
+            "ndex": "633",
+            "cht": "單首龍",
+            "jp": "モノズ",
+            "en": "Deino",
+            "jsonid": "633"
+        },
+        {
+            "ndex": "634",
+            "cht": "雙首暴龍",
+            "jp": "ジヘッド",
+            "en": "Zweilous",
+            "jsonid": "634"
+        },
+        {
+            "ndex": "635",
+            "cht": "三首惡龍",
+            "jp": "サザンドラ",
+            "en": "Hydreigon",
+            "jsonid": "635"
+        },
+        {
+            "ndex": "636",
+            "cht": "燃燒蟲",
+            "jp": "メラルバ",
+            "en": "Larvesta",
+            "jsonid": "636"
+        },
+        {
+            "ndex": "637",
+            "cht": "火神蛾",
+            "jp": "ウルガモス",
+            "en": "Volcarona",
+            "jsonid": "637"
+        },
+        {
+            "ndex": "638",
+            "cht": "勾帕路翁",
+            "jp": "コバルオン",
+            "en": "Cobalion",
+            "jsonid": "638"
+        },
+        {
+            "ndex": "639",
+            "cht": "代拉基翁",
+            "jp": "テラキオン",
+            "en": "Terrakion",
+            "jsonid": "639"
+        },
+        {
+            "ndex": "640",
+            "cht": "畢力吉翁",
+            "jp": "ビリジオン",
+            "en": "Virizion",
+            "jsonid": "640"
+        },
+        {
+            "ndex": "641",
+            "cht": "龍捲雲-化身",
+            "jp": "トルネロス",
+            "en": "Tornadus",
+            "jsonid": "641"
+        },
+        {
+            "ndex": "641",
+            "cht": "龍捲雲-靈獸",
+            "jp": "れいじゅうトルネロス",
+            "en": "Therian Tornadus",
+            "jsonid": "10019"
+        },
+        {
+            "ndex": "642",
+            "cht": "雷電雲-化身",
+            "jp": "ボルトロス",
+            "en": "Thundurus",
+            "jsonid": "642"
+        },
+        {
+            "ndex": "642",
+            "cht": "雷電雲-靈獸",
+            "jp": "れいじゅうボルトロス",
+            "en": "Therian Thundurus",
+            "jsonid": "10020"
+        },
+        {
+            "ndex": "643",
+            "cht": "萊希拉姆",
+            "jp": "レシラム",
+            "en": "Reshiram",
+            "jsonid": "643"
+        },
+        {
+            "ndex": "644",
+            "cht": "捷克羅姆",
+            "jp": "ゼクロム",
+            "en": "Zekrom",
+            "jsonid": "644"
+        },
+        {
+            "ndex": "645",
+            "cht": "土地雲-化身",
+            "jp": "ランドロス",
+            "en": "Landorus",
+            "jsonid": "645"
+        },
+        {
+            "ndex": "645",
+            "cht": "土地雲-靈獸",
+            "jp": "れいじゅうランドロス",
+            "en": "Therian Landorus",
+            "jsonid": "10021"
+        },
+        {
+            "ndex": "646",
+            "cht": "酋雷姆",
+            "jp": "キュレム",
+            "en": "Kyurem",
+            "jsonid": "646"
+        },
+        {
+            "ndex": "646",
+            "cht": "酋雷姆-闇黑",
+            "jp": "ブラックキュレム",
+            "en": "Black Kyurem",
+            "jsonid": "10022"
+        },
+        {
+            "ndex": "646",
+            "cht": "酋雷姆-焰白",
+            "jp": "ホワイトキュレム",
+            "en": "White Kyurem",
+            "jsonid": "10023"
+        },
+        {
+            "ndex": "647",
+            "cht": "凱路迪歐",
+            "jp": "ケルディオ",
+            "en": "Keldeo",
+            "jsonid": "647"
+        },
+        {
+            "ndex": "647",
+            "cht": "凱路迪歐-覺醒",
+            "jp": "かくごケルディオ",
+            "en": "Resolute Keldeo",
+            "jsonid": "10024"
+        },
+        {
+            "ndex": "648",
+            "cht": "美洛耶塔-歌聲",
+            "jp": "メロエッタ",
+            "en": "Meloetta",
+            "jsonid": "648"
+        },
+        {
+            "ndex": "648",
+            "cht": "美洛耶塔-舞步",
+            "jp": "ステップメロエッタ",
+            "en": "Pirouette Meloetta",
+            "jsonid": "10018"
+        },
+        {
+            "ndex": "649",
+            "cht": "蓋諾賽克特",
+            "jp": "ゲノセクト",
+            "en": "Genesect",
+            "jsonid": "649"
+        },
+        {
+            "ndex": "650",
+            "cht": "哈力栗",
+            "jp": "ハリマロン",
+            "en": "Chespin",
+            "jsonid": "650"
+        },
+        {
+            "ndex": "651",
+            "cht": "胖胖哈力",
+            "jp": "ハリボーグ",
+            "en": "Quilladin",
+            "jsonid": "651"
+        },
+        {
+            "ndex": "652",
+            "cht": "布里卡隆",
+            "jp": "ブリガロン",
+            "en": "Chesnaught",
+            "jsonid": "652"
+        },
+        {
+            "ndex": "653",
+            "cht": "火狐狸",
+            "jp": "フォッコ",
+            "en": "Fennekin",
+            "jsonid": "653"
+        },
+        {
+            "ndex": "654",
+            "cht": "長尾火狐",
+            "jp": "テールナー",
+            "en": "Braixen",
+            "jsonid": "654"
+        },
+        {
+            "ndex": "655",
+            "cht": "妖火紅狐",
+            "jp": "マフォクシー",
+            "en": "Delphox",
+            "jsonid": "655"
+        },
+        {
+            "ndex": "656",
+            "cht": "呱呱泡蛙",
+            "jp": "ケロマツ",
+            "en": "Froakie",
+            "jsonid": "656"
+        },
+        {
+            "ndex": "657",
+            "cht": "呱頭蛙",
+            "jp": "ゲコガシラ",
+            "en": "Frogadier",
+            "jsonid": "657"
+        },
+        {
+            "ndex": "658",
+            "cht": "甲賀忍蛙",
+            "jp": "ゲッコウガ",
+            "en": "Greninja",
+            "jsonid": "658"
+        },
+        {
+            "ndex": "658",
+            "cht": "甲賀忍蛙-小智",
+            "jp": "サトシゲッコウガ",
+            "en": "Ash Greninja",
+            "jsonid": "10117"
+        },
+        {
+            "ndex": "659",
+            "cht": "掘掘兔",
+            "jp": "ホルビー",
+            "en": "Bunnelby",
+            "jsonid": "659"
+        },
+        {
+            "ndex": "660",
+            "cht": "掘地兔",
+            "jp": "ホルード",
+            "en": "Diggersby",
+            "jsonid": "660"
+        },
+        {
+            "ndex": "661",
+            "cht": "小箭雀",
+            "jp": "ヤヤコマ",
+            "en": "Fletchling",
+            "jsonid": "661"
+        },
+        {
+            "ndex": "662",
+            "cht": "火箭雀",
+            "jp": "ヒノヤコマ",
+            "en": "Fletchinder",
+            "jsonid": "662"
+        },
+        {
+            "ndex": "663",
+            "cht": "烈箭鷹",
+            "jp": "ファイアロー",
+            "en": "Talonflame",
+            "jsonid": "663"
+        },
+        {
+            "ndex": "664",
+            "cht": "粉蝶蟲",
+            "jp": "コフキムシ",
+            "en": "Scatterbug",
+            "jsonid": "664"
+        },
+        {
+            "ndex": "665",
+            "cht": "粉蝶蛹",
+            "jp": "コフーライ",
+            "en": "Spewpa",
+            "jsonid": "665"
+        },
+        {
+            "ndex": "666",
+            "cht": "彩粉蝶",
+            "jp": "ビビヨン",
+            "en": "Vivillon",
+            "jsonid": "666"
+        },
+        {
+            "ndex": "667",
+            "cht": "小獅獅",
+            "jp": "シシコ",
+            "en": "Litleo",
+            "jsonid": "667"
+        },
+        {
+            "ndex": "668",
+            "cht": "火炎獅",
+            "jp": "カエンジシ",
+            "en": "Pyroar",
+            "jsonid": "668"
+        },
+        {
+            "ndex": "669",
+            "cht": "花蓓蓓",
+            "jp": "フラベベ",
+            "en": "Flabébé",
+            "jsonid": "669"
+        },
+        {
+            "ndex": "670",
+            "cht": "花葉蒂",
+            "jp": "フラエッテ",
+            "en": "Floette",
+            "jsonid": "670"
+        },
+        {
+            "ndex": "671",
+            "cht": "花潔夫人",
+            "jp": "フラージェス",
+            "en": "Florges",
+            "jsonid": "671"
+        },
+        {
+            "ndex": "672",
+            "cht": "坐騎小羊",
+            "jp": "メェークル",
+            "en": "Skiddo",
+            "jsonid": "672"
+        },
+        {
+            "ndex": "673",
+            "cht": "坐騎山羊",
+            "jp": "ゴーゴート",
+            "en": "Gogoat",
+            "jsonid": "673"
+        },
+        {
+            "ndex": "674",
+            "cht": "頑皮熊貓",
+            "jp": "ヤンチャム",
+            "en": "Pancham",
+            "jsonid": "674"
+        },
+        {
+            "ndex": "675",
+            "cht": "流氓熊貓",
+            "jp": "ゴロンダ",
+            "en": "Pangoro",
+            "jsonid": "675"
+        },
+        {
+            "ndex": "676",
+            "cht": "多麗米亞",
+            "jp": "トリミアン",
+            "en": "Furfrou",
+            "jsonid": "676"
+        },
+        {
+            "ndex": "677",
+            "cht": "妙喵",
+            "jp": "ニャスパー",
+            "en": "Espurr",
+            "jsonid": "677"
+        },
+        {
+            "ndex": "678",
+            "cht": "超能妙喵♂",
+            "jp": "ニャオニクス♂",
+            "en": "Meowstic♂",
+            "jsonid": "678"
+        },
+        {
+            "ndex": "678",
+            "cht": "超能妙喵♀",
+            "jp": "ニャオニクス♀",
+            "en": "Meowstic♀",
+            "jsonid": "10025"
+        },
+        {
+            "ndex": "679",
+            "cht": "獨劍鞘",
+            "jp": "ヒトツキ",
+            "en": "Honedge",
+            "jsonid": "679"
+        },
+        {
+            "ndex": "680",
+            "cht": "雙劍鞘",
+            "jp": "ニダンギル",
+            "en": "Doublade",
+            "jsonid": "680"
+        },
+        {
+            "ndex": "681",
+            "cht": "堅盾劍怪-盾牌",
+            "jp": "ギルガルド",
+            "en": "Aegislash",
+            "jsonid": "681"
+        },
+        {
+            "ndex": "681",
+            "cht": "堅盾劍怪-刀劍",
+            "jp": "ギルガルド",
+            "en": "Aegislash",
+            "jsonid": "10026"
+        },
+        {
+            "ndex": "682",
+            "cht": "粉香香",
+            "jp": "シュシュプ",
+            "en": "Spritzee",
+            "jsonid": "682"
+        },
+        {
+            "ndex": "683",
+            "cht": "芳香精",
+            "jp": "フレフワン",
+            "en": "Aromatisse",
+            "jsonid": "683"
+        },
+        {
+            "ndex": "684",
+            "cht": "綿綿泡芙",
+            "jp": "ペロッパフ",
+            "en": "Swirlix",
+            "jsonid": "684"
+        },
+        {
+            "ndex": "685",
+            "cht": "胖甜妮",
+            "jp": "ペロリーム",
+            "en": "Slurpuff",
+            "jsonid": "685"
+        },
+        {
+            "ndex": "686",
+            "cht": "好啦魷",
+            "jp": "マーイーカ",
+            "en": "Inkay",
+            "jsonid": "686"
+        },
+        {
+            "ndex": "687",
+            "cht": "烏賊王",
+            "jp": "カラマネロ",
+            "en": "Malamar",
+            "jsonid": "687"
+        },
+        {
+            "ndex": "688",
+            "cht": "龜腳腳",
+            "jp": "カメテテ",
+            "en": "Binacle",
+            "jsonid": "688"
+        },
+        {
+            "ndex": "689",
+            "cht": "龜足巨鎧",
+            "jp": "ガメノデス",
+            "en": "Barbaracle",
+            "jsonid": "689"
+        },
+        {
+            "ndex": "690",
+            "cht": "垃垃藻",
+            "jp": "クズモー",
+            "en": "Skrelp",
+            "jsonid": "690"
+        },
+        {
+            "ndex": "691",
+            "cht": "毒藻龍",
+            "jp": "ドラミドロ",
+            "en": "Dragalge",
+            "jsonid": "691"
+        },
+        {
+            "ndex": "692",
+            "cht": "鐵臂槍蝦",
+            "jp": "ウデッポウ",
+            "en": "Clauncher",
+            "jsonid": "692"
+        },
+        {
+            "ndex": "693",
+            "cht": "鋼炮臂蝦",
+            "jp": "ブロスター",
+            "en": "Clawitzer",
+            "jsonid": "693"
+        },
+        {
+            "ndex": "694",
+            "cht": "傘電蜥",
+            "jp": "エリキテル",
+            "en": "Helioptile",
+            "jsonid": "694"
+        },
+        {
+            "ndex": "695",
+            "cht": "光電傘蜥",
+            "jp": "エレザード",
+            "en": "Heliolisk",
+            "jsonid": "695"
+        },
+        {
+            "ndex": "696",
+            "cht": "寶寶暴龍",
+            "jp": "チゴラス",
+            "en": "Tyrunt",
+            "jsonid": "696"
+        },
+        {
+            "ndex": "697",
+            "cht": "怪顎龍",
+            "jp": "ガチゴラス",
+            "en": "Tyrantrum",
+            "jsonid": "697"
+        },
+        {
+            "ndex": "698",
+            "cht": "冰雪龍",
+            "jp": "アマルス",
+            "en": "Amaura",
+            "jsonid": "698"
+        },
+        {
+            "ndex": "699",
+            "cht": "冰雪巨龍",
+            "jp": "アマルルガ",
+            "en": "Aurorus",
+            "jsonid": "699"
+        },
+        {
+            "ndex": "700",
+            "cht": "仙子伊布",
+            "jp": "ニンフィア",
+            "en": "Sylveon",
+            "jsonid": "700"
+        },
+        {
+            "ndex": "701",
+            "cht": "摔角鷹人",
+            "jp": "ルチャブル",
+            "en": "Hawlucha",
+            "jsonid": "701"
+        },
+        {
+            "ndex": "702",
+            "cht": "咚咚鼠",
+            "jp": "デデンネ",
+            "en": "Dedenne",
+            "jsonid": "702"
+        },
+        {
+            "ndex": "703",
+            "cht": "小碎鑽",
+            "jp": "メレシー",
+            "en": "Carbink",
+            "jsonid": "703"
+        },
+        {
+            "ndex": "704",
+            "cht": "黏黏寶",
+            "jp": "ヌメラ",
+            "en": "Goomy",
+            "jsonid": "704"
+        },
+        {
+            "ndex": "705",
+            "cht": "黏美兒",
+            "jp": "ヌメイル",
+            "en": "Sliggoo",
+            "jsonid": "705"
+        },
+        {
+            "ndex": "706",
+            "cht": "黏美龍",
+            "jp": "ヌメルゴン",
+            "en": "Goodra",
+            "jsonid": "706"
+        },
+        {
+            "ndex": "707",
+            "cht": "鑰圈兒",
+            "jp": "クレッフィ",
+            "en": "Klefki",
+            "jsonid": "707"
+        },
+        {
+            "ndex": "708",
+            "cht": "小木靈",
+            "jp": "ボクレー",
+            "en": "Phantump",
+            "jsonid": "708"
+        },
+        {
+            "ndex": "709",
+            "cht": "朽木妖",
+            "jp": "オーロット",
+            "en": "Trevenant",
+            "jsonid": "709"
+        },
+        {
+            "ndex": "710",
+            "cht": "南瓜精",
+            "jp": "バケッチャ",
+            "en": "Pumpkaboo",
+            "jsonid": "710"
+        },
+        {
+            "ndex": "711",
+            "cht": "南瓜怪人",
+            "jp": "パンプジン",
+            "en": "Gourgeist",
+            "jsonid": "711"
+        },
+        {
+            "ndex": "712",
+            "cht": "冰寶",
+            "jp": "カチコール",
+            "en": "Bergmite",
+            "jsonid": "712"
+        },
+        {
+            "ndex": "713",
+            "cht": "冰岩怪",
+            "jp": "クレベース",
+            "en": "Avalugg",
+            "jsonid": "713"
+        },
+        {
+            "ndex": "714",
+            "cht": "嗡蝠",
+            "jp": "オンバット",
+            "en": "Noibat",
+            "jsonid": "714"
+        },
+        {
+            "ndex": "715",
+            "cht": "音波龍",
+            "jp": "オンバーン",
+            "en": "Noivern",
+            "jsonid": "715"
+        },
+        {
+            "ndex": "716",
+            "cht": "哲爾尼亞斯",
+            "jp": "ゼルネアス",
+            "en": "Xerneas",
+            "jsonid": "716"
+        },
+        {
+            "ndex": "717",
+            "cht": "伊裴爾塔爾",
+            "jp": "イベルタル",
+            "en": "Yveltal",
+            "jsonid": "717"
+        },
+        {
+            "ndex": "718",
+            "cht": "基格爾德-50%",
+            "jp": "ジガルデ",
+            "en": "Zygarde",
+            "jsonid": "718"
+        },
+        {
+            "ndex": "718",
+            "cht": "基格爾德-10%",
+            "jp": "10%ジガルデ",
+            "en": "10% Zygarde",
+            "jsonid": "10118"
+        },
+        {
+            "ndex": "718",
+            "cht": "基格爾德-完全體",
+            "jp": "パーフェクトジガルデ",
+            "en": "Complete Zygarde",
+            "jsonid": "10120"
+        },
+        {
+            "ndex": "719",
+            "cht": "蒂安希",
+            "jp": "ディアンシー",
+            "en": "Diancie",
+            "jsonid": "719"
+        },
+        {
+            "ndex": "719",
+            "cht": "蒂安希-超級",
+            "jp": "メガディアンシー",
+            "en": "Mega Diancie",
+            "jsonid": "10075"
+        },
+        {
+            "ndex": "720",
+            "cht": "胡帕-懲戒",
+            "jp": "フーパ",
+            "en": "Hoopa",
+            "jsonid": "720"
+        },
+        {
+            "ndex": "720",
+            "cht": "胡帕-解放",
+            "jp": "ときはなたれしフーパ",
+            "en": "Unbound Hoopa",
+            "jsonid": "10086"
+        },
+        {
+            "ndex": "721",
+            "cht": "波爾凱尼恩",
+            "jp": "ボルケニオン‎",
+            "en": "Volcanion",
+            "jsonid": "721"
+        },
+        {
+            "ndex": "722",
+            "cht": "木木梟",
+            "jp": "モクロー",
+            "en": "Rowlet",
+            "jsonid": "722"
+        },
+        {
+            "ndex": "723",
+            "cht": "投羽梟",
+            "jp": "フクスロー",
+            "en": "Dartrix",
+            "jsonid": "723"
+        },
+        {
+            "ndex": "724",
+            "cht": "狙射樹梟",
+            "jp": "ジュナイパー",
+            "en": "Decidueye",
+            "jsonid": "724"
+        },
+        {
+            "ndex": "725",
+            "cht": "火斑喵",
+            "jp": "ニャビー",
+            "en": "Litten",
+            "jsonid": "725"
+        },
+        {
+            "ndex": "726",
+            "cht": "炎熱喵",
+            "jp": "ニャヒート",
+            "en": "Torracat",
+            "jsonid": "726"
+        },
+        {
+            "ndex": "727",
+            "cht": "熾焰咆哮虎",
+            "jp": "ガオガエン",
+            "en": "Incineroar",
+            "jsonid": "727"
+        },
+        {
+            "ndex": "728",
+            "cht": "球球海獅",
+            "jp": "アシマリ",
+            "en": "Popplio",
+            "jsonid": "728"
+        },
+        {
+            "ndex": "729",
+            "cht": "花漾海獅",
+            "jp": "オシャマリ",
+            "en": "Brionne",
+            "jsonid": "729"
+        },
+        {
+            "ndex": "730",
+            "cht": "西獅海壬",
+            "jp": "アシレーヌ",
+            "en": "Primarina",
+            "jsonid": "730"
+        },
+        {
+            "ndex": "731",
+            "cht": "小篤兒",
+            "jp": "ツツケラ",
+            "en": "Pikipek",
+            "jsonid": "731"
+        },
+        {
+            "ndex": "732",
+            "cht": "喇叭啄鳥",
+            "jp": "ケララッパ",
+            "en": "Trumbeak",
+            "jsonid": "732"
+        },
+        {
+            "ndex": "733",
+            "cht": "銃嘴大鳥",
+            "jp": "ドデカバシ",
+            "en": "Toucannon",
+            "jsonid": "733"
+        },
+        {
+            "ndex": "734",
+            "cht": "貓鼬少",
+            "jp": "ヤングース",
+            "en": "Yungoos",
+            "jsonid": "734"
+        },
+        {
+            "ndex": "735",
+            "cht": "貓鼬探長",
+            "jp": "デカグース",
+            "en": "Gumshoos",
+            "jsonid": "735"
+        },
+        {
+            "ndex": "736",
+            "cht": "強顎雞母蟲",
+            "jp": "アゴジムシ",
+            "en": "Grubbin",
+            "jsonid": "736"
+        },
+        {
+            "ndex": "737",
+            "cht": "蟲電寶",
+            "jp": "デンヂムシ",
+            "en": "Charjabug",
+            "jsonid": "737"
+        },
+        {
+            "ndex": "738",
+            "cht": "鍬農炮蟲",
+            "jp": "クワガノン",
+            "en": "Vikavolt",
+            "jsonid": "738"
+        },
+        {
+            "ndex": "739",
+            "cht": "好勝蟹",
+            "jp": "マケンカニ",
+            "en": "Crabrawler",
+            "jsonid": "739"
+        },
+        {
+            "ndex": "740",
+            "cht": "好勝毛蟹",
+            "jp": "ケケンカニ",
+            "en": "Crabominable",
+            "jsonid": "740"
+        },
+        {
+            "ndex": "741",
+            "cht": "花舞鳥",
+            "jp": "オドリドリ",
+            "en": "Oricorio",
+            "jsonid": "741"
+        },
+        {
+            "ndex": "742",
+            "cht": "萌虻",
+            "jp": "アブリー",
+            "en": "Cutiefly",
+            "jsonid": "742"
+        },
+        {
+            "ndex": "743",
+            "cht": "蝶結萌虻",
+            "jp": "アブリボン",
+            "en": "Ribombee",
+            "jsonid": "743"
+        },
+        {
+            "ndex": "744",
+            "cht": "岩狗狗",
+            "jp": "イワンコ",
+            "en": "Rockruff",
+            "jsonid": "744"
+        },
+        {
+            "ndex": "745",
+            "cht": "鬃岩狼人-白晝",
+            "jp": "まひるルガルガン",
+            "en": "Midday Lycanroc",
+            "jsonid": "745"
+        },
+        {
+            "ndex": "745",
+            "cht": "鬃岩狼人-黑夜",
+            "jp": "まよなかルガルガン",
+            "en": "Midnight Lycanroc",
+            "jsonid": "10126"
+        },
+        {
+            "ndex": "745",
+            "cht": "鬃岩狼人-黃昏",
+            "jp": "たそがれルガルガン",
+            "en": "Dusk Lycanroc",
+            "jsonid": "10152"
+        },
+        {
+            "ndex": "746",
+            "cht": "弱丁魚",
+            "jp": "ヨワシ",
+            "en": "Wishiwashi",
+            "jsonid": "746"
+        },
+        {
+            "ndex": "747",
+            "cht": "好壞星",
+            "jp": "ヒドイデ",
+            "en": "Mareanie",
+            "jsonid": "747"
+        },
+        {
+            "ndex": "748",
+            "cht": "超壞星",
+            "jp": "ドヒドイデ",
+            "en": "Toxapex",
+            "jsonid": "748"
+        },
+        {
+            "ndex": "749",
+            "cht": "泥驢仔",
+            "jp": "ドロバンコ",
+            "en": "Mudbray",
+            "jsonid": "749"
+        },
+        {
+            "ndex": "750",
+            "cht": "重泥輓馬",
+            "jp": "バンバドロ",
+            "en": "Mudsdale",
+            "jsonid": "750"
+        },
+        {
+            "ndex": "751",
+            "cht": "滴蛛",
+            "jp": "シズクモ",
+            "en": "Dewpider",
+            "jsonid": "751"
+        },
+        {
+            "ndex": "752",
+            "cht": "滴蛛霸",
+            "jp": "オニシズクモ",
+            "en": "Araquanid",
+            "jsonid": "752"
+        },
+        {
+            "ndex": "753",
+            "cht": "偽螳草",
+            "jp": "カリキリ",
+            "en": "Fomantis",
+            "jsonid": "753"
+        },
+        {
+            "ndex": "754",
+            "cht": "蘭螳花",
+            "jp": "ラランテス",
+            "en": "Lurantis",
+            "jsonid": "754"
+        },
+        {
+            "ndex": "755",
+            "cht": "睡睡菇",
+            "jp": "ネマシュ",
+            "en": "Morelull",
+            "jsonid": "755"
+        },
+        {
+            "ndex": "756",
+            "cht": "燈罩夜菇",
+            "jp": "マシェード",
+            "en": "Shiinotic",
+            "jsonid": "756"
+        },
+        {
+            "ndex": "757",
+            "cht": "夜盜火蜥",
+            "jp": "ヤトウモリ",
+            "en": "Salandit",
+            "jsonid": "757"
+        },
+        {
+            "ndex": "758",
+            "cht": "焰后蜥",
+            "jp": "エンニュート",
+            "en": "Salazzle",
+            "jsonid": "758"
+        },
+        {
+            "ndex": "759",
+            "cht": "童偶熊",
+            "jp": "ヌイコグマ",
+            "en": "Stufful",
+            "jsonid": "759"
+        },
+        {
+            "ndex": "760",
+            "cht": "穿著熊",
+            "jp": "キテルグマ",
+            "en": "Bewear",
+            "jsonid": "760"
+        },
+        {
+            "ndex": "761",
+            "cht": "甜竹竹",
+            "jp": "アマカジ",
+            "en": "Bounsweet",
+            "jsonid": "761"
+        },
+        {
+            "ndex": "762",
+            "cht": "甜舞妮",
+            "jp": "アママイコ",
+            "en": "Steenee",
+            "jsonid": "762"
+        },
+        {
+            "ndex": "763",
+            "cht": "甜冷美后",
+            "jp": "アマージョ",
+            "en": "Tsareena",
+            "jsonid": "763"
+        },
+        {
+            "ndex": "764",
+            "cht": "花療環環",
+            "jp": "キュワワー",
+            "en": "Comfey",
+            "jsonid": "764"
+        },
+        {
+            "ndex": "765",
+            "cht": "智揮猩",
+            "jp": "ヤレユータン",
+            "en": "Oranguru",
+            "jsonid": "765"
+        },
+        {
+            "ndex": "766",
+            "cht": "投擲猴",
+            "jp": "ナゲツケサル",
+            "en": "Passimian",
+            "jsonid": "766"
+        },
+        {
+            "ndex": "767",
+            "cht": "膽小蟲",
+            "jp": "コソクムシ",
+            "en": "Wimpod",
+            "jsonid": "767"
+        },
+        {
+            "ndex": "768",
+            "cht": "具甲武者",
+            "jp": "グソクムシャ",
+            "en": "Golisopod",
+            "jsonid": "768"
+        },
+        {
+            "ndex": "769",
+            "cht": "沙丘娃",
+            "jp": "スナバァ",
+            "en": "Sandygast",
+            "jsonid": "769"
+        },
+        {
+            "ndex": "770",
+            "cht": "噬沙堡爺",
+            "jp": "シロデスナ",
+            "en": "Palossand",
+            "jsonid": "770"
+        },
+        {
+            "ndex": "771",
+            "cht": "拳海參",
+            "jp": "ナマコブシ",
+            "en": "Pyukumuku",
+            "jsonid": "771"
+        },
+        {
+            "ndex": "772",
+            "cht": "屬性：空",
+            "jp": "タイプ：ヌル",
+            "en": "Type: Null",
+            "jsonid": "772"
+        },
+        {
+            "ndex": "773",
+            "cht": "銀伴戰獸",
+            "jp": "シルヴァディ",
+            "en": "Silvally",
+            "jsonid": "773"
+        },
+        {
+            "ndex": "774",
+            "cht": "小隕星-流星",
+            "jp": "メテノ",
+            "en": "Minior",
+            "jsonid": "774"
+        },
+        {
+            "ndex": "774",
+            "cht": "小隕星-核心",
+            "jp": "コアメテノ",
+            "en": "Core Minior",
+            "jsonid": "10136"
+        },
+        {
+            "ndex": "775",
+            "cht": "樹枕尾熊",
+            "jp": "ネッコアラ",
+            "en": "Komala",
+            "jsonid": "775"
+        },
+        {
+            "ndex": "776",
+            "cht": "爆焰龜獸",
+            "jp": "バクガメス",
+            "en": "Turtonator",
+            "jsonid": "776"
+        },
+        {
+            "ndex": "777",
+            "cht": "托戈德瑪爾",
+            "jp": "トゲデマル",
+            "en": "Togedemaru",
+            "jsonid": "777"
+        },
+        {
+            "ndex": "778",
+            "cht": "謎擬Ｑ",
+            "jp": "ミミッキュ",
+            "en": "Mimikyu",
+            "jsonid": "778"
+        },
+        {
+            "ndex": "779",
+            "cht": "磨牙彩皮魚",
+            "jp": "ハギギシリ",
+            "en": "Bruxish",
+            "jsonid": "779"
+        },
+        {
+            "ndex": "780",
+            "cht": "老翁龍",
+            "jp": "ジジーロン",
+            "en": "Drampa",
+            "jsonid": "780"
+        },
+        {
+            "ndex": "781",
+            "cht": "破破舵輪",
+            "jp": "ダダリン",
+            "en": "Dhelmise",
+            "jsonid": "781"
+        },
+        {
+            "ndex": "782",
+            "cht": "心鱗寶",
+            "jp": "ジャラコ",
+            "en": "Jangmo-o",
+            "jsonid": "782"
+        },
+        {
+            "ndex": "783",
+            "cht": "鱗甲龍",
+            "jp": "ジャランゴ",
+            "en": "Hakamo-o",
+            "jsonid": "783"
+        },
+        {
+            "ndex": "784",
+            "cht": "杖尾鱗甲龍",
+            "jp": "ジャラランガ",
+            "en": "Kommo-o",
+            "jsonid": "784"
+        },
+        {
+            "ndex": "785",
+            "cht": "卡璞・鳴鳴",
+            "jp": "カプ・コケコ",
+            "en": "Tapu Koko",
+            "jsonid": "785"
+        },
+        {
+            "ndex": "786",
+            "cht": "卡璞・蝶蝶",
+            "jp": "カプ・テテフ",
+            "en": "Tapu Lele",
+            "jsonid": "786"
+        },
+        {
+            "ndex": "787",
+            "cht": "卡璞・哞哞",
+            "jp": "カプ・ブルル",
+            "en": "Tapu Bulu",
+            "jsonid": "787"
+        },
+        {
+            "ndex": "788",
+            "cht": "卡璞・鰭鰭",
+            "jp": "カプ・レヒレ",
+            "en": "Tapu Fini",
+            "jsonid": "788"
+        },
+        {
+            "ndex": "789",
+            "cht": "科斯莫古",
+            "jp": "コスモッグ",
+            "en": "Cosmog",
+            "jsonid": "789"
+        },
+        {
+            "ndex": "790",
+            "cht": "科斯莫姆",
+            "jp": "コスモウム",
+            "en": "Cosmoem",
+            "jsonid": "790"
+        },
+        {
+            "ndex": "791",
+            "cht": "索爾迦雷歐",
+            "jp": "ソルガレオ",
+            "en": "Solgaleo",
+            "jsonid": "791"
+        },
+        {
+            "ndex": "792",
+            "cht": "露奈雅拉",
+            "jp": "ルナアーラ",
+            "en": "Lunala",
+            "jsonid": "792"
+        },
+        {
+            "ndex": "793",
+            "cht": "虛吾伊德",
+            "jp": "ウツロイド",
+            "en": "Nihilego",
+            "jsonid": "793"
+        },
+        {
+            "ndex": "794",
+            "cht": "爆肌蚊",
+            "jp": "マッシブーン",
+            "en": "Buzzwole",
+            "jsonid": "794"
+        },
+        {
+            "ndex": "795",
+            "cht": "費洛美螂",
+            "jp": "フェローチェ",
+            "en": "Pheromosa",
+            "jsonid": "795"
+        },
+        {
+            "ndex": "796",
+            "cht": "電束木",
+            "jp": "デンジュモク",
+            "en": "Xurkitree",
+            "jsonid": "796"
+        },
+        {
+            "ndex": "797",
+            "cht": "鐵火輝夜",
+            "jp": "テッカグヤ",
+            "en": "Celesteela",
+            "jsonid": "797"
+        },
+        {
+            "ndex": "798",
+            "cht": "紙御劍",
+            "jp": "カミツルギ",
+            "en": "Kartana",
+            "jsonid": "798"
+        },
+        {
+            "ndex": "799",
+            "cht": "惡食大王",
+            "jp": "アクジキング",
+            "en": "Guzzlord",
+            "jsonid": "799"
+        },
+        {
+            "ndex": "800",
+            "cht": "奈克洛茲瑪",
+            "jp": "ネクロズマ",
+            "en": "Necrozma",
+            "jsonid": "800"
+        },
+        {
+            "ndex": "800",
+            "cht": "奈克洛茲瑪-黃昏之鬃",
+            "jp": "たそがれネクロズマ",
+            "en": "Dusk Mane Necrozma",
+            "jsonid": "10155"
+        },
+        {
+            "ndex": "800",
+            "cht": "奈克洛茲瑪-拂曉之翼",
+            "jp": "あかつきネクロズマ",
+            "en": "Dawn Wings Necrozma",
+            "jsonid": "10156"
+        },
+        {
+            "ndex": "800",
+            "cht": "奈克洛茲瑪-究級",
+            "jp": "ウルトラネクロズマ",
+            "en": "Ultra Necrozma",
+            "jsonid": "10157"
+        },
+        {
+            "ndex": "801",
+            "cht": "瑪機雅娜",
+            "jp": "マギアナ",
+            "en": "Magearna",
+            "jsonid": "801"
+        },
+        {
+            "ndex": "802",
+            "cht": "瑪夏多",
+            "jp": "マーシャドー",
+            "en": "Marshadow",
+            "jsonid": "802"
+        },
+        {
+            "ndex": "803",
+            "cht": "毒貝比",
+            "jp": "ベベノム",
+            "en": "Poipole",
+            "jsonid": "803"
+        },
+        {
+            "ndex": "804",
+            "cht": "四顎針龍",
+            "jp": "アーゴヨン",
+            "en": "Naganadel",
+            "jsonid": "804"
+        },
+        {
+            "ndex": "805",
+            "cht": "壘磊石",
+            "jp": "ツンデツンデ",
+            "en": "Stakataka",
+            "jsonid": "805"
+        },
+        {
+            "ndex": "806",
+            "cht": "砰頭小丑",
+            "jp": "ズガドーン",
+            "en": "Blacephalon",
+            "jsonid": "806"
+        },
+        {
+            "ndex": "807",
+            "cht": "捷拉奧拉",
+            "jp": "ゼラオラ",
+            "en": "Zeraora",
+            "jsonid": "807"
+        },
+        {
+            "ndex": "808",
+            "cht": "美錄坦",
+            "jp": "メルタン",
+            "en": "Meltan",
+            "jsonid": "808"
+        },
+        {
+            "ndex": "809",
+            "cht": "美錄梅塔",
+            "jp": "メルメタル",
+            "en": "Melmetal",
+            "jsonid": "809"
+        },
+        {
+            "ndex": "809",
+            "cht": "美錄梅塔-超極巨",
+            "jp": "キョダイマックスメルメタル",
+            "en": "Gmax Melmetal",
+            "jsonid": "10199"
+        },
+        {
+            "ndex": "810",
+            "cht": "敲音猴",
+            "jp": "サルノリ",
+            "en": "Grookey",
+            "jsonid": "810"
+        },
+        {
+            "ndex": "811",
+            "cht": "啪咚猴",
+            "jp": "バチンキー",
+            "en": "Thwackey",
+            "jsonid": "811"
+        },
+        {
+            "ndex": "812",
+            "cht": "轟擂金剛猩",
+            "jp": "ゴリランダー",
+            "en": "Rillaboom",
+            "jsonid": "812"
+        },
+        {
+            "ndex": "812",
+            "cht": "轟擂金剛猩-超極巨",
+            "jp": "キョダイマックスゴリランダー",
+            "en": "Gmax Rillaboom",
+            "jsonid": "10200"
+        },
+        {
+            "ndex": "813",
+            "cht": "炎兔兒",
+            "jp": "ヒバニー",
+            "en": "Scorbunny",
+            "jsonid": "813"
+        },
+        {
+            "ndex": "814",
+            "cht": "騰蹴小將",
+            "jp": "ラビフット",
+            "en": "Raboot",
+            "jsonid": "814"
+        },
+        {
+            "ndex": "815",
+            "cht": "閃焰王牌",
+            "jp": "エースバーン",
+            "en": "Cinderace",
+            "jsonid": "815"
+        },
+        {
+            "ndex": "815",
+            "cht": "閃焰王牌-超極巨",
+            "jp": "キョダイマックスエースバーン",
+            "en": "Gmax Cinderace",
+            "jsonid": "10201"
+        },
+        {
+            "ndex": "816",
+            "cht": "淚眼蜥",
+            "jp": "メッソン",
+            "en": "Sobble",
+            "jsonid": "816"
+        },
+        {
+            "ndex": "817",
+            "cht": "變澀蜥",
+            "jp": "ジメレオン",
+            "en": "Drizzile",
+            "jsonid": "817"
+        },
+        {
+            "ndex": "818",
+            "cht": "千面避役",
+            "jp": "インテレオン",
+            "en": "Inteleon",
+            "jsonid": "818"
+        },
+        {
+            "ndex": "818",
+            "cht": "千面避役-超極巨",
+            "jp": "キョダイマックスインテレオン",
+            "en": "Gmax Inteleon",
+            "jsonid": "10202"
+        },
+        {
+            "ndex": "819",
+            "cht": "貪心栗鼠",
+            "jp": "ホシガリス",
+            "en": "Skwovet",
+            "jsonid": "819"
+        },
+        {
+            "ndex": "820",
+            "cht": "藏飽栗鼠",
+            "jp": "ヨクバリス",
+            "en": "Greedent",
+            "jsonid": "820"
+        },
+        {
+            "ndex": "821",
+            "cht": "稚山雀",
+            "jp": "ココガラ",
+            "en": "Rookidee",
+            "jsonid": "821"
+        },
+        {
+            "ndex": "822",
+            "cht": "藍鴉",
+            "jp": "アオガラス",
+            "en": "Corvisquire",
+            "jsonid": "822"
+        },
+        {
+            "ndex": "823",
+            "cht": "鋼鎧鴉",
+            "jp": "アーマーガア",
+            "en": "Corviknight",
+            "jsonid": "823"
+        },
+        {
+            "ndex": "823",
+            "cht": "鋼鎧鴉-超極巨",
+            "jp": "キョダイマックスアーマーガア",
+            "en": "Gmax Corviknight",
+            "jsonid": "10203"
+        },
+        {
+            "ndex": "824",
+            "cht": "索偵蟲",
+            "jp": "サッチムシ",
+            "en": "Blipbug",
+            "jsonid": "824"
+        },
+        {
+            "ndex": "825",
+            "cht": "天罩蟲",
+            "jp": "レドームシ",
+            "en": "Dottler",
+            "jsonid": "825"
+        },
+        {
+            "ndex": "826",
+            "cht": "以歐路普",
+            "jp": "イオルブ",
+            "en": "Orbeetle",
+            "jsonid": "826"
+        },
+        {
+            "ndex": "826",
+            "cht": "以歐路普-超極巨",
+            "jp": "キョダイマックスイオルブ",
+            "en": "Gmax Orbeetle",
+            "jsonid": "10204"
+        },
+        {
+            "ndex": "827",
+            "cht": "偷兒狐",
+            "jp": "クスネ",
+            "en": "Nickit",
+            "jsonid": "827"
+        },
+        {
+            "ndex": "828",
+            "cht": "狐大盜",
+            "jp": "フォクスライ",
+            "en": "Thievul",
+            "jsonid": "828"
+        },
+        {
+            "ndex": "829",
+            "cht": "幼棉棉",
+            "jp": "ヒメンカ",
+            "en": "Gossifleur",
+            "jsonid": "829"
+        },
+        {
+            "ndex": "830",
+            "cht": "白蓬蓬",
+            "jp": "ワタシラガ",
+            "en": "Eldegoss",
+            "jsonid": "830"
+        },
+        {
+            "ndex": "831",
+            "cht": "毛辮羊",
+            "jp": "ウールー",
+            "en": "Wooloo",
+            "jsonid": "831"
+        },
+        {
+            "ndex": "832",
+            "cht": "毛毛角羊",
+            "jp": "バイウールー",
+            "en": "Dubwool",
+            "jsonid": "832"
+        },
+        {
+            "ndex": "833",
+            "cht": "咬咬龜",
+            "jp": "カムカメ",
+            "en": "Chewtle",
+            "jsonid": "833"
+        },
+        {
+            "ndex": "834",
+            "cht": "暴噬龜",
+            "jp": "カジリガメ",
+            "en": "Drednaw",
+            "jsonid": "834"
+        },
+        {
+            "ndex": "834",
+            "cht": "暴噬龜-超極巨",
+            "jp": "キョダイマックスカジリガメ",
+            "en": "Gmax Drednaw",
+            "jsonid": "10205"
+        },
+        {
+            "ndex": "835",
+            "cht": "來電汪",
+            "jp": "ワンパチ",
+            "en": "Yamper",
+            "jsonid": "835"
+        },
+        {
+            "ndex": "836",
+            "cht": "逐電犬",
+            "jp": "パルスワン",
+            "en": "Boltund",
+            "jsonid": "836"
+        },
+        {
+            "ndex": "837",
+            "cht": "小炭仔",
+            "jp": "タンドン",
+            "en": "Rolycoly",
+            "jsonid": "837"
+        },
+        {
+            "ndex": "838",
+            "cht": "大炭車",
+            "jp": "トロッゴン",
+            "en": "Carkol",
+            "jsonid": "838"
+        },
+        {
+            "ndex": "839",
+            "cht": "巨炭山",
+            "jp": "セキタンザン",
+            "en": "Coalossal",
+            "jsonid": "839"
+        },
+        {
+            "ndex": "839",
+            "cht": "巨炭山-超極巨",
+            "jp": "キョダイマックスセキタンザン",
+            "en": "Gmax Coalossal",
+            "jsonid": "10206"
+        },
+        {
+            "ndex": "840",
+            "cht": "啃果蟲",
+            "jp": "カジッチュ",
+            "en": "Applin",
+            "jsonid": "840"
+        },
+        {
+            "ndex": "841",
+            "cht": "蘋裹龍",
+            "jp": "アップリュー",
+            "en": "Flapple",
+            "jsonid": "841"
+        },
+        {
+            "ndex": "841",
+            "cht": "蘋裹龍-超極巨",
+            "jp": "キョダイマックスアップリュー",
+            "en": "Gmax Flapple",
+            "jsonid": "10207"
+        },
+        {
+            "ndex": "842",
+            "cht": "豐蜜龍",
+            "jp": "タルップル",
+            "en": "Appletun",
+            "jsonid": "842"
+        },
+        {
+            "ndex": "842",
+            "cht": "豐蜜龍-超極巨",
+            "jp": "キョダイマックスタルップル",
+            "en": "Gmax Appletun",
+            "jsonid": "10208"
+        },
+        {
+            "ndex": "843",
+            "cht": "沙包蛇",
+            "jp": "スナヘビ",
+            "en": "Silicobra",
+            "jsonid": "843"
+        },
+        {
+            "ndex": "844",
+            "cht": "沙螺蟒",
+            "jp": "サダイジャ",
+            "en": "Sandaconda",
+            "jsonid": "844"
+        },
+        {
+            "ndex": "844",
+            "cht": "沙螺蟒-超極巨",
+            "jp": "キョダイマックスサダイジャ",
+            "en": "Gmax Sandaconda",
+            "jsonid": "10209"
+        },
+        {
+            "ndex": "845",
+            "cht": "古月鳥",
+            "jp": "ウッウ",
+            "en": "Cramorant",
+            "jsonid": "845"
+        },
+        {
+            "ndex": "846",
+            "cht": "刺梭魚",
+            "jp": "サシカマス",
+            "en": "Arrokuda",
+            "jsonid": "846"
+        },
+        {
+            "ndex": "847",
+            "cht": "戽斗尖梭",
+            "jp": "カマスジョー",
+            "en": "Barraskewda",
+            "jsonid": "847"
+        },
+        {
+            "ndex": "848",
+            "cht": "毒電嬰",
+            "jp": "エレズン",
+            "en": "Toxel",
+            "jsonid": "848"
+        },
+        {
+            "ndex": "849",
+            "cht": "顫弦蠑螈",
+            "jp": "ストリンダー",
+            "en": "Toxtricity",
+            "jsonid": "849"
+        },
+        {
+            "ndex": "849",
+            "cht": "顫弦蠑螈-超極巨",
+            "jp": "キョダイマックスストリンダー",
+            "en": "Gmax Toxtricity",
+            "jsonid": "10210"
+        },
+        {
+            "ndex": "850",
+            "cht": "燒火蚣",
+            "jp": "ヤクデ",
+            "en": "Sizzlipede",
+            "jsonid": "850"
+        },
+        {
+            "ndex": "851",
+            "cht": "焚焰蚣",
+            "jp": "マルヤクデ",
+            "en": "Centiskorch",
+            "jsonid": "851"
+        },
+        {
+            "ndex": "851",
+            "cht": "焚焰蚣-超極巨",
+            "jp": "キョダイマックスマルヤクデ",
+            "en": "Gmax Centiskorch",
+            "jsonid": "10211"
+        },
+        {
+            "ndex": "852",
+            "cht": "拳拳蛸",
+            "jp": "タタッコ",
+            "en": "Clobbopus",
+            "jsonid": "852"
+        },
+        {
+            "ndex": "853",
+            "cht": "八爪武師",
+            "jp": "オトスパス",
+            "en": "Grapploct",
+            "jsonid": "853"
+        },
+        {
+            "ndex": "854",
+            "cht": "來悲茶",
+            "jp": "ヤバチャ",
+            "en": "Sinistea",
+            "jsonid": "854"
+        },
+        {
+            "ndex": "855",
+            "cht": "怖思壺",
+            "jp": "ポットデス",
+            "en": "Polteageist",
+            "jsonid": "855"
+        },
+        {
+            "ndex": "856",
+            "cht": "迷布莉姆",
+            "jp": "ミブリム",
+            "en": "Hatenna",
+            "jsonid": "856"
+        },
+        {
+            "ndex": "857",
+            "cht": "提布莉姆",
+            "jp": "テブリム",
+            "en": "Hattrem",
+            "jsonid": "857"
+        },
+        {
+            "ndex": "858",
+            "cht": "布莉姆溫",
+            "jp": "ブリムオン",
+            "en": "Hatterene",
+            "jsonid": "858"
+        },
+        {
+            "ndex": "858",
+            "cht": "布莉姆溫-超極巨",
+            "jp": "キョダイマックスブリムオン",
+            "en": "Gmax Hatterene",
+            "jsonid": "10212"
+        },
+        {
+            "ndex": "859",
+            "cht": "搗蛋小妖",
+            "jp": "ベロバー",
+            "en": "Impidimp",
+            "jsonid": "859"
+        },
+        {
+            "ndex": "860",
+            "cht": "詐唬魔",
+            "jp": "ギモー",
+            "en": "Morgrem",
+            "jsonid": "860"
+        },
+        {
+            "ndex": "861",
+            "cht": "長毛巨魔",
+            "jp": "オーロンゲ",
+            "en": "Grimmsnarl",
+            "jsonid": "861"
+        },
+        {
+            "ndex": "861",
+            "cht": "長毛巨魔-超極巨",
+            "jp": "キョダイマックスオーロンゲ",
+            "en": "Gmax Grimmsnarl",
+            "jsonid": "10213"
+        },
+        {
+            "ndex": "862",
+            "cht": "堵攔熊",
+            "jp": "タチフサグマ",
+            "en": "Obstagoon",
+            "jsonid": "862"
+        },
+        {
+            "ndex": "863",
+            "cht": "喵頭目",
+            "jp": "ニャイキング",
+            "en": "Perrserker",
+            "jsonid": "863"
+        },
+        {
+            "ndex": "864",
+            "cht": "魔靈珊瑚",
+            "jp": "サニゴーン",
+            "en": "Cursola",
+            "jsonid": "864"
+        },
+        {
+            "ndex": "865",
+            "cht": "蔥遊兵",
+            "jp": "ネギガナイト",
+            "en": "Sirfetch'd",
+            "jsonid": "865"
+        },
+        {
+            "ndex": "866",
+            "cht": "踏冰人偶",
+            "jp": "バリコオル",
+            "en": "Mr. Rime",
+            "jsonid": "866"
+        },
+        {
+            "ndex": "867",
+            "cht": "死神板",
+            "jp": "デスバーン",
+            "en": "Runerigus",
+            "jsonid": "867"
+        },
+        {
+            "ndex": "868",
+            "cht": "小仙奶",
+            "jp": "マホミル",
+            "en": "Milcery",
+            "jsonid": "868"
+        },
+        {
+            "ndex": "869",
+            "cht": "霜奶仙",
+            "jp": "マホイップ",
+            "en": "Alcremie",
+            "jsonid": "869"
+        },
+        {
+            "ndex": "870",
+            "cht": "列陣兵",
+            "jp": "タイレーツ",
+            "en": "Falinks",
+            "jsonid": "870"
+        },
+        {
+            "ndex": "871",
+            "cht": "啪嚓海膽",
+            "jp": "バチンウニ",
+            "en": "Pincurchin",
+            "jsonid": "871"
+        },
+        {
+            "ndex": "872",
+            "cht": "雪吞蟲",
+            "jp": "ユキハミ",
+            "en": "Snom",
+            "jsonid": "872"
+        },
+        {
+            "ndex": "873",
+            "cht": "雪絨蛾",
+            "jp": "モスノウ",
+            "en": "Frosmoth",
+            "jsonid": "873"
+        },
+        {
+            "ndex": "874",
+            "cht": "巨石丁",
+            "jp": "イシヘンジン",
+            "en": "Stonjourner",
+            "jsonid": "874"
+        },
+        {
+            "ndex": "875",
+            "cht": "冰砌鵝",
+            "jp": "コオリッポ",
+            "en": "Eiscue",
+            "jsonid": "875"
+        },
+        {
+            "ndex": "876",
+            "cht": "愛管侍♂",
+            "jp": "イエッサン♂",
+            "en": "Indeedee♂",
+            "jsonid": "876"
+        },
+        {
+            "ndex": "876",
+            "cht": "愛管侍♀",
+            "jp": "イエッサン♀",
+            "en": "Indeedee♀",
+            "jsonid": "10180"
+        },
+        {
+            "ndex": "877",
+            "cht": "莫魯貝可",
+            "jp": "モルペコ",
+            "en": "Morpeko",
+            "jsonid": "877"
+        },
+        {
+            "ndex": "878",
+            "cht": "銅象",
+            "jp": "ゾウドウ",
+            "en": "Cufant",
+            "jsonid": "878"
+        },
+        {
+            "ndex": "879",
+            "cht": "大王銅象",
+            "jp": "ダイオウドウ",
+            "en": "Copperajah",
+            "jsonid": "879"
+        },
+        {
+            "ndex": "879",
+            "cht": "大王銅象-超極巨",
+            "jp": "キョダイマックスダイオウドウ",
+            "en": "Gmax Copperajah",
+            "jsonid": "10215"
+        },
+        {
+            "ndex": "880",
+            "cht": "雷鳥龍",
+            "jp": "パッチラゴン",
+            "en": "Dracozolt",
+            "jsonid": "880"
+        },
+        {
+            "ndex": "881",
+            "cht": "雷鳥海獸",
+            "jp": "パッチルドン",
+            "en": "Arctozolt",
+            "jsonid": "881"
+        },
+        {
+            "ndex": "882",
+            "cht": "鰓魚龍",
+            "jp": "ウオノラゴン",
+            "en": "Dracovish",
+            "jsonid": "882"
+        },
+        {
+            "ndex": "883",
+            "cht": "鰓魚海獸",
+            "jp": "ウオチルドン",
+            "en": "Arctovish",
+            "jsonid": "883"
+        },
+        {
+            "ndex": "884",
+            "cht": "鋁鋼龍",
+            "jp": "ジュラルドン",
+            "en": "Duraludon",
+            "jsonid": "884"
+        },
+        {
+            "ndex": "884",
+            "cht": "鋁鋼龍-超極巨",
+            "jp": "キョダイマックスジュラルドン",
+            "en": "Gmax Duraludon",
+            "jsonid": "10216"
+        },
+        {
+            "ndex": "885",
+            "cht": "多龍梅西亞",
+            "jp": "ドラメシヤ",
+            "en": "Dreepy",
+            "jsonid": "885"
+        },
+        {
+            "ndex": "886",
+            "cht": "多龍奇",
+            "jp": "ドロンチ",
+            "en": "Drakloak",
+            "jsonid": "886"
+        },
+        {
+            "ndex": "887",
+            "cht": "多龍巴魯托",
+            "jp": "ドラパルト",
+            "en": "Dragapult",
+            "jsonid": "887"
+        },
+        {
+            "ndex": "888",
+            "cht": "蒼響-百戰英雄",
+            "jp": "ザシアン",
+            "en": "Zacian",
+            "jsonid": "888"
+        },
+        {
+            "ndex": "888",
+            "cht": "蒼響-劍之王",
+            "jp": "けんのおうザシアン",
+            "en": "Crowned Zacian",
+            "jsonid": "10181"
+        },
+        {
+            "ndex": "889",
+            "cht": "藏瑪然特-百戰英雄",
+            "jp": "ザマゼンタ",
+            "en": "Zamazenta",
+            "jsonid": "889"
+        },
+        {
+            "ndex": "889",
+            "cht": "藏瑪然特-盾之王",
+            "jp": "たてのおうザマゼンタ",
+            "en": "Crowned Zamazenta",
+            "jsonid": "10182"
+        },
+        {
+            "ndex": "890",
+            "cht": "無極汰那",
+            "jp": "ムゲンダイナ",
+            "en": "Eternatus",
+            "jsonid": "890"
+        },
+        {
+            "ndex": "891",
+            "cht": "熊徒弟",
+            "jp": "ダクマ",
+            "en": "Kubfu",
+            "jsonid": "891"
+        },
+        {
+            "ndex": "892",
+            "cht": "武道熊師-一擊",
+            "jp": "いちげきウーラオス",
+            "en": "Single Strike Urshifu",
+            "jsonid": "892"
+        },
+        {
+            "ndex": "892",
+            "cht": "武道熊師-連擊",
+            "jp": "れんげきウーラオス",
+            "en": "Rapid Strike Urshifu",
+            "jsonid": "10183"
+        },
+        {
+            "ndex": "892",
+            "cht": "武道熊師-一擊-超極巨",
+            "jp": "キョダイマックスいちげきウーラオス",
+            "en": "Gmax Single Strike Urshifu",
+            "jsonid": "10218"
+        },
+        {
+            "ndex": "892",
+            "cht": "武道熊師-連擊-超極巨",
+            "jp": "キョダイマックスれんげきウーラオス",
+            "en": "Gmax Rapid Strike Urshifu",
+            "jsonid": "10219"
+        },
+        {
+            "ndex": "893",
+            "cht": "薩戮德",
+            "jp": "ザルード",
+            "en": "Zarude",
+            "jsonid": "893"
+        },
+        {
+            "ndex": "894",
+            "cht": "雷吉艾勒奇",
+            "jp": "レジエレキ",
+            "en": "Regieleki",
+            "jsonid": "894"
+        },
+        {
+            "ndex": "895",
+            "cht": "雷吉鐸拉戈",
+            "jp": "レジドラゴ",
+            "en": "Regidrago",
+            "jsonid": "895"
+        },
+        {
+            "ndex": "896",
+            "cht": "雪暴馬",
+            "jp": "ブリザポス",
+            "en": "Glastrier",
+            "jsonid": "896"
+        },
+        {
+            "ndex": "897",
+            "cht": "靈幽馬",
+            "jp": "レイスポス",
+            "en": "Spectrier",
+            "jsonid": "897"
+        },
+        {
+            "ndex": "898",
+            "cht": "蕾冠王",
+            "jp": "バドレックス",
+            "en": "Calyrex",
+            "jsonid": "898"
+        },
+        {
+            "ndex": "898",
+            "cht": "蕾冠王-白馬",
+            "jp": "はくばじょうバドレックス",
+            "en": "Ice Rider Calyrex",
+            "jsonid": "10184"
+        },
+        {
+            "ndex": "898",
+            "cht": "蕾冠王-黑馬",
+            "jp": "こくばじょうバドレックス",
+            "en": "Shadow Rider Calyrex",
+            "jsonid": "10185"
+        }
+    ]
+}

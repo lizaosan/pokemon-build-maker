@@ -1,0 +1,2080 @@
+﻿{
+    "data": [
+        {
+            "index": "1",
+            "cht": "光粉",
+            "jp": "ひかりのこな",
+            "en": "Bright Powder"
+        },
+        {
+            "index": "2",
+            "cht": "學習裝置",
+            "jp": "がくしゅうそうち",
+            "en": "Exp. Share"
+        },
+        {
+            "index": "3",
+            "cht": "先制之爪",
+            "jp": "せんせいのツメ",
+            "en": "Quick Claw"
+        },
+        {
+            "index": "4",
+            "cht": "王者之證",
+            "jp": "おうじゃのしるし",
+            "en": "King's Rock"
+        },
+        {
+            "index": "5",
+            "cht": "銀粉",
+            "jp": "ぎんのこな",
+            "en": "Silver Powder"
+        },
+        {
+            "index": "6",
+            "cht": "護符金幣",
+            "jp": "おまもりこばん",
+            "en": "Amulet Coin"
+        },
+        {
+            "index": "7",
+            "cht": "潔淨之符",
+            "jp": "きよめのおふだ",
+            "en": "Cleanse Tag"
+        },
+        {
+            "index": "8",
+            "cht": "煙霧球",
+            "jp": "けむりだま",
+            "en": "Smoke Ball"
+        },
+        {
+            "index": "9",
+            "cht": "不變之石",
+            "jp": "かわらずのいし",
+            "en": "Everstone"
+        },
+        {
+            "index": "10",
+            "cht": "氣勢頭帶",
+            "jp": "きあいのハチマキ",
+            "en": "Focus Band"
+        },
+        {
+            "index": "11",
+            "cht": "幸運蛋",
+            "jp": "しあわせタマゴ",
+            "en": "Lucky Egg"
+        },
+        {
+            "index": "12",
+            "cht": "焦點鏡",
+            "jp": "ピントレンズ",
+            "en": "Scope Lens"
+        },
+        {
+            "index": "13",
+            "cht": "金屬膜",
+            "jp": "メタルコート",
+            "en": "Metal Coat"
+        },
+        {
+            "index": "14",
+            "cht": "吃剩的東西",
+            "jp": "たべのこし",
+            "en": "Leftovers"
+        },
+        {
+            "index": "15",
+            "cht": "龍之鱗片",
+            "jp": "りゅうのウロコ",
+            "en": "Dragon Scale"
+        },
+        {
+            "index": "16",
+            "cht": "電氣球",
+            "jp": "でんきだま",
+            "en": "Light Ball"
+        },
+        {
+            "index": "17",
+            "cht": "柔軟沙子",
+            "jp": "やわらかいすな",
+            "en": "Soft Sand"
+        },
+        {
+            "index": "18",
+            "cht": "硬石頭",
+            "jp": "かたいいし",
+            "en": "Hard Stone"
+        },
+        {
+            "index": "19",
+            "cht": "奇跡種子",
+            "jp": "きせきのタネ",
+            "en": "Miracle Seed"
+        },
+        {
+            "index": "20",
+            "cht": "黑色眼鏡",
+            "jp": "くろいメガネ",
+            "en": "Black Glasses"
+        },
+        {
+            "index": "21",
+            "cht": "黑帶",
+            "jp": "くろおび",
+            "en": "Black Belt"
+        },
+        {
+            "index": "22",
+            "cht": "磁鐵",
+            "jp": "じしゃく",
+            "en": "Magnet"
+        },
+        {
+            "index": "23",
+            "cht": "神秘水滴",
+            "jp": "しんぴのしずく",
+            "en": "Mystic Water"
+        },
+        {
+            "index": "24",
+            "cht": "銳利鳥嘴",
+            "jp": "するどいくちばし",
+            "en": "Sharp Beak"
+        },
+        {
+            "index": "25",
+            "cht": "毒針",
+            "jp": "どくバリ",
+            "en": "Poison Barb"
+        },
+        {
+            "index": "26",
+            "cht": "不融冰",
+            "jp": "とけないこおり",
+            "en": "Never-Melt Ice"
+        },
+        {
+            "index": "27",
+            "cht": "詛咒之符",
+            "jp": "のろいのおふだ",
+            "en": "Spell Tag"
+        },
+        {
+            "index": "28",
+            "cht": "彎曲的湯匙",
+            "jp": "まがったスプーン",
+            "en": "Twisted Spoon"
+        },
+        {
+            "index": "29",
+            "cht": "木炭",
+            "jp": "もくたん",
+            "en": "Charcoal"
+        },
+        {
+            "index": "30",
+            "cht": "龍之牙",
+            "jp": "りゅうのキバ",
+            "en": "Dragon Fang"
+        },
+        {
+            "index": "31",
+            "cht": "粉紅色絲帶",
+            "jp": "ピンクのリボン",
+            "en": "Pink Bow"
+        },
+        {
+            "index": "32",
+            "cht": "水玉色之帶",
+            "jp": "みずたまりボン",
+            "en": "Polkadot Bow"
+        },
+        {
+            "index": "33",
+            "cht": "破壞基因",
+            "jp": "はかいのいでんし",
+            "en": "Berserk Gene"
+        },
+        {
+            "index": "34",
+            "cht": "升級資料",
+            "jp": "アップグレード",
+            "en": "Up-Grade"
+        },
+        {
+            "index": "35",
+            "cht": "吉利拳",
+            "jp": "ラッキーパンチ",
+            "en": "Lucky Punch"
+        },
+        {
+            "index": "36",
+            "cht": "金屬粉",
+            "jp": "メタルパウダー",
+            "en": "Metal Powder"
+        },
+        {
+            "index": "37",
+            "cht": "粗骨頭",
+            "jp": "ふといホネ",
+            "en": "Thick Club"
+        },
+        {
+            "index": "38",
+            "cht": "大蔥",
+            "jp": "ながねぎ",
+            "en": "Stick"
+        },
+        {
+            "index": "39",
+            "cht": "白色香草",
+            "jp": "しろいハーブ",
+            "en": "White Herb"
+        },
+        {
+            "index": "40",
+            "cht": "心靈香草",
+            "jp": "メンタルハーブ",
+            "en": "Mental Herb"
+        },
+        {
+            "index": "41",
+            "cht": "講究頭帶",
+            "jp": "こだわりハチマキ",
+            "en": "Choice Band"
+        },
+        {
+            "index": "42",
+            "cht": "心之水滴",
+            "jp": "こころのしずく",
+            "en": "Soul Dew"
+        },
+        {
+            "index": "43",
+            "cht": "深海之牙",
+            "jp": "しんかいのキバ",
+            "en": "Deep Sea Tooth"
+        },
+        {
+            "index": "44",
+            "cht": "深海鱗片",
+            "jp": "しんかいのウロコ",
+            "en": "Deep Sea Scale"
+        },
+        {
+            "index": "45",
+            "cht": "絲綢圍巾",
+            "jp": "シルクのスカーフ",
+            "en": "Silk Scarf"
+        },
+        {
+            "index": "46",
+            "cht": "貝殼之鈴",
+            "jp": "かいがらのすず",
+            "en": "Shell Bell"
+        },
+        {
+            "index": "47",
+            "cht": "海潮薰香",
+            "jp": "うしおのおこう",
+            "en": "Sea Incense"
+        },
+        {
+            "index": "48",
+            "cht": "悠閒薰香",
+            "jp": "のんきのおこう",
+            "en": "Lax Incense"
+        },
+        {
+            "index": "49",
+            "cht": "火球石板",
+            "jp": "ひのたまプレート",
+            "en": "Flame Plate"
+        },
+        {
+            "index": "50",
+            "cht": "水滴石板",
+            "jp": "しずくプレート",
+            "en": "Splash Plate"
+        },
+        {
+            "index": "51",
+            "cht": "雷電石板",
+            "jp": "いかずちプレート",
+            "en": "Zap Plate"
+        },
+        {
+            "index": "52",
+            "cht": "碧綠石板",
+            "jp": "みどりのプレート",
+            "en": "Meadow Plate"
+        },
+        {
+            "index": "53",
+            "cht": "冰柱石板",
+            "jp": "つららのプレート",
+            "en": "Icicle Plate"
+        },
+        {
+            "index": "54",
+            "cht": "拳頭石板",
+            "jp": "こぶしのプレート",
+            "en": "Fist Plate"
+        },
+        {
+            "index": "55",
+            "cht": "劇毒石板",
+            "jp": "もうどくプレート",
+            "en": "Toxic Plate"
+        },
+        {
+            "index": "56",
+            "cht": "大地石板",
+            "jp": "だいちのプレート",
+            "en": "Earth Plate"
+        },
+        {
+            "index": "57",
+            "cht": "藍天石板",
+            "jp": "あおぞらプレート",
+            "en": "Sky Plate"
+        },
+        {
+            "index": "58",
+            "cht": "神奇石板",
+            "jp": "ふしぎのプレート",
+            "en": "Mind Plate"
+        },
+        {
+            "index": "59",
+            "cht": "玉蟲石板",
+            "jp": "たまむしプレート",
+            "en": "Insect Plate"
+        },
+        {
+            "index": "60",
+            "cht": "岩石石板",
+            "jp": "がんせきプレート",
+            "en": "Stone Plate"
+        },
+        {
+            "index": "61",
+            "cht": "妖怪石板",
+            "jp": "もののけプレート",
+            "en": "Spooky Plate"
+        },
+        {
+            "index": "62",
+            "cht": "龍之石板",
+            "jp": "りゅうのプレート",
+            "en": "Draco Plate"
+        },
+        {
+            "index": "63",
+            "cht": "惡顏石板",
+            "jp": "こわもてプレート",
+            "en": "Dread Plate"
+        },
+        {
+            "index": "64",
+            "cht": "鋼鐵石板",
+            "jp": "こうてつプレート",
+            "en": "Iron Plate"
+        },
+        {
+            "index": "65",
+            "cht": "渾圓之石",
+            "jp": "まんまるいし",
+            "en": "Oval Stone"
+        },
+        {
+            "index": "66",
+            "cht": "金剛寶珠",
+            "jp": "こんごうだま",
+            "en": "Adamant Orb"
+        },
+        {
+            "index": "67",
+            "cht": "白玉寶珠",
+            "jp": "しらたま",
+            "en": "Lustrous Orb"
+        },
+        {
+            "index": "68",
+            "cht": "白金寶珠",
+            "jp": "はっきんだま",
+            "en": "Griseous Orb"
+        },
+        {
+            "index": "69",
+            "cht": "奇異薰香",
+            "jp": "あやしいおこう",
+            "en": "Odd Incense"
+        },
+        {
+            "index": "70",
+            "cht": "岩石薰香",
+            "jp": "がんせきおこう",
+            "en": "Rock Incense"
+        },
+        {
+            "index": "71",
+            "cht": "飽腹薰香",
+            "jp": "まんぷくおこう",
+            "en": "Full Incense"
+        },
+        {
+            "index": "72",
+            "cht": "漣漪薰香",
+            "jp": "さざなみのおこう",
+            "en": "Wave Incense"
+        },
+        {
+            "index": "73",
+            "cht": "花朵薰香",
+            "jp": "おはなのおこう",
+            "en": "Rose Incense"
+        },
+        {
+            "index": "74",
+            "cht": "幸運薰香",
+            "jp": "こううんのおこう",
+            "en": "Luck Incense"
+        },
+        {
+            "index": "75",
+            "cht": "潔淨薰香",
+            "jp": "きよめのおこう",
+            "en": "Pure Incense"
+        },
+        {
+            "index": "76",
+            "cht": "護具",
+            "jp": "プロテクター",
+            "en": "Protector"
+        },
+        {
+            "index": "77",
+            "cht": "電力增幅器",
+            "jp": "エレキブースター",
+            "en": "Electirizer"
+        },
+        {
+            "index": "78",
+            "cht": "熔岩增幅器",
+            "jp": "マグマブースター",
+            "en": "Magmarizer"
+        },
+        {
+            "index": "79",
+            "cht": "可疑修正檔",
+            "jp": "あやしいパッチ",
+            "en": "Dubious Disc"
+        },
+        {
+            "index": "80",
+            "cht": "靈界之布",
+            "jp": "れいかいのぬの",
+            "en": "Reaper Cloth"
+        },
+        {
+            "index": "81",
+            "cht": "銳利之爪",
+            "jp": "するどいツメ",
+            "en": "Razor Claw"
+        },
+        {
+            "index": "82",
+            "cht": "銳利之牙",
+            "jp": "するどいキバ",
+            "en": "Razor Fang"
+        },
+        {
+            "index": "83",
+            "cht": "廣角鏡",
+            "jp": "こうかくレンズ",
+            "en": "Wide Lens"
+        },
+        {
+            "index": "84",
+            "cht": "力量頭帶",
+            "jp": "ちからのハチマキ",
+            "en": "Muscle Band"
+        },
+        {
+            "index": "85",
+            "cht": "博識眼鏡",
+            "jp": "ものしりメガネ",
+            "en": "Wise Glasses"
+        },
+        {
+            "index": "86",
+            "cht": "達人帶",
+            "jp": "たつじんのおび",
+            "en": "Expert Belt"
+        },
+        {
+            "index": "87",
+            "cht": "光之黏土",
+            "jp": "ひかりのねんど",
+            "en": "Light Clay"
+        },
+        {
+            "index": "88",
+            "cht": "生命寶珠",
+            "jp": "いのちのたま",
+            "en": "Life Orb"
+        },
+        {
+            "index": "89",
+            "cht": "強力香草",
+            "jp": "パワフルハーブ",
+            "en": "Power Herb"
+        },
+        {
+            "index": "90",
+            "cht": "劇毒寶珠",
+            "jp": "どくどくだま",
+            "en": "Toxic Orb"
+        },
+        {
+            "index": "91",
+            "cht": "火焰寶珠",
+            "jp": "かえんだま",
+            "en": "Flame Orb"
+        },
+        {
+            "index": "92",
+            "cht": "速度粉",
+            "jp": "スピードパウダー",
+            "en": "Quick Powder"
+        },
+        {
+            "index": "93",
+            "cht": "氣勢披帶",
+            "jp": "きあいのタスキ",
+            "en": "Focus Sash"
+        },
+        {
+            "index": "94",
+            "cht": "對焦鏡",
+            "jp": "フォーカスレンズ",
+            "en": "Zoom Lens"
+        },
+        {
+            "index": "95",
+            "cht": "節拍器",
+            "jp": "メトロノーム",
+            "en": "Metronome"
+        },
+        {
+            "index": "96",
+            "cht": "黑色鐵球",
+            "jp": "くろいてっきゅう",
+            "en": "Iron Ball"
+        },
+        {
+            "index": "97",
+            "cht": "後攻之尾",
+            "jp": "こうこうのしっぽ",
+            "en": "Lagging Tail"
+        },
+        {
+            "index": "98",
+            "cht": "紅線",
+            "jp": "あかいいと",
+            "en": "Destiny Knot"
+        },
+        {
+            "index": "99",
+            "cht": "黑色污泥",
+            "jp": "くろいヘドロ",
+            "en": "Black Sludge"
+        },
+        {
+            "index": "100",
+            "cht": "冰冷岩石",
+            "jp": "つめたいいわ",
+            "en": "Icy Rock"
+        },
+        {
+            "index": "101",
+            "cht": "沙沙岩石",
+            "jp": "さらさらいわ",
+            "en": "Smooth Rock"
+        },
+        {
+            "index": "102",
+            "cht": "熾熱岩石",
+            "jp": "あついいわ",
+            "en": "Heat Rock"
+        },
+        {
+            "index": "103",
+            "cht": "潮濕岩石",
+            "jp": "しめったいわ",
+            "en": "Damp Rock"
+        },
+        {
+            "index": "104",
+            "cht": "緊纏鈎爪",
+            "jp": "ねばりのかぎづめ",
+            "en": "Grip Claw"
+        },
+        {
+            "index": "105",
+            "cht": "講究圍巾",
+            "jp": "こだわりスカーフ",
+            "en": "Choice Scarf"
+        },
+        {
+            "index": "106",
+            "cht": "附著針",
+            "jp": "くっつきバリ",
+            "en": "Sticky Barb"
+        },
+        {
+            "index": "107",
+            "cht": "力量護腕",
+            "jp": "パワーリスト",
+            "en": "Power Bracer"
+        },
+        {
+            "index": "108",
+            "cht": "力量腰帶",
+            "jp": "パワーベルト",
+            "en": "Power Belt"
+        },
+        {
+            "index": "109",
+            "cht": "力量鏡",
+            "jp": "パワーレンズ",
+            "en": "Power Lens"
+        },
+        {
+            "index": "110",
+            "cht": "力量束帶",
+            "jp": "パワーバンド",
+            "en": "Power Band"
+        },
+        {
+            "index": "111",
+            "cht": "力量護踝",
+            "jp": "パワーアンクル",
+            "en": "Power Anklet"
+        },
+        {
+            "index": "112",
+            "cht": "力量負重",
+            "jp": "パワーウエイト",
+            "en": "Power Weight"
+        },
+        {
+            "index": "113",
+            "cht": "美麗空殼",
+            "jp": "きれいなぬけがら",
+            "en": "Shed Shell"
+        },
+        {
+            "index": "114",
+            "cht": "大根莖",
+            "jp": "おおきなねっこ",
+            "en": "Big Root"
+        },
+        {
+            "index": "115",
+            "cht": "講究眼鏡",
+            "jp": "こだわりメガネ",
+            "en": "Choice Specs"
+        },
+        {
+            "index": "116",
+            "cht": "水流卡帶",
+            "jp": "アクアカセット",
+            "en": "Douse Drive"
+        },
+        {
+            "index": "117",
+            "cht": "閃電卡帶",
+            "jp": "イナズマカセット",
+            "en": "Shock Drive"
+        },
+        {
+            "index": "118",
+            "cht": "火焰卡帶",
+            "jp": "ブレイズカセット",
+            "en": "Burn Drive"
+        },
+        {
+            "index": "119",
+            "cht": "冰凍卡帶",
+            "jp": "フリーズカセット",
+            "en": "Chill Drive"
+        },
+        {
+            "index": "120",
+            "cht": "美麗鱗片",
+            "jp": "きれいなウロコ",
+            "en": "Prism Scale"
+        },
+        {
+            "index": "121",
+            "cht": "進化奇石",
+            "jp": "しんかのきせき",
+            "en": "Eviolite"
+        },
+        {
+            "index": "122",
+            "cht": "輕石",
+            "jp": "かるいし",
+            "en": "Float Stone"
+        },
+        {
+            "index": "123",
+            "cht": "凸凸頭盔",
+            "jp": "ゴツゴツメット",
+            "en": "Rocky Helmet"
+        },
+        {
+            "index": "124",
+            "cht": "氣球",
+            "jp": "ふうせん",
+            "en": "Air Balloon"
+        },
+        {
+            "index": "125",
+            "cht": "紅牌",
+            "jp": "レッドカード",
+            "en": "Red Card"
+        },
+        {
+            "index": "126",
+            "cht": "標靶",
+            "jp": "ねらいのまと",
+            "en": "Ring Target"
+        },
+        {
+            "index": "127",
+            "cht": "緊綁束帶",
+            "jp": "しめつけバンド",
+            "en": "Binding Band"
+        },
+        {
+            "index": "128",
+            "cht": "球根",
+            "jp": "きゅうこん",
+            "en": "Absorb Bulb"
+        },
+        {
+            "index": "129",
+            "cht": "充電電池",
+            "jp": "じゅうでんち",
+            "en": "Cell Battery"
+        },
+        {
+            "index": "130",
+            "cht": "逃脫按鍵",
+            "jp": "だっしゅつボタン",
+            "en": "Eject Button"
+        },
+        {
+            "index": "131",
+            "cht": "火之寶石",
+            "jp": "ほのおのジュエル",
+            "en": "Fire Gem"
+        },
+        {
+            "index": "132",
+            "cht": "水之寶石",
+            "jp": "みずのジュエル",
+            "en": "Water Gem"
+        },
+        {
+            "index": "133",
+            "cht": "電之寶石",
+            "jp": "でんきのジュエル",
+            "en": "Electric Gem"
+        },
+        {
+            "index": "134",
+            "cht": "草之寶石",
+            "jp": "くさのジュエル",
+            "en": "Grass Gem"
+        },
+        {
+            "index": "135",
+            "cht": "冰之寶石",
+            "jp": "こおりのジュエル",
+            "en": "Ice Gem"
+        },
+        {
+            "index": "136",
+            "cht": "格鬥寶石",
+            "jp": "かくとうジュエル",
+            "en": "Fighting Gem"
+        },
+        {
+            "index": "137",
+            "cht": "毒之寶石",
+            "jp": "どくのジュエル",
+            "en": "Poison Gem"
+        },
+        {
+            "index": "138",
+            "cht": "地面寶石",
+            "jp": "じめんのジュエル",
+            "en": "Ground Gem"
+        },
+        {
+            "index": "139",
+            "cht": "飛行寶石",
+            "jp": "ひこうのジュエル",
+            "en": "Flying Gem"
+        },
+        {
+            "index": "140",
+            "cht": "超能力寶石",
+            "jp": "エスパージュエル",
+            "en": "Psychic Gem"
+        },
+        {
+            "index": "141",
+            "cht": "蟲之寶石",
+            "jp": "むしのジュエル",
+            "en": "Bug Gem"
+        },
+        {
+            "index": "142",
+            "cht": "岩石寶石",
+            "jp": "いわのジュエル",
+            "en": "Rock Gem"
+        },
+        {
+            "index": "143",
+            "cht": "幽靈寶石",
+            "jp": "ゴーストジュエル",
+            "en": "Ghost Gem"
+        },
+        {
+            "index": "144",
+            "cht": "龍之寶石",
+            "jp": "ドラゴンジュエル",
+            "en": "Dragon Gem"
+        },
+        {
+            "index": "145",
+            "cht": "惡之寶石",
+            "jp": "あくのジュエル",
+            "en": "Dark Gem"
+        },
+        {
+            "index": "146",
+            "cht": "鋼之寶石",
+            "jp": "はがねのジュエル",
+            "en": "Steel Gem"
+        },
+        {
+            "index": "147",
+            "cht": "一般寶石",
+            "jp": "ノーマルジュエル",
+            "en": "Normal Gem"
+        },
+        {
+            "index": "148",
+            "cht": "弱點保險",
+            "jp": "じゃくてんほけん",
+            "en": "Weakness Policy"
+        },
+        {
+            "index": "149",
+            "cht": "突擊背心",
+            "jp": "とつげきチョッキ",
+            "en": "Assault Vest"
+        },
+        {
+            "index": "150",
+            "cht": "妖精石板",
+            "jp": "せいれいプレート",
+            "en": "Pixie Plate"
+        },
+        {
+            "index": "151",
+            "cht": "妖精寶石",
+            "jp": "ようせいジュエル",
+            "en": "Fairy Gem"
+        },
+        {
+            "index": "152",
+            "cht": "泡沫奶油",
+            "jp": "ホイップポップ",
+            "en": "Whipped Dream"
+        },
+        {
+            "index": "153",
+            "cht": "香袋",
+            "jp": "においぶくろ",
+            "en": "Sachet"
+        },
+        {
+            "index": "154",
+            "cht": "光苔",
+            "jp": "ひかりごけ",
+            "en": "Luminous Moss"
+        },
+        {
+            "index": "155",
+            "cht": "雪球",
+            "jp": "ゆきだま",
+            "en": "Snowball"
+        },
+        {
+            "index": "156",
+            "cht": "防塵護目鏡",
+            "jp": "ぼうじんゴーグル",
+            "en": "Safety Goggles"
+        },
+        {
+            "index": "157",
+            "cht": "妙蛙花進化石",
+            "jp": "フシギバナイト",
+            "en": "Venusaurite"
+        },
+        {
+            "index": "158",
+            "cht": "噴火龍進化石Ｘ",
+            "jp": "リザードナイトX",
+            "en": "Charizardite X"
+        },
+        {
+            "index": "159",
+            "cht": "噴火龍進化石Ｙ",
+            "jp": "リザードナイトY",
+            "en": "Charizardite Y"
+        },
+        {
+            "index": "160",
+            "cht": "水箭龜進化石",
+            "jp": "カメックスナイト",
+            "en": "Blastoisinite"
+        },
+        {
+            "index": "161",
+            "cht": "大針蜂進化石",
+            "jp": "スピアナイト",
+            "en": "Beedrillite"
+        },
+        {
+            "index": "162",
+            "cht": "大比鳥進化石",
+            "jp": "ピジョットナイト",
+            "en": "Pidgeotite"
+        },
+        {
+            "index": "163",
+            "cht": "胡地進化石",
+            "jp": "フーディナイト",
+            "en": "Alakazite"
+        },
+        {
+            "index": "164",
+            "cht": "呆殼獸進化石",
+            "jp": "ヤドランナイト",
+            "en": "Slowbronite"
+        },
+        {
+            "index": "165",
+            "cht": "耿鬼進化石",
+            "jp": "ゲンガナイト",
+            "en": "Gengarite"
+        },
+        {
+            "index": "166",
+            "cht": "袋獸進化石",
+            "jp": "ガルーラナイト",
+            "en": "Kangaskhanite"
+        },
+        {
+            "index": "167",
+            "cht": "凱羅斯進化石",
+            "jp": "カイロスナイト",
+            "en": "Pinsirite"
+        },
+        {
+            "index": "168",
+            "cht": "暴鯉龍進化石",
+            "jp": "ギャラドスナイト",
+            "en": "Gyaradosite"
+        },
+        {
+            "index": "169",
+            "cht": "化石翼龍進化石",
+            "jp": "リプテラナイト",
+            "en": "Aerodactylite"
+        },
+        {
+            "index": "170",
+            "cht": "超夢進化石Ｘ",
+            "jp": "ミュウツナイトX",
+            "en": "Mewtwonite X"
+        },
+        {
+            "index": "171",
+            "cht": "超夢進化石Ｙ",
+            "jp": "ミュウツナイトY",
+            "en": "Mewtwonite Y"
+        },
+        {
+            "index": "172",
+            "cht": "電龍進化石",
+            "jp": "デンリュウナイト",
+            "en": "Ampharosite"
+        },
+        {
+            "index": "173",
+            "cht": "大鋼蛇進化石",
+            "jp": "ハガネールナイト",
+            "en": "Steelixite"
+        },
+        {
+            "index": "174",
+            "cht": "巨鉗螳螂進化石",
+            "jp": "ハッサムナイト",
+            "en": "Scizorite"
+        },
+        {
+            "index": "175",
+            "cht": "赫拉克羅斯進化石",
+            "jp": "ヘラクロスナイト",
+            "en": "Heracronite"
+        },
+        {
+            "index": "176",
+            "cht": "黑魯加進化石",
+            "jp": "ヘルガナイト",
+            "en": "Houndoominite"
+        },
+        {
+            "index": "177",
+            "cht": "班基拉斯進化石",
+            "jp": "バンギラスナイト",
+            "en": "Tyranitarite"
+        },
+        {
+            "index": "178",
+            "cht": "蜥蜴王進化石",
+            "jp": "ジュカインナイト",
+            "en": "Sceptilite"
+        },
+        {
+            "index": "179",
+            "cht": "火焰雞進化石",
+            "jp": "バシャーモナイト",
+            "en": "Blazikenite"
+        },
+        {
+            "index": "180",
+            "cht": "巨沼怪進化石",
+            "jp": "ラグラージナイト",
+            "en": "Swampertite"
+        },
+        {
+            "index": "181",
+            "cht": "沙奈朵進化石",
+            "jp": "サーナイトナイト",
+            "en": "Gardevoirite"
+        },
+        {
+            "index": "182",
+            "cht": "勾魂眼進化石",
+            "jp": "ヤミラミナイト",
+            "en": "Sablenite"
+        },
+        {
+            "index": "183",
+            "cht": "大嘴娃進化石",
+            "jp": "クチートナイト",
+            "en": "Mawilite"
+        },
+        {
+            "index": "184",
+            "cht": "波士可多拉進化石",
+            "jp": "ボスゴドラナイト",
+            "en": "Aggronite"
+        },
+        {
+            "index": "185",
+            "cht": "恰雷姆進化石",
+            "jp": "チャーレムナイト",
+            "en": "Medichamite"
+        },
+        {
+            "index": "186",
+            "cht": "雷電獸進化石",
+            "jp": "ライボルトナイト",
+            "en": "Manectite"
+        },
+        {
+            "index": "187",
+            "cht": "巨牙鯊進化石",
+            "jp": "サメハダナイト",
+            "en": "Sharpedonite"
+        },
+        {
+            "index": "188",
+            "cht": "噴火駝進化石",
+            "jp": "バクーダナイト",
+            "en": "Cameruptite"
+        },
+        {
+            "index": "189",
+            "cht": "七夕青鳥進化石",
+            "jp": "チルタリスナイト",
+            "en": "Altarianite"
+        },
+        {
+            "index": "190",
+            "cht": "詛咒娃娃進化石",
+            "jp": "ジュペッタナイト",
+            "en": "Banettite"
+        },
+        {
+            "index": "191",
+            "cht": "阿勃梭魯進化石",
+            "jp": "アブソルナイト",
+            "en": "Absolite"
+        },
+        {
+            "index": "192",
+            "cht": "冰鬼護進化石",
+            "jp": "オニゴーリナイト",
+            "en": "Glalitite"
+        },
+        {
+            "index": "193",
+            "cht": "暴飛龍進化石",
+            "jp": "ボーマンダナイト",
+            "en": "Salamencite"
+        },
+        {
+            "index": "194",
+            "cht": "巨金怪進化石",
+            "jp": "メタグロスナイト",
+            "en": "Metagrossite"
+        },
+        {
+            "index": "195",
+            "cht": "拉帝亞斯進化石",
+            "jp": "ラティアスナイト",
+            "en": "Latiasite"
+        },
+        {
+            "index": "196",
+            "cht": "拉帝歐斯進化石",
+            "jp": "ラティオスナイト",
+            "en": "Latiosite"
+        },
+        {
+            "index": "197",
+            "cht": "長耳兔進化石",
+            "jp": "ミミロップナイト",
+            "en": "Lopunnite"
+        },
+        {
+            "index": "198",
+            "cht": "路卡利歐進化石",
+            "jp": "ルカリオナイト",
+            "en": "Lucarionite"
+        },
+        {
+            "index": "199",
+            "cht": "烈咬陸鯊進化石",
+            "jp": "ガブリアスナイト",
+            "en": "Garchompite"
+        },
+        {
+            "index": "200",
+            "cht": "暴雪王進化石",
+            "jp": "ユキノオナイト",
+            "en": "Abomasite"
+        },
+        {
+            "index": "201",
+            "cht": "艾路雷朵進化石",
+            "jp": "エルレイドナイト",
+            "en": "Galladite"
+        },
+        {
+            "index": "202",
+            "cht": "差不多娃娃進化石",
+            "jp": "タブンネナイト",
+            "en": "Audinite"
+        },
+        {
+            "index": "203",
+            "cht": "蒂安希進化石",
+            "jp": "ディアンシナイト",
+            "en": "Diancite"
+        },
+        {
+            "index": "204",
+            "cht": "朱紅色寶珠",
+            "jp": "べにいろのたま",
+            "en": "Red Orb"
+        },
+        {
+            "index": "205",
+            "cht": "靛藍色寶珠",
+            "jp": "あいいろのたま",
+            "en": "Blue Orb"
+        },
+        {
+            "index": "206",
+            "cht": "膽怯球",
+            "jp": "ビビリだま",
+            "en": "Adrenaline Orb"
+        },
+        {
+            "index": "207",
+            "cht": "大地膜",
+            "jp": "グランドコート",
+            "en": "Terrain Extender"
+        },
+        {
+            "index": "208",
+            "cht": "部位護具",
+            "jp": "ぼうごパット",
+            "en": "Protective Pads"
+        },
+        {
+            "index": "209",
+            "cht": "電氣種子",
+            "jp": "エレキシード",
+            "en": "Electric Seed"
+        },
+        {
+            "index": "210",
+            "cht": "精神種子",
+            "jp": "サイコシード",
+            "en": "Psychic Seed"
+        },
+        {
+            "index": "211",
+            "cht": "薄霧種子",
+            "jp": "ミストシード",
+            "en": "Misty Seed"
+        },
+        {
+            "index": "212",
+            "cht": "青草種子",
+            "jp": "グラスシード",
+            "en": "Grassy Seed"
+        },
+        {
+            "index": "213",
+            "cht": "戰鬥記憶碟",
+            "jp": "ファイトメモリ",
+            "en": "Fighting Memory"
+        },
+        {
+            "index": "214",
+            "cht": "飛翔記憶碟",
+            "jp": "フライングメモリ",
+            "en": "Flying Memory"
+        },
+        {
+            "index": "215",
+            "cht": "毒記憶碟",
+            "jp": "ポイズンメモリ",
+            "en": "Poison Memory"
+        },
+        {
+            "index": "216",
+            "cht": "大地記憶碟",
+            "jp": "グラウンドメモリ",
+            "en": "Ground Memory"
+        },
+        {
+            "index": "217",
+            "cht": "岩石記憶碟",
+            "jp": "ロックメモリ",
+            "en": "Rock Memory"
+        },
+        {
+            "index": "218",
+            "cht": "蟲子記憶碟",
+            "jp": "バグメモリ",
+            "en": "Bug Memory"
+        },
+        {
+            "index": "219",
+            "cht": "幽靈記憶碟",
+            "jp": "ゴーストメモリ",
+            "en": "Ghost Memory"
+        },
+        {
+            "index": "220",
+            "cht": "鋼鐵記憶碟",
+            "jp": "スチールメモリ",
+            "en": "Steel Memory"
+        },
+        {
+            "index": "221",
+            "cht": "火焰記憶碟",
+            "jp": "ファイヤーメモリ",
+            "en": "Fire Memory"
+        },
+        {
+            "index": "222",
+            "cht": "清水記憶碟",
+            "jp": "ウオーターメモリ",
+            "en": "Water Memory"
+        },
+        {
+            "index": "223",
+            "cht": "青草記憶碟",
+            "jp": "グラスメモリ",
+            "en": "Grass Memory"
+        },
+        {
+            "index": "224",
+            "cht": "電子記憶碟",
+            "jp": "エレクトロメモリ",
+            "en": "Electric Memory"
+        },
+        {
+            "index": "225",
+            "cht": "精神記憶碟",
+            "jp": "サイキックメモリ",
+            "en": "Psychic Memory"
+        },
+        {
+            "index": "226",
+            "cht": "冰雪記憶碟",
+            "jp": "アイスメモリ",
+            "en": "Ice Memory"
+        },
+        {
+            "index": "227",
+            "cht": "龍記憶碟",
+            "jp": "ドラゴンメモリ",
+            "en": "Dragon Memory"
+        },
+        {
+            "index": "228",
+            "cht": "黑暗記憶碟",
+            "jp": "ダークメモリ",
+            "en": "Dark Memory"
+        },
+        {
+            "index": "229",
+            "cht": "妖精記憶碟",
+            "jp": "フェアリーメモリ",
+            "en": "Fairy Memory"
+        },
+        {
+            "index": "230",
+            "cht": "腐朽的劍",
+            "jp": "くちたけん",
+            "en": "Rusted Sword"
+        },
+        {
+            "index": "231",
+            "cht": "腐朽的盾",
+            "jp": "くちたたて",
+            "en": "Rusted Shield"
+        },
+        {
+            "index": "232",
+            "cht": "草莓糖飾",
+            "jp": "いちごアメざいく",
+            "en": "Strawberry Sweet"
+        },
+        {
+            "index": "233",
+            "cht": "愛心糖飾",
+            "jp": "ハートアメざいく",
+            "en": "Love Sweet"
+        },
+        {
+            "index": "234",
+            "cht": "野莓糖飾",
+            "jp": "ベリーアメざいく",
+            "en": "Berry Sweet"
+        },
+        {
+            "index": "235",
+            "cht": "幸運草糖飾",
+            "jp": "よつばアメざいく",
+            "en": "Clover Sweet"
+        },
+        {
+            "index": "236",
+            "cht": "花朵糖飾",
+            "jp": "おはなアメざいく",
+            "en": "Flower Sweet"
+        },
+        {
+            "index": "237",
+            "cht": "星星糖飾",
+            "jp": "スターアメざいく",
+            "en": "Star Sweet"
+        },
+        {
+            "index": "238",
+            "cht": "蝴蝶結糖飾",
+            "jp": "リボンアメざいく",
+            "en": "Ribbon Sweet"
+        },
+        {
+            "index": "239",
+            "cht": "爽喉噴霧",
+            "jp": "のどスプレー",
+            "en": "Throat Spray"
+        },
+        {
+            "index": "240",
+            "cht": "避難背包",
+            "jp": "だっしゅつパック",
+            "en": "Eject Pack"
+        },
+        {
+            "index": "241",
+            "cht": "厚底靴",
+            "jp": "あつぞこブーツ",
+            "en": "Heavy-Duty Boots"
+        },
+        {
+            "index": "242",
+            "cht": "打空保險",
+            "jp": "からぶりほけん",
+            "en": "Blunder Policy"
+        },
+        {
+            "index": "243",
+            "cht": "客房服務",
+            "jp": "ルームサービス",
+            "en": "Room Service"
+        },
+        {
+            "index": "244",
+            "cht": "萬能傘",
+            "jp": "ばんのうがさ",
+            "en": "Utility Umbrella"
+        },
+        {
+            "index": "245",
+            "cht": "一般Ｚ",
+            "jp": "ノーマルＺ",
+            "en": "Normalium Z"
+        },
+        {
+            "index": "246",
+            "cht": "火Ｚ",
+            "jp": "ホノオＺ",
+            "en": "Firium Z"
+        },
+        {
+            "index": "247",
+            "cht": "水Ｚ",
+            "jp": "ミズＺ",
+            "en": "Waterium Z"
+        },
+        {
+            "index": "248",
+            "cht": "電Ｚ",
+            "jp": "デンキＺ",
+            "en": "Electrium Z"
+        },
+        {
+            "index": "249",
+            "cht": "草Ｚ",
+            "jp": "クサＺ",
+            "en": "Grassium Z"
+        },
+        {
+            "index": "250",
+            "cht": "冰Ｚ",
+            "jp": "コオリＺ",
+            "en": "Icium Z"
+        },
+        {
+            "index": "251",
+            "cht": "格鬥Ｚ",
+            "jp": "カクトウＺ",
+            "en": "Fightinium Z"
+        },
+        {
+            "index": "252",
+            "cht": "毒Ｚ",
+            "jp": "ドクＺ",
+            "en": "Poisonium Z"
+        },
+        {
+            "index": "253",
+            "cht": "地面Ｚ",
+            "jp": "ジメンＺ",
+            "en": "Groundium Z"
+        },
+        {
+            "index": "254",
+            "cht": "飛行Ｚ",
+            "jp": "ヒコウＺ",
+            "en": "Flyinium Z"
+        },
+        {
+            "index": "255",
+            "cht": "超能力Ｚ",
+            "jp": "エスパーＺ",
+            "en": "Psychium Z"
+        },
+        {
+            "index": "256",
+            "cht": "蟲Ｚ",
+            "jp": "ムシＺ",
+            "en": "Buginium Z"
+        },
+        {
+            "index": "257",
+            "cht": "岩石Ｚ",
+            "jp": "イワＺ",
+            "en": "Rockium Z"
+        },
+        {
+            "index": "258",
+            "cht": "幽靈Ｚ",
+            "jp": "ゴーストＺ",
+            "en": "Ghostium Z"
+        },
+        {
+            "index": "259",
+            "cht": "龍Ｚ",
+            "jp": "ドラゴンＺ",
+            "en": "Dragonium Z"
+        },
+        {
+            "index": "260",
+            "cht": "惡Ｚ",
+            "jp": "アクＺ",
+            "en": "Darkinium Z"
+        },
+        {
+            "index": "261",
+            "cht": "鋼Ｚ",
+            "jp": "ハガネＺ",
+            "en": "Steelium Z"
+        },
+        {
+            "index": "262",
+            "cht": "妖精Ｚ",
+            "jp": "フェアリーＺ",
+            "en": "Fairium Z"
+        },
+        {
+            "index": "263",
+            "cht": "皮卡丘Ｚ",
+            "jp": "ピカチュウＺ",
+            "en": "Pikanium Z"
+        },
+        {
+            "index": "264",
+            "cht": "狙射樹梟Ｚ",
+            "jp": "ジュナイパーＺ",
+            "en": "Decidium Z"
+        },
+        {
+            "index": "265",
+            "cht": "熾焰咆哮虎Ｚ",
+            "jp": "ガオガエンＺ",
+            "en": "Incinium Z"
+        },
+        {
+            "index": "266",
+            "cht": "西獅海壬Ｚ",
+            "jp": "アシレーヌＺ",
+            "en": "Primarium Z"
+        },
+        {
+            "index": "267",
+            "cht": "卡璞Ｚ",
+            "jp": "カプＺ",
+            "en": "Tapunium Z"
+        },
+        {
+            "index": "268",
+            "cht": "瑪夏多Ｚ",
+            "jp": "マーシャドーＺ",
+            "en": "Marshadium Z"
+        },
+        {
+            "index": "269",
+            "cht": "阿羅雷Ｚ",
+            "jp": "アロライＺ",
+            "en": "Aloraichium Z"
+        },
+        {
+            "index": "270",
+            "cht": "卡比獸Ｚ",
+            "jp": "カビゴンＺ",
+            "en": "Snorlium Z"
+        },
+        {
+            "index": "271",
+            "cht": "伊布Ｚ",
+            "jp": "イーブイＺ",
+            "en": "Eevium Z"
+        },
+        {
+            "index": "272",
+            "cht": "夢幻Ｚ",
+            "jp": "ミュウＺ",
+            "en": "Mewnium Z"
+        },
+        {
+            "index": "273",
+            "cht": "智皮卡Ｚ",
+            "jp": "サトピカＺ",
+            "en": "Pikashunium Z"
+        },
+        {
+            "index": "274",
+            "cht": "索爾迦雷歐Ｚ",
+            "jp": "ソルガレオＺ",
+            "en": "Solganium Z"
+        },
+        {
+            "index": "275",
+            "cht": "露奈雅拉Ｚ",
+            "jp": "ルナアーラＺ",
+            "en": "Lunalium Z"
+        },
+        {
+            "index": "276",
+            "cht": "究極奈克洛Ｚ",
+            "jp": "ウルトラネクロＺ",
+            "en": "Ultranecrozium Z"
+        },
+        {
+            "index": "277",
+            "cht": "謎擬ＱＺ",
+            "jp": "ミミッキュＺ",
+            "en": "Mimikium Z"
+        },
+        {
+            "index": "278",
+            "cht": "鬃岩狼人Ｚ",
+            "jp": "ルガルガンＺ",
+            "en": "Lycanium Z"
+        },
+        {
+            "index": "279",
+            "cht": "杖尾鱗甲龍Ｚ",
+            "jp": "ジャラランガＺ",
+            "en": "Kommonium Z"
+        },
+        {
+            "index": "280",
+            "cht": "櫻子果",
+            "jp": "クラボのみ",
+            "en": "Cheri Berry"
+        },
+        {
+            "index": "281",
+            "cht": "零餘果",
+            "jp": "カゴのみ",
+            "en": "Chesto Berry"
+        },
+        {
+            "index": "282",
+            "cht": "桃桃果",
+            "jp": "モモンのみ",
+            "en": "Pecha Berry"
+        },
+        {
+            "index": "283",
+            "cht": "莓莓果",
+            "jp": "チーゴのみ",
+            "en": "Rawst Berry"
+        },
+        {
+            "index": "284",
+            "cht": "利木果",
+            "jp": "ナナシのみ",
+            "en": "Aspear Berry"
+        },
+        {
+            "index": "285",
+            "cht": "蘋野果",
+            "jp": "ヒメリのみ",
+            "en": "Leppa Berry"
+        },
+        {
+            "index": "286",
+            "cht": "橙橙果",
+            "jp": "オレンのみ",
+            "en": "Oran Berry"
+        },
+        {
+            "index": "287",
+            "cht": "柿仔果",
+            "jp": "キーのみ",
+            "en": "Persim Berry"
+        },
+        {
+            "index": "288",
+            "cht": "木子果",
+            "jp": "ラムのみ",
+            "en": "Lum Berry"
+        },
+        {
+            "index": "289",
+            "cht": "文柚果",
+            "jp": "オボンのみ",
+            "en": "Sitrus Berry"
+        },
+        {
+            "index": "290",
+            "cht": "勿花果",
+            "jp": "フィラのみ",
+            "en": "Figy Berry"
+        },
+        {
+            "index": "291",
+            "cht": "異奇果",
+            "jp": "ウイのみ",
+            "en": "Wiki Berry"
+        },
+        {
+            "index": "292",
+            "cht": "芒芒果",
+            "jp": "マゴのみ",
+            "en": "Mago Berry"
+        },
+        {
+            "index": "293",
+            "cht": "樂芭果",
+            "jp": "バンジのみ",
+            "en": "Aguav Berry"
+        },
+        {
+            "index": "294",
+            "cht": "芭亞果",
+            "jp": "イアのみ",
+            "en": "Iapapa Berry"
+        },
+        {
+            "index": "295",
+            "cht": "蔓莓果",
+            "jp": "ズリのみ",
+            "en": "Razz Berry"
+        },
+        {
+            "index": "296",
+            "cht": "墨莓果",
+            "jp": "ブリーのみ",
+            "en": "Bluk Berry"
+        },
+        {
+            "index": "297",
+            "cht": "蕉香果",
+            "jp": "ナナのみ",
+            "en": "Nanab Berry"
+        },
+        {
+            "index": "298",
+            "cht": "西梨果",
+            "jp": "セシナのみ",
+            "en": "Wepear Berry"
+        },
+        {
+            "index": "299",
+            "cht": "凰梨果",
+            "jp": "パイルのみ",
+            "en": "Pinap Berry"
+        },
+        {
+            "index": "300",
+            "cht": "榴石果",
+            "jp": "ザロクのみ",
+            "en": "Pomeg Berry"
+        },
+        {
+            "index": "301",
+            "cht": "藻根果",
+            "jp": "ネコブのみ",
+            "en": "Kelpsy Berry"
+        },
+        {
+            "index": "302",
+            "cht": "比巴果",
+            "jp": "タポルのみ",
+            "en": "Qualot Berry"
+        },
+        {
+            "index": "303",
+            "cht": "哈密果",
+            "jp": "ロメのみ",
+            "en": "Hondew Berry"
+        },
+        {
+            "index": "304",
+            "cht": "萄葡果",
+            "jp": "ウブのみ",
+            "en": "Grepa Berry"
+        },
+        {
+            "index": "305",
+            "cht": "茄番果",
+            "jp": "マトマのみ",
+            "en": "Tamato Berry"
+        },
+        {
+            "index": "306",
+            "cht": "玉黍果",
+            "jp": "モコシのみ",
+            "en": "Cornn Berry"
+        },
+        {
+            "index": "307",
+            "cht": "岳竹果",
+            "jp": "ゴスのみ",
+            "en": "Magost Berry"
+        },
+        {
+            "index": "308",
+            "cht": "茸丹果",
+            "jp": "ラブタのみ",
+            "en": "Rabuta Berry"
+        },
+        {
+            "index": "309",
+            "cht": "檬檸果",
+            "jp": "ノメルのみ",
+            "en": "Nomel Berry"
+        },
+        {
+            "index": "310",
+            "cht": "刺角果",
+            "jp": "ノワキのみ",
+            "en": "Spelon Berry"
+        },
+        {
+            "index": "311",
+            "cht": "椰木果",
+            "jp": "シーヤのみ",
+            "en": "Pamtre Berry"
+        },
+        {
+            "index": "312",
+            "cht": "瓜西果",
+            "jp": "カイスのみ",
+            "en": "Watmel Berry"
+        },
+        {
+            "index": "313",
+            "cht": "金枕果",
+            "jp": "ドリのみ",
+            "en": "Durin Berry"
+        },
+        {
+            "index": "314",
+            "cht": "靛莓果",
+            "jp": "ベリブのみ",
+            "en": "Belue Berry"
+        },
+        {
+            "index": "315",
+            "cht": "枝荔果",
+            "jp": "チイラのみ",
+            "en": "Liechi Berry"
+        },
+        {
+            "index": "316",
+            "cht": "龍睛果",
+            "jp": "リュガのみ",
+            "en": "Ganlon Berry"
+        },
+        {
+            "index": "317",
+            "cht": "沙鱗果",
+            "jp": "カムラのみ",
+            "en": "Salac Berry"
+        },
+        {
+            "index": "318",
+            "cht": "龍火果",
+            "jp": "ヤタピのみ",
+            "en": "Petaya Berry"
+        },
+        {
+            "index": "319",
+            "cht": "杏仔果",
+            "jp": "ズアのみ",
+            "en": "Apicot Berry"
+        },
+        {
+            "index": "320",
+            "cht": "蘭薩果",
+            "jp": "サンのみ",
+            "en": "Lansat Berry"
+        },
+        {
+            "index": "321",
+            "cht": "星桃果",
+            "jp": "スターのみ",
+            "en": "Starf Berry"
+        },
+        {
+            "index": "322",
+            "cht": "謎芝果",
+            "jp": "ナゾのみ",
+            "en": "Enigma Berry"
+        },
+        {
+            "index": "323",
+            "cht": "巧可果",
+            "jp": "オッカのみ",
+            "en": "Occa Berry"
+        },
+        {
+            "index": "324",
+            "cht": "千香果",
+            "jp": "イトケのみ",
+            "en": "Passho Berry"
+        },
+        {
+            "index": "325",
+            "cht": "燭木果",
+            "jp": "ソクノのみ",
+            "en": "Wacan Berry"
+        },
+        {
+            "index": "326",
+            "cht": "羅子果",
+            "jp": "リンドのみ",
+            "en": "Rindo Berry"
+        },
+        {
+            "index": "327",
+            "cht": "番荔果",
+            "jp": "ヤチェのみ",
+            "en": "Yache Berry"
+        },
+        {
+            "index": "328",
+            "cht": "蓮蒲果",
+            "jp": "ヨプのみ",
+            "en": "Chople Berry"
+        },
+        {
+            "index": "329",
+            "cht": "通通果",
+            "jp": "ビアーのみ",
+            "en": "Kebia Berry"
+        },
+        {
+            "index": "330",
+            "cht": "腰木果",
+            "jp": "シュカのみ",
+            "en": "Shuca Berry"
+        },
+        {
+            "index": "331",
+            "cht": "棱瓜果",
+            "jp": "バコウのみ",
+            "en": "Coba Berry"
+        },
+        {
+            "index": "332",
+            "cht": "福祿果",
+            "jp": "ウタンのみ",
+            "en": "Payapa Berry"
+        },
+        {
+            "index": "333",
+            "cht": "扁櫻果",
+            "jp": "タンガのみ",
+            "en": "Tanga Berry"
+        },
+        {
+            "index": "334",
+            "cht": "草蠶果",
+            "jp": "ヨロギのみ",
+            "en": "Charti Berry"
+        },
+        {
+            "index": "335",
+            "cht": "佛柑果",
+            "jp": "カシブのみ",
+            "en": "Kasib Berry"
+        },
+        {
+            "index": "336",
+            "cht": "莓榴果",
+            "jp": "ハバンのみ",
+            "en": "Haban Berry"
+        },
+        {
+            "index": "337",
+            "cht": "刺耳果",
+            "jp": "ナモのみ",
+            "en": "Colbur Berry"
+        },
+        {
+            "index": "338",
+            "cht": "霹霹果",
+            "jp": "リリバのみ",
+            "en": "Babiri Berry"
+        },
+        {
+            "index": "339",
+            "cht": "燈漿果",
+            "jp": "ホズのみ",
+            "en": "Chilan Berry"
+        },
+        {
+            "index": "340",
+            "cht": "奇秘果",
+            "jp": "ミクルのみ",
+            "en": "Micle Berry"
+        },
+        {
+            "index": "341",
+            "cht": "釋陀果",
+            "jp": "イバンのみ",
+            "en": "Custap Berry"
+        },
+        {
+            "index": "342",
+            "cht": "嘉珍果",
+            "jp": "ジャポのみ",
+            "en": "Jaboca Berry"
+        },
+        {
+            "index": "343",
+            "cht": "霧蓮果",
+            "jp": "レンブのみ",
+            "en": "Rowap Berry"
+        },
+        {
+            "index": "344",
+            "cht": "洛玫果",
+            "jp": "ロゼルのみ",
+            "en": "Roseli Berry"
+        },
+        {
+            "index": "345",
+            "cht": "亞開果",
+            "jp": "アッキのみ",
+            "en": "Kee Berry"
+        },
+        {
+            "index": "346",
+            "cht": "香羅果",
+            "jp": "タラプのみ",
+            "en": "Maranga Berry"
+        }
+    ]
+}

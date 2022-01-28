@@ -1,0 +1,1873 @@
+﻿{
+    "data": [
+        {
+            "index": "1",
+            "cht": "惡臭",
+            "jp": "あくしゅう",
+            "en": "Stench",
+            "lower": "stench"
+        },
+        {
+            "index": "2",
+            "cht": "降雨",
+            "jp": "あめふらし",
+            "en": "Drizzle",
+            "lower": "drizzle"
+        },
+        {
+            "index": "3",
+            "cht": "加速",
+            "jp": "かそく",
+            "en": "Speed Boost",
+            "lower": "speed boost"
+        },
+        {
+            "index": "4",
+            "cht": "戰鬥盔甲",
+            "jp": "カブトアーマー",
+            "en": "Battle Armor",
+            "lower": "battle armor"
+        },
+        {
+            "index": "5",
+            "cht": "結實",
+            "jp": "がんじょう",
+            "en": "Sturdy",
+            "lower": "sturdy"
+        },
+        {
+            "index": "6",
+            "cht": "濕氣",
+            "jp": "しめりけ",
+            "en": "Damp",
+            "lower": "damp"
+        },
+        {
+            "index": "7",
+            "cht": "柔軟",
+            "jp": "じゅうなん",
+            "en": "Limber",
+            "lower": "limber"
+        },
+        {
+            "index": "8",
+            "cht": "沙隱",
+            "jp": "すながくれ",
+            "en": "Sand Veil",
+            "lower": "sand veil"
+        },
+        {
+            "index": "9",
+            "cht": "靜電",
+            "jp": "せいでんき",
+            "en": "Static",
+            "lower": "static"
+        },
+        {
+            "index": "10",
+            "cht": "蓄電",
+            "jp": "ちくでん",
+            "en": "Volt Absorb",
+            "lower": "volt absorb"
+        },
+        {
+            "index": "11",
+            "cht": "儲水",
+            "jp": "ちょすい",
+            "en": "Water Absorb",
+            "lower": "water absorb"
+        },
+        {
+            "index": "12",
+            "cht": "遲鈍",
+            "jp": "どんかん",
+            "en": "Oblivious",
+            "lower": "oblivious"
+        },
+        {
+            "index": "13",
+            "cht": "無關天氣",
+            "jp": "ノーてんき",
+            "en": "Cloud Nine",
+            "lower": "cloud nine"
+        },
+        {
+            "index": "14",
+            "cht": "複眼",
+            "jp": "ふくがん",
+            "en": "Compound Eyes",
+            "lower": "compound eyes"
+        },
+        {
+            "index": "15",
+            "cht": "不眠",
+            "jp": "ふみん",
+            "en": "Insomnia",
+            "lower": "insomnia"
+        },
+        {
+            "index": "16",
+            "cht": "變色",
+            "jp": "へんしょく",
+            "en": "Color Change",
+            "lower": "color change"
+        },
+        {
+            "index": "17",
+            "cht": "免疫",
+            "jp": "めんえき",
+            "en": "Immunity",
+            "lower": "immunity"
+        },
+        {
+            "index": "18",
+            "cht": "引火",
+            "jp": "もらいび",
+            "en": "Flash Fire",
+            "lower": "flash fire"
+        },
+        {
+            "index": "19",
+            "cht": "鱗粉",
+            "jp": "りんぷん",
+            "en": "Shield Dust",
+            "lower": "shield dust"
+        },
+        {
+            "index": "20",
+            "cht": "我行我素",
+            "jp": "マイペース",
+            "en": "Own Tempo",
+            "lower": "own tempo"
+        },
+        {
+            "index": "21",
+            "cht": "吸盤",
+            "jp": "きゅうばん",
+            "en": "Suction Cups",
+            "lower": "suction cups"
+        },
+        {
+            "index": "22",
+            "cht": "威嚇",
+            "jp": "いかく",
+            "en": "Intimidate",
+            "lower": "intimidate"
+        },
+        {
+            "index": "23",
+            "cht": "踩影",
+            "jp": "かげふみ",
+            "en": "Shadow Tag",
+            "lower": "shadow tag"
+        },
+        {
+            "index": "24",
+            "cht": "粗糙皮膚",
+            "jp": "さめはだ",
+            "en": "Rough Skin",
+            "lower": "rough skin"
+        },
+        {
+            "index": "25",
+            "cht": "神奇守護",
+            "jp": "ふしぎなまもり",
+            "en": "Wonder Guard",
+            "lower": "wonder guard"
+        },
+        {
+            "index": "26",
+            "cht": "飄浮",
+            "jp": "ふゆう",
+            "en": "Levitate",
+            "lower": "levitate"
+        },
+        {
+            "index": "27",
+            "cht": "孢子",
+            "jp": "ほうし",
+            "en": "Effect Spore",
+            "lower": "effect spore"
+        },
+        {
+            "index": "28",
+            "cht": "同步",
+            "jp": "シンクロ",
+            "en": "Synchronize",
+            "lower": "synchronize"
+        },
+        {
+            "index": "29",
+            "cht": "恆淨之軀",
+            "jp": "クリアボディ",
+            "en": "Clear Body",
+            "lower": "clear body"
+        },
+        {
+            "index": "30",
+            "cht": "自然回復",
+            "jp": "しぜんかいふく",
+            "en": "Natural Cure",
+            "lower": "natural cure"
+        },
+        {
+            "index": "31",
+            "cht": "避雷針",
+            "jp": "ひらいしん",
+            "en": "Lightning Rod",
+            "lower": "lightning rod"
+        },
+        {
+            "index": "32",
+            "cht": "天恩",
+            "jp": "てんのめぐみ",
+            "en": "Serene Grace",
+            "lower": "serene grace"
+        },
+        {
+            "index": "33",
+            "cht": "悠游自如",
+            "jp": "すいすい",
+            "en": "Swift Swim",
+            "lower": "swift swim"
+        },
+        {
+            "index": "34",
+            "cht": "葉綠素",
+            "jp": "ようりょくそ",
+            "en": "Chlorophyll",
+            "lower": "chlorophyll"
+        },
+        {
+            "index": "35",
+            "cht": "發光",
+            "jp": "はっこう",
+            "en": "Illuminate",
+            "lower": "illuminate"
+        },
+        {
+            "index": "36",
+            "cht": "複製",
+            "jp": "トレース",
+            "en": "Trace",
+            "lower": "trace"
+        },
+        {
+            "index": "37",
+            "cht": "大力士",
+            "jp": "ちからもち",
+            "en": "Huge Power",
+            "lower": "huge power"
+        },
+        {
+            "index": "38",
+            "cht": "毒刺",
+            "jp": "どくのトゲ",
+            "en": "Poison Point",
+            "lower": "poison point"
+        },
+        {
+            "index": "39",
+            "cht": "精神力",
+            "jp": "せいしんりょく",
+            "en": "Inner Focus",
+            "lower": "inner focus"
+        },
+        {
+            "index": "40",
+            "cht": "熔岩鎧甲",
+            "jp": "マグマのよろい",
+            "en": "Magma Armor",
+            "lower": "magma armor"
+        },
+        {
+            "index": "41",
+            "cht": "水幕",
+            "jp": "みずのベール",
+            "en": "Water Veil",
+            "lower": "water veil"
+        },
+        {
+            "index": "42",
+            "cht": "磁力",
+            "jp": "じりょく",
+            "en": "Magnet Pull",
+            "lower": "magnet pull"
+        },
+        {
+            "index": "43",
+            "cht": "隔音",
+            "jp": "ぼうおん",
+            "en": "Soundproof",
+            "lower": "soundproof"
+        },
+        {
+            "index": "44",
+            "cht": "雨盤",
+            "jp": "あめうけざら",
+            "en": "Rain Dish",
+            "lower": "rain dish"
+        },
+        {
+            "index": "45",
+            "cht": "揚沙",
+            "jp": "すなおこし",
+            "en": "Sand Stream",
+            "lower": "sand stream"
+        },
+        {
+            "index": "46",
+            "cht": "壓迫感",
+            "jp": "プレッシャー",
+            "en": "Pressure",
+            "lower": "pressure"
+        },
+        {
+            "index": "47",
+            "cht": "厚脂肪",
+            "jp": "あついしぼう",
+            "en": "Thick Fat",
+            "lower": "thick fat"
+        },
+        {
+            "index": "48",
+            "cht": "早起",
+            "jp": "はやおき",
+            "en": "Early Bird",
+            "lower": "early bird"
+        },
+        {
+            "index": "49",
+            "cht": "火焰之軀",
+            "jp": "ほのおのからだ",
+            "en": "Flame Body",
+            "lower": "flame body"
+        },
+        {
+            "index": "50",
+            "cht": "逃跑",
+            "jp": "にげあし",
+            "en": "Run Away",
+            "lower": "run away"
+        },
+        {
+            "index": "51",
+            "cht": "銳利目光",
+            "jp": "するどいめ",
+            "en": "Keen Eye",
+            "lower": "keen eye"
+        },
+        {
+            "index": "52",
+            "cht": "怪力鉗",
+            "jp": "かいりきバサミ",
+            "en": "Hyper Cutter",
+            "lower": "hyper cutter"
+        },
+        {
+            "index": "53",
+            "cht": "撿拾",
+            "jp": "ものひろい",
+            "en": "Pickup",
+            "lower": "pickup"
+        },
+        {
+            "index": "54",
+            "cht": "懶惰",
+            "jp": "なまけ",
+            "en": "Truant",
+            "lower": "truant"
+        },
+        {
+            "index": "55",
+            "cht": "活力",
+            "jp": "はりきり",
+            "en": "Hustle",
+            "lower": "hustle"
+        },
+        {
+            "index": "56",
+            "cht": "迷人之軀",
+            "jp": "メロメロボディ",
+            "en": "Cute Charm",
+            "lower": "cute charm"
+        },
+        {
+            "index": "57",
+            "cht": "正電",
+            "jp": "プラス",
+            "en": "Plus",
+            "lower": "plus"
+        },
+        {
+            "index": "58",
+            "cht": "負電",
+            "jp": "マイナス",
+            "en": "Minus",
+            "lower": "minus"
+        },
+        {
+            "index": "59",
+            "cht": "陰晴不定",
+            "jp": "てんきや",
+            "en": "Forecast",
+            "lower": "forecast"
+        },
+        {
+            "index": "60",
+            "cht": "黏著",
+            "jp": "ねんちゃく",
+            "en": "Sticky Hold",
+            "lower": "sticky hold"
+        },
+        {
+            "index": "61",
+            "cht": "蛻皮",
+            "jp": "だっぴ",
+            "en": "Shed Skin",
+            "lower": "shed skin"
+        },
+        {
+            "index": "62",
+            "cht": "毅力",
+            "jp": "こんじょう",
+            "en": "Guts",
+            "lower": "guts"
+        },
+        {
+            "index": "63",
+            "cht": "神奇鱗片",
+            "jp": "ふしぎなうろこ",
+            "en": "Marvel Scale",
+            "lower": "marvel scale"
+        },
+        {
+            "index": "64",
+            "cht": "污泥漿",
+            "jp": "ヘドロえき",
+            "en": "Liquid Ooze",
+            "lower": "liquid ooze"
+        },
+        {
+            "index": "65",
+            "cht": "茂盛",
+            "jp": "しんりょく",
+            "en": "Overgrow",
+            "lower": "overgrow"
+        },
+        {
+            "index": "66",
+            "cht": "猛火",
+            "jp": "もうか",
+            "en": "Blaze",
+            "lower": "blaze"
+        },
+        {
+            "index": "67",
+            "cht": "激流",
+            "jp": "げきりゅう",
+            "en": "Torrent",
+            "lower": "torrent"
+        },
+        {
+            "index": "68",
+            "cht": "蟲之預感",
+            "jp": "むしのしらせ",
+            "en": "Swarm",
+            "lower": "swarm"
+        },
+        {
+            "index": "69",
+            "cht": "堅硬腦袋",
+            "jp": "いしあたま",
+            "en": "Rock Head",
+            "lower": "rock head"
+        },
+        {
+            "index": "70",
+            "cht": "日照",
+            "jp": "ひでり",
+            "en": "Drought",
+            "lower": "drought"
+        },
+        {
+            "index": "71",
+            "cht": "沙穴",
+            "jp": "ありじごく",
+            "en": "Arena Trap",
+            "lower": "arena trap"
+        },
+        {
+            "index": "72",
+            "cht": "幹勁",
+            "jp": "やるき",
+            "en": "Vital Spirit",
+            "lower": "vital spirit"
+        },
+        {
+            "index": "73",
+            "cht": "白色煙霧",
+            "jp": "しろいけむり",
+            "en": "White Smoke",
+            "lower": "white smoke"
+        },
+        {
+            "index": "74",
+            "cht": "瑜伽之力",
+            "jp": "ヨガパワー",
+            "en": "Pure Power",
+            "lower": "pure power"
+        },
+        {
+            "index": "75",
+            "cht": "硬殼盔甲",
+            "jp": "シェルアーマー",
+            "en": "Shell Armor",
+            "lower": "shell armor"
+        },
+        {
+            "index": "76",
+            "cht": "氣閘",
+            "jp": "エアロック",
+            "en": "Air Lock",
+            "lower": "air lock"
+        },
+        {
+            "index": "77",
+            "cht": "蹣跚",
+            "jp": "ちどりあし",
+            "en": "Tangled Feet",
+            "lower": "tangled feet"
+        },
+        {
+            "index": "78",
+            "cht": "電氣引擎",
+            "jp": "でんきエンジン",
+            "en": "Motor Drive",
+            "lower": "motor drive"
+        },
+        {
+            "index": "79",
+            "cht": "鬥爭心",
+            "jp": "とうそうしん",
+            "en": "Rivalry",
+            "lower": "rivalry"
+        },
+        {
+            "index": "80",
+            "cht": "不屈之心",
+            "jp": "ふくつのこころ",
+            "en": "Steadfast",
+            "lower": "steadfast"
+        },
+        {
+            "index": "81",
+            "cht": "雪隱",
+            "jp": "ゆきがくれ",
+            "en": "Snow Cloak",
+            "lower": "snow cloak"
+        },
+        {
+            "index": "82",
+            "cht": "貪吃鬼",
+            "jp": "くいしんぼう",
+            "en": "Gluttony",
+            "lower": "gluttony"
+        },
+        {
+            "index": "83",
+            "cht": "憤怒穴位",
+            "jp": "いかりのつぼ",
+            "en": "Anger Point",
+            "lower": "anger point"
+        },
+        {
+            "index": "84",
+            "cht": "輕裝",
+            "jp": "かるわざ",
+            "en": "Unburden",
+            "lower": "unburden"
+        },
+        {
+            "index": "85",
+            "cht": "耐熱",
+            "jp": "たいねつ",
+            "en": "Heatproof",
+            "lower": "heatproof"
+        },
+        {
+            "index": "86",
+            "cht": "單純",
+            "jp": "たんじゅん",
+            "en": "Simple",
+            "lower": "simple"
+        },
+        {
+            "index": "87",
+            "cht": "乾燥皮膚",
+            "jp": "かんそうはだ",
+            "en": "Dry Skin",
+            "lower": "dry skin"
+        },
+        {
+            "index": "88",
+            "cht": "下載",
+            "jp": "ダウンロード",
+            "en": "Download",
+            "lower": "download"
+        },
+        {
+            "index": "89",
+            "cht": "鐵拳",
+            "jp": "てつのこぶし",
+            "en": "Iron Fist",
+            "lower": "iron fist"
+        },
+        {
+            "index": "90",
+            "cht": "毒療",
+            "jp": "ポイズンヒール",
+            "en": "Poison Heal",
+            "lower": "poison heal"
+        },
+        {
+            "index": "91",
+            "cht": "適應力",
+            "jp": "てきおうりょく",
+            "en": "Adaptability",
+            "lower": "adaptability"
+        },
+        {
+            "index": "92",
+            "cht": "連續攻擊",
+            "jp": "スキルリンク",
+            "en": "Skill Link",
+            "lower": "skill link"
+        },
+        {
+            "index": "93",
+            "cht": "濕潤之軀",
+            "jp": "うるおいボディ",
+            "en": "Hydration",
+            "lower": "hydration"
+        },
+        {
+            "index": "94",
+            "cht": "太陽之力",
+            "jp": "サンパワー",
+            "en": "Solar Power",
+            "lower": "solar power"
+        },
+        {
+            "index": "95",
+            "cht": "飛毛腿",
+            "jp": "はやあし",
+            "en": "Quick Feet",
+            "lower": "quick feet"
+        },
+        {
+            "index": "96",
+            "cht": "一般皮膚",
+            "jp": "ノーマルスキン",
+            "en": "Normalize",
+            "lower": "normalize"
+        },
+        {
+            "index": "97",
+            "cht": "狙擊手",
+            "jp": "スナイパー",
+            "en": "Sniper",
+            "lower": "sniper"
+        },
+        {
+            "index": "98",
+            "cht": "魔法防守",
+            "jp": "マジックガード",
+            "en": "Magic Guard",
+            "lower": "magic guard"
+        },
+        {
+            "index": "99",
+            "cht": "無防守",
+            "jp": "ノーガード",
+            "en": "No Guard",
+            "lower": "no guard"
+        },
+        {
+            "index": "100",
+            "cht": "慢出",
+            "jp": "あとだし",
+            "en": "Stall",
+            "lower": "stall"
+        },
+        {
+            "index": "101",
+            "cht": "技術高手",
+            "jp": "テクニシャン",
+            "en": "Technician",
+            "lower": "technician"
+        },
+        {
+            "index": "102",
+            "cht": "葉子防守",
+            "jp": "リーフガード",
+            "en": "Leaf Guard",
+            "lower": "leaf guard"
+        },
+        {
+            "index": "103",
+            "cht": "笨拙",
+            "jp": "ぶきよう",
+            "en": "Klutz",
+            "lower": "klutz"
+        },
+        {
+            "index": "104",
+            "cht": "破格",
+            "jp": "かたやぶり",
+            "en": "Mold Breaker",
+            "lower": "mold breaker"
+        },
+        {
+            "index": "105",
+            "cht": "超幸運",
+            "jp": "きょううん",
+            "en": "Super Luck",
+            "lower": "super luck"
+        },
+        {
+            "index": "106",
+            "cht": "引爆",
+            "jp": "ゆうばく",
+            "en": "Aftermath",
+            "lower": "aftermath"
+        },
+        {
+            "index": "107",
+            "cht": "危險預知",
+            "jp": "きけんよち",
+            "en": "Anticipation",
+            "lower": "anticipation"
+        },
+        {
+            "index": "108",
+            "cht": "預知夢",
+            "jp": "よちむ",
+            "en": "Forewarn",
+            "lower": "forewarn"
+        },
+        {
+            "index": "109",
+            "cht": "純樸",
+            "jp": "てんねん",
+            "en": "Unaware",
+            "lower": "unaware"
+        },
+        {
+            "index": "110",
+            "cht": "有色眼鏡",
+            "jp": "いろめがね",
+            "en": "Tinted Lens",
+            "lower": "tinted lens"
+        },
+        {
+            "index": "111",
+            "cht": "過濾",
+            "jp": "フィルター",
+            "en": "Filter",
+            "lower": "filter"
+        },
+        {
+            "index": "112",
+            "cht": "慢啟動",
+            "jp": "スロースタート",
+            "en": "Slow Start",
+            "lower": "slow start"
+        },
+        {
+            "index": "113",
+            "cht": "膽量",
+            "jp": "きもったま",
+            "en": "Scrappy",
+            "lower": "scrappy"
+        },
+        {
+            "index": "114",
+            "cht": "引水",
+            "jp": "よびみず",
+            "en": "Storm Drain",
+            "lower": "storm drain"
+        },
+        {
+            "index": "115",
+            "cht": "冰凍之軀",
+            "jp": "アイスボディ",
+            "en": "Ice Body",
+            "lower": "ice body"
+        },
+        {
+            "index": "116",
+            "cht": "堅硬岩石",
+            "jp": "ハードロック",
+            "en": "Solid Rock",
+            "lower": "solid rock"
+        },
+        {
+            "index": "117",
+            "cht": "降雪",
+            "jp": "ゆきふらし",
+            "en": "Snow Warning",
+            "lower": "snow warning"
+        },
+        {
+            "index": "118",
+            "cht": "採蜜",
+            "jp": "みつあつめ",
+            "en": "Honey Gather",
+            "lower": "honey gather"
+        },
+        {
+            "index": "119",
+            "cht": "察覺",
+            "jp": "おみとおし",
+            "en": "Frisk",
+            "lower": "frisk"
+        },
+        {
+            "index": "120",
+            "cht": "捨身",
+            "jp": "すてみ",
+            "en": "Reckless",
+            "lower": "reckless"
+        },
+        {
+            "index": "121",
+            "cht": "多屬性",
+            "jp": "マルチタイプ",
+            "en": "Multitype",
+            "lower": "multitype"
+        },
+        {
+            "index": "122",
+            "cht": "花之禮",
+            "jp": "フラワーギフト",
+            "en": "Flower Gift",
+            "lower": "flower gift"
+        },
+        {
+            "index": "123",
+            "cht": "夢魘",
+            "jp": "ナイトメア",
+            "en": "Bad Dreams",
+            "lower": "bad dreams"
+        },
+        {
+            "index": "124",
+            "cht": "順手牽羊",
+            "jp": "わるいてぐせ",
+            "en": "Pickpocket",
+            "lower": "pickpocket"
+        },
+        {
+            "index": "125",
+            "cht": "強行",
+            "jp": "ちからずく",
+            "en": "Sheer Force",
+            "lower": "sheer force"
+        },
+        {
+            "index": "126",
+            "cht": "唱反調",
+            "jp": "あまのじゃく",
+            "en": "Contrary",
+            "lower": "contrary"
+        },
+        {
+            "index": "127",
+            "cht": "緊張感",
+            "jp": "きんちょうかん",
+            "en": "Unnerve",
+            "lower": "unnerve"
+        },
+        {
+            "index": "128",
+            "cht": "不服輸",
+            "jp": "まけんき",
+            "en": "Defiant",
+            "lower": "defiant"
+        },
+        {
+            "index": "129",
+            "cht": "軟弱",
+            "jp": "よわき",
+            "en": "Defeatist",
+            "lower": "defeatist"
+        },
+        {
+            "index": "130",
+            "cht": "詛咒之軀",
+            "jp": "のろわれボディ",
+            "en": "Cursed Body",
+            "lower": "cursed body"
+        },
+        {
+            "index": "131",
+            "cht": "治癒之心",
+            "jp": "いやしのこころ",
+            "en": "Healer",
+            "lower": "healer"
+        },
+        {
+            "index": "132",
+            "cht": "友情防守",
+            "jp": "フレンドガード",
+            "en": "Friend Guard",
+            "lower": "friend guard"
+        },
+        {
+            "index": "133",
+            "cht": "碎裂鎧甲",
+            "jp": "くだけるよろい",
+            "en": "Weak Armor",
+            "lower": "weak armor"
+        },
+        {
+            "index": "134",
+            "cht": "重金屬",
+            "jp": "ヘヴィメタル",
+            "en": "Heavy Metal",
+            "lower": "heavy metal"
+        },
+        {
+            "index": "135",
+            "cht": "輕金屬",
+            "jp": "ライトメタル",
+            "en": "Light Metal",
+            "lower": "light metal"
+        },
+        {
+            "index": "136",
+            "cht": "多重鱗片",
+            "jp": "マルチスケイル",
+            "en": "Multiscale",
+            "lower": "multiscale"
+        },
+        {
+            "index": "137",
+            "cht": "中毒激升",
+            "jp": "どくぼうそう",
+            "en": "Toxic Boost",
+            "lower": "toxic boost"
+        },
+        {
+            "index": "138",
+            "cht": "受熱激升",
+            "jp": "ねつぼうそう",
+            "en": "Flare Boost",
+            "lower": "flare boost"
+        },
+        {
+            "index": "139",
+            "cht": "收穫",
+            "jp": "しゅうかく",
+            "en": "Harvest",
+            "lower": "harvest"
+        },
+        {
+            "index": "140",
+            "cht": "心靈感應",
+            "jp": "テレパシー",
+            "en": "Telepathy",
+            "lower": "telepathy"
+        },
+        {
+            "index": "141",
+            "cht": "心情不定",
+            "jp": "ムラっけ",
+            "en": "Moody",
+            "lower": "moody"
+        },
+        {
+            "index": "142",
+            "cht": "防塵",
+            "jp": "ぼうじん",
+            "en": "Overcoat",
+            "lower": "overcoat"
+        },
+        {
+            "index": "143",
+            "cht": "毒手",
+            "jp": "どくしゅ",
+            "en": "Poison Touch",
+            "lower": "poison touch"
+        },
+        {
+            "index": "144",
+            "cht": "再生力",
+            "jp": "さいせいりょく",
+            "en": "Regenerator",
+            "lower": "regenerator"
+        },
+        {
+            "index": "145",
+            "cht": "健壯胸肌",
+            "jp": "はとむね",
+            "en": "Big Pecks",
+            "lower": "big pecks"
+        },
+        {
+            "index": "146",
+            "cht": "撥沙",
+            "jp": "すなかき",
+            "en": "Sand Rush",
+            "lower": "sand rush"
+        },
+        {
+            "index": "147",
+            "cht": "奇跡皮膚",
+            "jp": "ミラクルスキン",
+            "en": "Wonder Skin",
+            "lower": "wonder skin"
+        },
+        {
+            "index": "148",
+            "cht": "分析",
+            "jp": "アナライズ",
+            "en": "Analytic",
+            "lower": "analytic"
+        },
+        {
+            "index": "149",
+            "cht": "幻覺",
+            "jp": "イリュージョン",
+            "en": "Illusion",
+            "lower": "illusion"
+        },
+        {
+            "index": "150",
+            "cht": "變身者",
+            "jp": "かわりもの",
+            "en": "Imposter",
+            "lower": "imposter"
+        },
+        {
+            "index": "151",
+            "cht": "穿透",
+            "jp": "すりぬけ",
+            "en": "Infiltrator",
+            "lower": "infiltrator"
+        },
+        {
+            "index": "152",
+            "cht": "木乃伊",
+            "jp": "ミイラ",
+            "en": "Mummy",
+            "lower": "mummy"
+        },
+        {
+            "index": "153",
+            "cht": "自信過度",
+            "jp": "じしんかじょう",
+            "en": "Moxie",
+            "lower": "moxie"
+        },
+        {
+            "index": "154",
+            "cht": "正義之心",
+            "jp": "せいぎのこころ",
+            "en": "Justified",
+            "lower": "justified"
+        },
+        {
+            "index": "155",
+            "cht": "膽怯",
+            "jp": "びびり",
+            "en": "Rattled",
+            "lower": "rattled"
+        },
+        {
+            "index": "156",
+            "cht": "魔法鏡",
+            "jp": "マジックミラー",
+            "en": "Magic Bounce",
+            "lower": "magic bounce"
+        },
+        {
+            "index": "157",
+            "cht": "食草",
+            "jp": "そうしょく",
+            "en": "Sap Sipper",
+            "lower": "sap sipper"
+        },
+        {
+            "index": "158",
+            "cht": "惡作劇之心",
+            "jp": "いたずらごころ",
+            "en": "Prankster",
+            "lower": "prankster"
+        },
+        {
+            "index": "159",
+            "cht": "沙之力",
+            "jp": "すなのちから",
+            "en": "Sand Force",
+            "lower": "sand force"
+        },
+        {
+            "index": "160",
+            "cht": "鐵刺",
+            "jp": "てつのトゲ",
+            "en": "Iron Barbs",
+            "lower": "iron barbs"
+        },
+        {
+            "index": "161",
+            "cht": "達摩模式",
+            "jp": "ダルマモード",
+            "en": "Zen Mode",
+            "lower": "zen mode"
+        },
+        {
+            "index": "162",
+            "cht": "勝利之星",
+            "jp": "しょうりのほし",
+            "en": "Victory Star",
+            "lower": "victory star"
+        },
+        {
+            "index": "163",
+            "cht": "渦輪火焰",
+            "jp": "ターボブレイズ",
+            "en": "Turboblaze",
+            "lower": "turboblaze"
+        },
+        {
+            "index": "164",
+            "cht": "兆級電壓",
+            "jp": "テラボルテージ",
+            "en": "Teravolt",
+            "lower": "teravolt"
+        },
+        {
+            "index": "165",
+            "cht": "芳香幕",
+            "jp": "アロマベール",
+            "en": "Aroma Veil",
+            "lower": "aroma veil"
+        },
+        {
+            "index": "166",
+            "cht": "花幕",
+            "jp": "フラワーベール",
+            "en": "Flower Veil",
+            "lower": "flower veil"
+        },
+        {
+            "index": "167",
+            "cht": "頰囊",
+            "jp": "ほおぶくろ",
+            "en": "Cheek Pouch",
+            "lower": "cheek pouch"
+        },
+        {
+            "index": "168",
+            "cht": "變幻自如",
+            "jp": "へんげんじざい",
+            "en": "Protean",
+            "lower": "protean"
+        },
+        {
+            "index": "169",
+            "cht": "毛皮大衣",
+            "jp": "ファーコート",
+            "en": "Fur Coat",
+            "lower": "fur coat"
+        },
+        {
+            "index": "170",
+            "cht": "魔術師",
+            "jp": "マジシャン",
+            "en": "Magician",
+            "lower": "magician"
+        },
+        {
+            "index": "171",
+            "cht": "防彈",
+            "jp": "ぼうだん",
+            "en": "Bulletproof",
+            "lower": "bulletproof"
+        },
+        {
+            "index": "172",
+            "cht": "好勝",
+            "jp": "かちき",
+            "en": "Competitive",
+            "lower": "competitive"
+        },
+        {
+            "index": "173",
+            "cht": "強壯之顎",
+            "jp": "がんじょうあご",
+            "en": "Strong Jaw",
+            "lower": "strong jaw"
+        },
+        {
+            "index": "174",
+            "cht": "冰凍皮膚",
+            "jp": "フリーズスキン",
+            "en": "Refrigerate",
+            "lower": "refrigerate"
+        },
+        {
+            "index": "175",
+            "cht": "甜幕",
+            "jp": "スイートベール",
+            "en": "Sweet Veil",
+            "lower": "sweet veil"
+        },
+        {
+            "index": "176",
+            "cht": "戰鬥切換",
+            "jp": "バトルスイッチ",
+            "en": "Stance Change",
+            "lower": "stance change"
+        },
+        {
+            "index": "177",
+            "cht": "疾風之翼",
+            "jp": "はやてのつばさ",
+            "en": "Gale Wings",
+            "lower": "gale wings"
+        },
+        {
+            "index": "178",
+            "cht": "超級發射器",
+            "jp": "メガランチャー",
+            "en": "Mega Launcher",
+            "lower": "mega launcher"
+        },
+        {
+            "index": "179",
+            "cht": "草之毛皮",
+            "jp": "くさのけがわ",
+            "en": "Grass Pelt",
+            "lower": "grass pelt"
+        },
+        {
+            "index": "180",
+            "cht": "共生",
+            "jp": "きょうせい",
+            "en": "Symbiosis",
+            "lower": "symbiosis"
+        },
+        {
+            "index": "181",
+            "cht": "硬爪",
+            "jp": "かたいツメ",
+            "en": "Tough Claws",
+            "lower": "tough claws"
+        },
+        {
+            "index": "182",
+            "cht": "妖精皮膚",
+            "jp": "フェアリースキン",
+            "en": "Pixilate",
+            "lower": "pixilate"
+        },
+        {
+            "index": "183",
+            "cht": "黏滑",
+            "jp": "ぬめぬめ",
+            "en": "Gooey",
+            "lower": "gooey"
+        },
+        {
+            "index": "184",
+            "cht": "飛行皮膚",
+            "jp": "スカイスキン",
+            "en": "Aerilate",
+            "lower": "aerilate"
+        },
+        {
+            "index": "185",
+            "cht": "親子愛",
+            "jp": "おやこあい",
+            "en": "Parental Bond",
+            "lower": "parental bond"
+        },
+        {
+            "index": "186",
+            "cht": "暗黑氣場",
+            "jp": "ダークオーラ",
+            "en": "Dark Aura",
+            "lower": "dark aura"
+        },
+        {
+            "index": "187",
+            "cht": "妖精氣場",
+            "jp": "フェアリーオーラ",
+            "en": "Fairy Aura",
+            "lower": "fairy aura"
+        },
+        {
+            "index": "188",
+            "cht": "氣場破壞",
+            "jp": "オーラブレイク",
+            "en": "Aura Break",
+            "lower": "aura break"
+        },
+        {
+            "index": "189",
+            "cht": "始源之海",
+            "jp": "はじまりのうみ",
+            "en": "Primordial Sea",
+            "lower": "primordial sea"
+        },
+        {
+            "index": "190",
+            "cht": "終結之地",
+            "jp": "おわりのだいち",
+            "en": "Desolate Land",
+            "lower": "desolate land"
+        },
+        {
+            "index": "191",
+            "cht": "德爾塔氣流",
+            "jp": "デルタストリーム",
+            "en": "Delta Stream",
+            "lower": "delta stream"
+        },
+        {
+            "index": "192",
+            "cht": "持久力",
+            "jp": "じきゅうりょく",
+            "en": "Stamina",
+            "lower": "stamina"
+        },
+        {
+            "index": "193",
+            "cht": "躍躍欲逃",
+            "jp": "にげごし",
+            "en": "Wimp Out",
+            "lower": "wimp out"
+        },
+        {
+            "index": "194",
+            "cht": "危險迴避",
+            "jp": "ききかいひ",
+            "en": "Emergency Exit",
+            "lower": "emergency exit"
+        },
+        {
+            "index": "195",
+            "cht": "遇水凝固",
+            "jp": "みずがため",
+            "en": "Water Compaction",
+            "lower": "water compaction"
+        },
+        {
+            "index": "196",
+            "cht": "不仁不義",
+            "jp": "ひとでなし",
+            "en": "Merciless",
+            "lower": "merciless"
+        },
+        {
+            "index": "197",
+            "cht": "界限盾殼",
+            "jp": "リミットシールド",
+            "en": "Shields Down",
+            "lower": "shields down"
+        },
+        {
+            "index": "198",
+            "cht": "監視",
+            "jp": "はりこみ",
+            "en": "Stakeout",
+            "lower": "stakeout"
+        },
+        {
+            "index": "199",
+            "cht": "水泡",
+            "jp": "すいほう",
+            "en": "Water Bubble",
+            "lower": "water bubble"
+        },
+        {
+            "index": "200",
+            "cht": "鋼能力者",
+            "jp": "はがねつかい",
+            "en": "Steelworker",
+            "lower": "steelworker"
+        },
+        {
+            "index": "201",
+            "cht": "怒火沖天",
+            "jp": "ぎゃくじょう",
+            "en": "Berserk",
+            "lower": "berserk"
+        },
+        {
+            "index": "202",
+            "cht": "撥雪",
+            "jp": "ゆきかき",
+            "en": "Slush Rush",
+            "lower": "slush rush"
+        },
+        {
+            "index": "203",
+            "cht": "遠隔",
+            "jp": "えんかく",
+            "en": "Long Reach",
+            "lower": "long reach"
+        },
+        {
+            "index": "204",
+            "cht": "濕潤之聲",
+            "jp": "うるおいボイス",
+            "en": "Liquid Voice",
+            "lower": "liquid voice"
+        },
+        {
+            "index": "205",
+            "cht": "先行治療",
+            "jp": "ヒーリングシフト",
+            "en": "Triage",
+            "lower": "triage"
+        },
+        {
+            "index": "206",
+            "cht": "電氣皮膚",
+            "jp": "エレキスキン",
+            "en": "Galvanize",
+            "lower": "galvanize"
+        },
+        {
+            "index": "207",
+            "cht": "衝浪之尾",
+            "jp": "サーフテール",
+            "en": "Surge Surfer",
+            "lower": "surge surfer"
+        },
+        {
+            "index": "208",
+            "cht": "魚群",
+            "jp": "ぎょぐん",
+            "en": "Schooling",
+            "lower": "schooling"
+        },
+        {
+            "index": "209",
+            "cht": "畫皮",
+            "jp": "ばけのかわ",
+            "en": "Disguise",
+            "lower": "disguise"
+        },
+        {
+            "index": "210",
+            "cht": "牽絆變身",
+            "jp": "きずなへんげ",
+            "en": "Battle Bond",
+            "lower": "battle bond"
+        },
+        {
+            "index": "211",
+            "cht": "群聚變形",
+            "jp": "スワームチェンジ",
+            "en": "Power Construct",
+            "lower": "power construct"
+        },
+        {
+            "index": "212",
+            "cht": "腐蝕",
+            "jp": "ふしょく",
+            "en": "Corrosion",
+            "lower": "corrosion"
+        },
+        {
+            "index": "213",
+            "cht": "絕對睡眠",
+            "jp": "ぜったいねむり",
+            "en": "Comatose",
+            "lower": "comatose"
+        },
+        {
+            "index": "214",
+            "cht": "女王的威嚴",
+            "jp": "じょおうのいげん",
+            "en": "Queenly Majesty",
+            "lower": "queenly majesty"
+        },
+        {
+            "index": "215",
+            "cht": "飛出的內在物",
+            "jp": "とびだすなかみ",
+            "en": "Innards Out",
+            "lower": "innards out"
+        },
+        {
+            "index": "216",
+            "cht": "舞者",
+            "jp": "おどりこ",
+            "en": "Dancer",
+            "lower": "dancer"
+        },
+        {
+            "index": "217",
+            "cht": "蓄電池",
+            "jp": "バッテリー",
+            "en": "Battery",
+            "lower": "battery"
+        },
+        {
+            "index": "218",
+            "cht": "毛茸茸",
+            "jp": "もふもふ",
+            "en": "Fluffy",
+            "lower": "fluffy"
+        },
+        {
+            "index": "219",
+            "cht": "鮮艷之軀",
+            "jp": "ビビッドボディ",
+            "en": "Dazzling",
+            "lower": "dazzling"
+        },
+        {
+            "index": "220",
+            "cht": "魂心",
+            "jp": "ソウルハート",
+            "en": "Soul-Heart",
+            "lower": "soul-heart"
+        },
+        {
+            "index": "221",
+            "cht": "捲髮",
+            "jp": "カーリーヘアー",
+            "en": "Tangling Hair",
+            "lower": "tangling hair"
+        },
+        {
+            "index": "222",
+            "cht": "接球手",
+            "jp": "レシーバー",
+            "en": "Receiver",
+            "lower": "receiver"
+        },
+        {
+            "index": "223",
+            "cht": "化學之力",
+            "jp": "かがくのちから",
+            "en": "Power of Alchemy",
+            "lower": "power of alchemy"
+        },
+        {
+            "index": "224",
+            "cht": "異獸提升",
+            "jp": "ビーストブースト",
+            "en": "Beast Boost",
+            "lower": "beast boost"
+        },
+        {
+            "index": "225",
+            "cht": "ＡＲ系統",
+            "jp": "ＡＲシステム",
+            "en": "RKS System",
+            "lower": "rks system"
+        },
+        {
+            "index": "226",
+            "cht": "電氣製造者",
+            "jp": "エレキメイカー",
+            "en": "Electric Surge",
+            "lower": "electric surge"
+        },
+        {
+            "index": "227",
+            "cht": "精神製造者",
+            "jp": "サイコメイカー",
+            "en": "Psychic Surge",
+            "lower": "psychic surge"
+        },
+        {
+            "index": "228",
+            "cht": "薄霧製造者",
+            "jp": "ミストメイカー",
+            "en": "Misty Surge",
+            "lower": "misty surge"
+        },
+        {
+            "index": "229",
+            "cht": "青草製造者",
+            "jp": "グラスメイカー",
+            "en": "Grassy Surge",
+            "lower": "grassy surge"
+        },
+        {
+            "index": "230",
+            "cht": "金屬防護",
+            "jp": "メタルプロテクト",
+            "en": "Full Metal Body",
+            "lower": "full metal body"
+        },
+        {
+            "index": "231",
+            "cht": "幻影防守",
+            "jp": "ファントムガード",
+            "en": "Shadow Shield",
+            "lower": "shadow shield"
+        },
+        {
+            "index": "232",
+            "cht": "稜鏡裝甲",
+            "jp": "プリズムアーマー",
+            "en": "Prism Armor",
+            "lower": "prism armor"
+        },
+        {
+            "index": "233",
+            "cht": "腦核之力",
+            "jp": "ブレインフォース",
+            "en": "Neuroforce",
+            "lower": "neuroforce"
+        },
+        {
+            "index": "234",
+            "cht": "不撓之劍",
+            "jp": "ふとうのけん",
+            "en": "Intrepid Sword",
+            "lower": "intrepid sword"
+        },
+        {
+            "index": "235",
+            "cht": "不屈之盾",
+            "jp": "ふくつのたて",
+            "en": "Dauntless Shield",
+            "lower": "dauntless shield"
+        },
+        {
+            "index": "236",
+            "cht": "自由者",
+            "jp": "リベロ",
+            "en": "Libero",
+            "lower": "libero"
+        },
+        {
+            "index": "237",
+            "cht": "撿球",
+            "jp": "たまひろい",
+            "en": "Ball Fetch",
+            "lower": "ball fetch"
+        },
+        {
+            "index": "238",
+            "cht": "棉絮",
+            "jp": "わたげ",
+            "en": "Cotton Down",
+            "lower": "cotton down"
+        },
+        {
+            "index": "239",
+            "cht": "螺旋尾鰭",
+            "jp": "スクリューおびれ",
+            "en": "Propeller Tail",
+            "lower": "propeller tail"
+        },
+        {
+            "index": "240",
+            "cht": "鏡甲",
+            "jp": "ミラーアーマー",
+            "en": "Mirror Armor",
+            "lower": "mirror armor"
+        },
+        {
+            "index": "241",
+            "cht": "一口飛彈",
+            "jp": "うのミサイル",
+            "en": "Gulp Missile",
+            "lower": "gulp missile"
+        },
+        {
+            "index": "242",
+            "cht": "堅毅",
+            "jp": "すじがねいり",
+            "en": "Stalwart",
+            "lower": "stalwart"
+        },
+        {
+            "index": "243",
+            "cht": "蒸汽機",
+            "jp": "じょうききかん",
+            "en": "Steam Engine",
+            "lower": "steam engine"
+        },
+        {
+            "index": "244",
+            "cht": "龐克搖滾",
+            "jp": "パンクロック",
+            "en": "Punk Rock",
+            "lower": "punk rock"
+        },
+        {
+            "index": "245",
+            "cht": "吐沙",
+            "jp": "すなはき",
+            "en": "Sand Spit",
+            "lower": "sand spit"
+        },
+        {
+            "index": "246",
+            "cht": "冰鱗粉",
+            "jp": "こおりのりんぷん",
+            "en": "Ice Scales",
+            "lower": "ice scales"
+        },
+        {
+            "index": "247",
+            "cht": "熟成",
+            "jp": "じゅくせい",
+            "en": "Ripen",
+            "lower": "ripen"
+        },
+        {
+            "index": "248",
+            "cht": "結凍頭",
+            "jp": "アイスフェイス",
+            "en": "Ice Face",
+            "lower": "ice face"
+        },
+        {
+            "index": "249",
+            "cht": "能量點",
+            "jp": "パワースポット",
+            "en": "Power Spot",
+            "lower": "power spot"
+        },
+        {
+            "index": "250",
+            "cht": "擬態",
+            "jp": "ぎたい",
+            "en": "Mimicry",
+            "lower": "mimicry"
+        },
+        {
+            "index": "251",
+            "cht": "除障",
+            "jp": "バリアフリー",
+            "en": "Screen Cleaner",
+            "lower": "screen cleaner"
+        },
+        {
+            "index": "252",
+            "cht": "鋼之意志",
+            "jp": "はがねのせいしん",
+            "en": "Steely Spirit",
+            "lower": "steely spirit"
+        },
+        {
+            "index": "253",
+            "cht": "滅亡之軀",
+            "jp": "ほろびのボディ",
+            "en": "Perish Body",
+            "lower": "perish body"
+        },
+        {
+            "index": "254",
+            "cht": "遊魂",
+            "jp": "さまようたましい",
+            "en": "Wandering Spirit",
+            "lower": "wandering spirit"
+        },
+        {
+            "index": "255",
+            "cht": "一猩一意",
+            "jp": "ごりむちゅう",
+            "en": "Gorilla Tactics",
+            "lower": "gorilla tactics"
+        },
+        {
+            "index": "256",
+            "cht": "化學變化氣體",
+            "jp": "かがくへんかガス",
+            "en": "Neutralizing Gas",
+            "lower": "neutralizing gas"
+        },
+        {
+            "index": "257",
+            "cht": "粉彩護幕",
+            "jp": "パステルベール",
+            "en": "Pastel Veil",
+            "lower": "pastel veil"
+        },
+        {
+            "index": "258",
+            "cht": "飽了又餓",
+            "jp": "はらぺこスイッチ",
+            "en": "Hunger Switch",
+            "lower": "hunger switch"
+        },
+        {
+            "index": "259",
+            "cht": "速擊",
+            "jp": "クイックドロウ",
+            "en": "Quick Draw",
+            "lower": "quick draw"
+        },
+        {
+            "index": "260",
+            "cht": "無形拳",
+            "jp": "ふかしのこぶし",
+            "en": "Unseen Fist",
+            "lower": "unseen fist"
+        },
+        {
+            "index": "261",
+            "cht": "怪藥",
+            "jp": "きみょうなくすり",
+            "en": "Curious Medicine",
+            "lower": "curious medicine"
+        },
+        {
+            "index": "262",
+            "cht": "電晶體",
+            "jp": "トランジスタ",
+            "en": "Transistor",
+            "lower": "transistor"
+        },
+        {
+            "index": "263",
+            "cht": "龍顎",
+            "jp": "りゅうのあぎと",
+            "en": "Dragon's Maw",
+            "lower": "dragons maw"
+        },
+        {
+            "index": "264",
+            "cht": "蒼白嘶鳴",
+            "jp": "しろのいななき",
+            "en": "Chilling Neigh",
+            "lower": "chilling neigh"
+        },
+        {
+            "index": "265",
+            "cht": "漆黑嘶鳴",
+            "jp": "くろのいななき",
+            "en": "Grim Neigh",
+            "lower": "grim neigh"
+        },
+        {
+            "index": "266",
+            "cht": "人馬一體",
+            "jp": "じんばいったい",
+            "en": "As One",
+            "lower": "as one"
+        },
+        {
+            "index": "267",
+            "cht": "人馬一體",
+            "jp": "じんばいったい",
+            "en": "As One",
+            "lower": "as one"
+        }
+    ]
+}
