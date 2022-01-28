@@ -145,10 +145,11 @@
     </div>
     <div class="card_maker" ref="capture">
       <div class="card_wrapper">
+        <div class="card_trapezoid"></div>
         <div class="card_info">
           <div class="card_sprite">
             <img :src="chosenSprite" alt="card_sprite">
-              <div class="card_trainername" v-show="trainername">{{ trainername }}</div>
+            <div class="card_trainername" v-show="trainername">TN:{{ trainername }}</div>
           </div>
           <div class="card_textarea">
             <div class="card_row">
@@ -203,6 +204,7 @@
           </div>
         </div>
       </div>
+      <small class="card_link" >lizaosan.github.io/pokemon-build-maker</small>
     </div>
 
     <!-- <small class="copyright">Copyright © 2022 Lizaosan. All rights reserved.<br> Last Updated: 2022/01/27 17:28</small> -->
@@ -639,14 +641,16 @@
     padding: 0.12rem;
     width: 100%;
     box-sizing: border-box;
+
   }
 
   .card_wrapper {
     border: #EAC100 1px solid;
     background-color: #FFF0AC;
-    height: 14rem;
+    height: 16rem;
     border-radius: 0.25rem;
     position: relative;
+    overflow: hidden;
   }
 
   .card_sprite {
@@ -670,8 +674,8 @@
 
   .card_trainername {
     position: absolute;
-    background-color: #FFF0AC;
-    color: #C6A300;
+    background-color: #C6A300;
+    color: #fff;
     font-weight: bold;
     bottom: -1.2rem;
     left: 0;
@@ -681,17 +685,19 @@
     z-index: 1;
     border-radius: 999rem;
     border: 2px solid #fff;
+    font-size: 0.8rem;
+    font-style: italic;
   }
 
   .card_info {
-    background-color: #FFE153;
+    /* background-color: #FFE153; */
     width: 100%;
     height: 13rem;
     position: absolute;
     top: 0;
     bottom: 0;
     margin: auto;
-    border: 2px solid #fff;
+    /* border: 2px solid #fff; */
     border-left: none;
     border-right: none;
     display: flex;
@@ -774,6 +780,27 @@
   .card_move:first-child {
     border-right: 1px solid #FFE153;
   }
+
+  .card_trapezoid {
+    width:100%;
+    height:0;
+    border-bottom:20rem solid #FFE153;
+    border-left:10rem solid transparent;
+    margin-left: 0rem;
+  }
+
+  .card_link {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-size: 6px;
+    color: #fff;
+    background-color: #C6A300;
+    border-radius: 999rem 0 0 0;
+    padding: 0.1rem 0.5rem 0.1rem 1rem;
+    transform: scale(0.8);
+    transform-origin: bottom right;
+}
 
   .copyright {
     position: absolute;
