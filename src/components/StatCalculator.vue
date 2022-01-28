@@ -71,7 +71,7 @@
         </div>
       </div>
     </div>
-    <table>
+    <table class="config_table">
       <thead>
         <tr>
           <th>項目</th>
@@ -138,27 +138,70 @@
     <div class="input_wrapper">
       <div class="inner_wrap button_bar">
         <div class="reset_btn">
+          <input maxlength="6" class="pmkeyword" type="text" placeholder="訓練家暱稱" v-model="trainername">&nbsp;
+          <input maxlength="6" class="pmkeyword" type="text" placeholder="寶可夢暱稱" v-model="pmnickname">&nbsp;
           <button @click="generatorImage">截圖</button>&nbsp;
           <button @click="resetAll">重置</button>
         </div>
       </div>
     </div>
     <div class="card_maker" ref="capture">
-      <div class="card_wrapper">
+      <div class="card_wrapper">    
         <div class="card_info">
           <div class="card_sprite">
             <img :src="chosenSprite" alt="card_sprite">
+              <div class="card_trainername" v-show="trainername">{{ trainername }}</div>   
           </div>
           <div class="card_textarea">
-          <div class="card_row">
-            <div class="card_name">{{ chosenPMname }}</div>
-          </div>
-          <div class="card_row">
-            <div class="card_lv">Lv{{ level }}</div>
-            <div class="card_sex" v-show=" sex != 'X'">{{ sex }}</div>
-            <div class="card_ability">{{ ability }}</div>
-            <div class="card_nature">{{ chosenNature }}</div>
-          </div>
+            <div class="card_row">
+              <div class="card_name">{{pmnickname}}<span v-show="pmnickname">（</span>{{ chosenPMname }}<span class="card_sex" v-show=" sex != 'X'">{{ sex }}</span><span v-show="pmnickname">）</span></div>
+              <div class="card_lv">Lv{{ level }}</div>
+              <div class="card_nature">{{ chosenNature }}</div>
+              <div class="card_ability">{{ ability }}</div>
+              <div class="card_item">{{ selectedItem }}</div>
+            </div>
+            <div class="card_table">
+              <div class="card_table_row">
+                <span>H</span>
+                <span>A</span>
+                <span>B</span>
+                <span>C</span>
+                <span>D</span>
+                <span>S</span>
+              </div>
+              <div class="card_table_row">
+                <span>{{userIV[0]}}</span>
+                <span>{{userIV[1]}}</span>
+                <span>{{userIV[2]}}</span>
+                <span>{{userIV[3]}}</span>
+                <span>{{userIV[4]}}</span>
+                <span>{{userIV[5]}}</span>
+              </div>
+              <div class="card_table_row">
+                <span>{{userEV[0]}}</span>
+                <span>{{userEV[1]}}</span>
+                <span>{{userEV[2]}}</span>
+                <span>{{userEV[3]}}</span>
+                <span>{{userEV[4]}}</span>
+                <span>{{userEV[5]}}</span>
+              </div>
+              <div class="card_table_row">
+                <span>{{getHP}}</span>
+                <span :class="{'text_red': naturePatch[0] == 1.1 , 'text_blue' : naturePatch[0] == 0.9}">{{getAtk}}</span>
+                <span :class="{'text_red': naturePatch[1] == 1.1 , 'text_blue' : naturePatch[1] == 0.9}">{{getDef}}</span>
+                <span :class="{'text_red': naturePatch[2] == 1.1 , 'text_blue' : naturePatch[2] == 0.9}">{{getSpAtk}}</span>
+                <span :class="{'text_red': naturePatch[3] == 1.1 , 'text_blue' : naturePatch[3] == 0.9}">{{getSpDef}}</span>
+                <span :class="{'text_red': naturePatch[4] == 1.1 , 'text_blue' : naturePatch[4] == 0.9}">{{getSpd}}</span>
+              </div>
+            </div>
+            <div class="card_move_row">
+                <div class="card_move">{{userMove[0]}}</div>
+                <div class="card_move">{{userMove[1]}}</div>
+              </div>
+              <div class="card_move_row">
+                <div class="card_move">{{userMove[2]}}</div>
+                <div class="card_move">{{userMove[3]}}</div>
+              </div>
           </div>
         </div>
       </div>
@@ -239,7 +282,7 @@
         },
         userIV: [31, 31, 31, 31, 31, 31],
         userEV: [0, 0, 0, 0, 0, 0],
-        userMove: ["","","",""],
+        userMove: ["招式1","招式2","招式3","招式4"],
         level: 50,
         sex: "♂",
         sexList: ["♂","♀","X"],
@@ -248,6 +291,8 @@
         nature: "0",
         naturePatch: [1, 1, 1, 1, 1],
         ability: "茂盛",
+        pmnickname: "",
+        trainername: "",
         resetFrequency: 0,
         chosenSprite: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
       };
@@ -306,11 +351,12 @@
           backgroundColor: null,
           imageTimeout: 0,
           useCORS: true,
-          scale: 1.5
+          scale: 1,
+          quality: 1.0
         }).then(canvas => { 
           let link = document.createElement('a');
           link.href = canvas.toDataURL();
-          link.setAttribute('download', vm.selectedStat.name);
+          link.setAttribute('download', vm.chosenPMname + "育成卡-" + vm.pmnickname);
           // link.style.display = 'none';
           document.body.appendChild(link);
           link.click();
@@ -405,8 +451,6 @@
         let name = "";
         for (let i = 0; i < vm.pmJsonData.data.length; i++) {
           if (vm.pmJsonData.data[i].jsonid == vm.selectedPM) {
-            console.log(vm.pmJsonData.data[i].jsonid)
-            console.log(vm.selectedPM)
             name = vm.pmJsonData.data[i].cht;
           }
         }
@@ -415,7 +459,7 @@
       chosenNature() {
         let vm = this;
         let chosenNatureindex = vm.nature;
-        let natureObject = ["不加不減","","","","","","","","","","","","+A-B 怕寂寞","+A-C 固執","+A-D 頑皮","+A-S 勇敢","","","","","","+B-A 大膽","","+B-C 淘氣","+B-D 樂天","+B-S 悠閒","","","","","","+C-A 內斂","+C-B 慢吞吞","","+C-D 馬虎","+C-S 冷靜","","","","","","+D-A 溫和","+D-B 溫順","+D-C 慎重","","+D-S 自大","","","","","","+S-A 膽小","+S-B 急躁","+S-C 爽朗","+S-D 天真"]
+        let natureObject = ["不加不減","","","","","","","","","","","","怕寂寞","固執","頑皮","勇敢","","","","","","大膽","","淘氣","樂天","悠閒","","","","","","內斂","慢吞吞","","馬虎","冷靜","","","","","","溫和","溫順","慎重","","自大","","","","","","膽小","急躁","爽朗","天真"]
         
         return natureObject[chosenNatureindex];
       }
@@ -484,6 +528,10 @@
     display: none;
   }
 
+  * {
+        font-family: "Helvetica", "Microsoft YaHei", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+  }
+
   h1 {
     font-size: 1.75rem;
     font-weight: bold;
@@ -508,13 +556,17 @@
     -moz-appearance: textfield;
   }
 
-  table {
+  table.config_table {
     table-layout: fixed;
     word-wrap:break-word;
     width: 28rem;
     margin: 0 auto;
     margin-top: .2rem;
     line-height: 1;
+  }
+
+  table.config_table th, button {
+    font-weight: 400;
   }
 
   .container {
@@ -619,10 +671,25 @@
     width: 6.85rem;
   }
 
+  .card_trainername {
+    position: absolute;
+    background-color: #FFF0AC;
+    color: #C6A300;
+    font-weight: bold;
+    bottom: -1.2rem;
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding: .2rem;
+    z-index: 1;
+    border-radius: 999rem;
+    border: 2px solid #fff;
+  }
+
   .card_info {
     background-color: #FFE153;
     width: 100%;
-    height: 12rem;
+    height: 13rem;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -646,26 +713,69 @@
     text-align: left;
     font-size: 1rem;
     display: flex;
+    flex-wrap: wrap;
   }
 
-  .card_row {
-    text-align: left;
-    font-size: 1rem;
-    display: flex;
-  }
-
-  .card_row:not(:first-child) {
-    margin-top: .2rem;
-  }
-
-  .card_row div{
+  .card_row>div{
     background-color: #fff;
     padding: 0.1rem 0.75rem;
     border-radius: 999rem;
+    margin-top: .2rem;
   }
 
-  .card_row div:not(:first-child) {
-    margin-left: 0.2rem;
+  .card_row>div {
+    margin-right: 0.2rem;
+  }
+
+  .card_name {
+    font-weight: bold;
+  }
+
+  .card_sex {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .card_table {
+    background-color: #FFF0AC;
+    margin-top: .2rem;
+    border-radius: .25rem;
+    margin-bottom: .1rem;
+  }
+
+  .card_table_row {
+    display: flex;
+  }
+  
+  .card_table_row:first-child {
+    font-weight: bold;
+  }
+
+  .card_table_row:not(:first-child) {
+    background-color: #fff;
+    font-size: .5rem;
+  }
+
+  .card_table_row span {
+    flex: 1;
+    line-height: 1.5;
+  }
+
+  .card_move_row {
+    display: flex;
+  }
+
+  .card_move {
+    flex: 1;
+    background-color: #fff;
+    min-height: 1.2rem;
+  }
+
+  .card_move_row .card_move {
+    border-bottom: 1px solid #FFE153;
+  }
+
+  .card_move:first-child {
+    border-right: 1px solid #FFE153;
   }
 
   .copyright {
