@@ -31,6 +31,7 @@
     -webkit-text-size-adjust: 100%;
     /* 2 */
     font-size: 14px;
+    overflow:hidden;
   }
 
   /* Sections   ========================================================================== */
