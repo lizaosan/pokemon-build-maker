@@ -3,21 +3,17 @@
   <main class="container">
     <div class="input_wrapper">
       <div class="inner_wrap">
-        <div>
-          <input class="pmkeyword" type="text" placeholder="搜尋寶可夢" v-model="pmkeyword">
-          <select class="selectedPM" v-model="selectedPM">
-            <option v-for="(item, index) in filteredpmJsonData" :key="index" :value="item.jsonid">
-              {{ item.ndex }} {{ item.cht }}</option>
-          </select>
-        </div>
+        <input class="pmkeyword" type="text" placeholder="搜尋寶可夢" v-model="pmkeyword">
+        <select class="selectedPM" v-model="selectedPM">
+          <option v-for="(item, index) in filteredpmJsonData" :key="index" :value="item.jsonid">
+            {{ item.ndex }} {{ item.cht }}</option>
+        </select>
       </div>
       <div class="inner_wrap">
-        <div>
-          <input class="pmkeyword" type="text" placeholder="搜尋道具" v-model="itemkeyword">
-          <select class="selectedPM" v-model="selectedItem">
-            <option v-for="(item, index) in filteredItemJsonData" :key="index" :value="item.cht">{{ item.cht }}</option>
-          </select>
-        </div>
+        <input class="pmkeyword" type="text" placeholder="搜尋道具" v-model="itemkeyword">
+        <select class="selectedPM" v-model="selectedItem">
+          <option v-for="(item, index) in filteredItemJsonData" :key="index" :value="item.cht">{{ item.cht }}</option>
+        </select>
       </div>
       <div class="inner_wrap">
         <div>
@@ -139,19 +135,31 @@
         </tr>
       </tbody>
     </table>
-    <div class="inner_wrap">
-      <div class="reset_btn">
-        <button @click="generatorImage">截圖</button>&nbsp;
-        <button @click="resetAll">重置</button>
+    <div class="input_wrapper">
+      <div class="inner_wrap button_bar">
+        <div class="reset_btn">
+          <button @click="generatorImage">截圖</button>&nbsp;
+          <button @click="resetAll">重置</button>
+        </div>
       </div>
     </div>
     <div class="card_maker" ref="capture">
       <div class="card_wrapper">
-        <div class="card_sprite">
-          <img :src="selectedStat.sprites.front_default" alt="card_sprite">
-        </div>
         <div class="card_info">
-          <div class="card_row"></div>
+          <div class="card_sprite">
+            <img :src="chosenSprite" alt="card_sprite">
+          </div>
+          <div class="card_textarea">
+          <div class="card_row">
+            <div class="card_name">{{ chosenPMname }}</div>
+          </div>
+          <div class="card_row">
+            <div class="card_lv">Lv{{ level }}</div>
+            <div class="card_sex" v-show=" sex != 'X'">{{ sex }}</div>
+            <div class="card_ability">{{ ability }}</div>
+            <div class="card_nature">{{ chosenNature }}</div>
+          </div>
+          </div>
         </div>
       </div>
     </div>
@@ -227,7 +235,7 @@
         selectedStat: {
           stats: [{base_stat: 45},{base_stat: 49},{base_stat: 49},{base_stat: 65},{base_stat: 65},{base_stat: 45},],
           abilities:[{ability:{name:"overgrow"}},{ability:{name:"chlorophyll"}}],
-          sprites:{back_default:"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/815.png"}
+          sprites:{back_default:"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"}
         },
         userIV: [31, 31, 31, 31, 31, 31],
         userEV: [0, 0, 0, 0, 0, 0],
@@ -241,6 +249,7 @@
         naturePatch: [1, 1, 1, 1, 1],
         ability: "茂盛",
         resetFrequency: 0,
+        chosenSprite: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
       };
     },
     methods: {
@@ -270,6 +279,7 @@
           })
           .then(function (msg) {
             vm.selectedStat = msg;
+            vm.chosenSprite = vm.selectedStat.sprites.front_default;
           });
       },
       resetAll() {
@@ -295,7 +305,8 @@
           allowTaint: true,
           backgroundColor: null,
           imageTimeout: 0,
-          useCORS: true
+          useCORS: true,
+          scale: 1.5
         }).then(canvas => { 
           let link = document.createElement('a');
           link.href = canvas.toDataURL();
@@ -388,6 +399,25 @@
         return (
           510 - ((vm.userEV[0]*1) + (vm.userEV[1]*1) + (vm.userEV[2]*1) + (vm.userEV[3]*1) + (vm.userEV[4]*1) + (vm.userEV[5]*1))
         );
+      },
+      chosenPMname() {
+        let vm = this;
+        let name = "";
+        for (let i = 0; i < vm.pmJsonData.data.length; i++) {
+          if (vm.pmJsonData.data[i].jsonid == vm.selectedPM) {
+            console.log(vm.pmJsonData.data[i].jsonid)
+            console.log(vm.selectedPM)
+            name = vm.pmJsonData.data[i].cht;
+          }
+        }
+        return name;
+      },
+      chosenNature() {
+        let vm = this;
+        let chosenNatureindex = vm.nature;
+        let natureObject = ["不加不減","","","","","","","","","","","","+A-B 怕寂寞","+A-C 固執","+A-D 頑皮","+A-S 勇敢","","","","","","+B-A 大膽","","+B-C 淘氣","+B-D 樂天","+B-S 悠閒","","","","","","+C-A 內斂","+C-B 慢吞吞","","+C-D 馬虎","+C-S 冷靜","","","","","","+D-A 溫和","+D-B 溫順","+D-C 慎重","","+D-S 自大","","","","","","+S-A 膽小","+S-B 急躁","+S-C 爽朗","+S-D 天真"]
+        
+        return natureObject[chosenNatureindex];
       }
     },
     watch: {
@@ -450,6 +480,10 @@
 
 <style scoped>
 
+  [v-cloak] {
+    display: none;
+  }
+
   h1 {
     font-size: 1.75rem;
     font-weight: bold;
@@ -479,6 +513,7 @@
     word-wrap:break-word;
     width: 28rem;
     margin: 0 auto;
+    margin-top: .2rem;
     line-height: 1;
   }
 
@@ -490,7 +525,7 @@
   }
 
   .input_wrapper {
-    width: 100%;
+    width: 75%;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -504,14 +539,19 @@
   .inner_wrap {
     display: flex;
     flex: 1;
-    justify-content:space-around;
+    justify-content:space-between;
     width: 100%;
-    margin: .25rem 0 0 0;
+    margin: .35rem 0 0 0;
     align-items: center;
   }
 
   .inner_wrap:first-child {
     margin-top: 0; 
+  }
+
+  .inner_wrap.button_bar {
+    justify-content: center;
+    margin-top: .25rem;
   }
 
   .pmkeyword {
@@ -553,7 +593,7 @@
   }
 
   .card_wrapper {
-    border: #EAC100 2px solid;
+    border: #EAC100 1px solid;
     background-color: #FFF0AC;
     height: 14rem;
     border-radius: 0.25rem;
@@ -565,12 +605,8 @@
     height: 9rem;
     background-color: #fff;
     border-radius: 999rem;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 1rem;
-    margin: auto;
-    z-index: 1;
+    position: relative;
+    flex-basis: 9rem;
   }
 
   .card_sprite img {
@@ -594,6 +630,42 @@
     border: 2px solid #fff;
     border-left: none;
     border-right: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1rem;
+    box-sizing: border-box;
+  }
+
+  .card_textarea {
+    flex: 2;
+    margin-left: 1rem;
+  }
+
+  .card_row {
+    text-align: left;
+    font-size: 1rem;
+    display: flex;
+  }
+
+  .card_row {
+    text-align: left;
+    font-size: 1rem;
+    display: flex;
+  }
+
+  .card_row:not(:first-child) {
+    margin-top: .2rem;
+  }
+
+  .card_row div{
+    background-color: #fff;
+    padding: 0.1rem 0.75rem;
+    border-radius: 999rem;
+  }
+
+  .card_row div:not(:first-child) {
+    margin-left: 0.2rem;
   }
 
   .copyright {
