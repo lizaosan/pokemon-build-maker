@@ -137,20 +137,18 @@
     </table>
     <div class="input_wrapper">
       <div class="inner_wrap button_bar">
-        <div class="reset_btn">
           <input maxlength="6" class="pmkeyword" type="text" placeholder="訓練家暱稱" v-model="trainername">&nbsp;
           <input maxlength="6" class="pmkeyword" type="text" placeholder="寶可夢暱稱" v-model="pmnickname">&nbsp;
           <button @click="generatorImage">截圖</button>&nbsp;
           <button @click="resetAll">重置</button>
-        </div>
       </div>
     </div>
     <div class="card_maker" ref="capture">
-      <div class="card_wrapper">    
+      <div class="card_wrapper">
         <div class="card_info">
           <div class="card_sprite">
             <img :src="chosenSprite" alt="card_sprite">
-              <div class="card_trainername" v-show="trainername">{{ trainername }}</div>   
+              <div class="card_trainername" v-show="trainername">{{ trainername }}</div>
           </div>
           <div class="card_textarea">
             <div class="card_row">
@@ -209,7 +207,7 @@
 
     <!-- <small class="copyright">Copyright © 2022 Lizaosan. All rights reserved.<br> Last Updated: 2022/01/27 17:28</small> -->
   </main>
-  
+
 </template>
 
 <script>
@@ -353,7 +351,7 @@
           useCORS: true,
           scale: 1,
           quality: 1.0
-        }).then(canvas => { 
+        }).then(canvas => {
           let link = document.createElement('a');
           link.href = canvas.toDataURL();
           link.setAttribute('download', vm.chosenPMname + "育成卡-" + vm.pmnickname);
@@ -394,7 +392,7 @@
             if (alteredData == selectedAbility[j]) {
               result.push(vm.abilityJsonData.data[k].cht)
             }
-          } 
+          }
         }
         return result;
       },
@@ -460,7 +458,7 @@
         let vm = this;
         let chosenNatureindex = vm.nature;
         let natureObject = ["不加不減","","","","","","","","","","","","怕寂寞","固執","頑皮","勇敢","","","","","","大膽","","淘氣","樂天","悠閒","","","","","","內斂","慢吞吞","","馬虎","冷靜","","","","","","溫和","溫順","慎重","","自大","","","","","","膽小","急躁","爽朗","天真"]
-        
+
         return natureObject[chosenNatureindex];
       }
     },
@@ -577,7 +575,7 @@
   }
 
   .input_wrapper {
-    width: 75%;
+    width: 80%;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -598,11 +596,10 @@
   }
 
   .inner_wrap:first-child {
-    margin-top: 0; 
+    margin-top: 0;
   }
 
   .inner_wrap.button_bar {
-    justify-content: center;
     margin-top: .25rem;
   }
 
@@ -610,7 +607,7 @@
     padding: 0;
     border: 0;
     margin: 0;
-    width: 6rem;
+    width: 7rem;
     border-bottom: 1px solid #ccc;
     font-size: 1rem;
     font-style: italic;
@@ -745,14 +742,14 @@
   .card_table_row {
     display: flex;
   }
-  
+
   .card_table_row:first-child {
     font-weight: bold;
   }
 
   .card_table_row:not(:first-child) {
     background-color: #fff;
-    font-size: .5rem;
+    font-size: 1rem;
   }
 
   .card_table_row span {

@@ -30,9 +30,15 @@
     /* 1 */
     -webkit-text-size-adjust: 100%;
     /* 2 */
-    font-size: 14px;
+    font-size: 16px;
     overflow:hidden;
   }
+
+  @media all and (max-width: 750px) { 
+    html {
+      font-size: 14px;
+    }
+   }
 
   /* Sections   ========================================================================== */
   /** * Remove the margin in all browsers. */
