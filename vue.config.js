@@ -3,6 +3,6 @@ module.exports = {
         extract: false
     },
     publicPath: process.env.NODE_ENV === 'production' ?
-        '/pokemon-stat-calculator/' :
+        '/pokemon-build-maker/' :
         '/'
 }

@@ -474,13 +474,12 @@
     -moz-appearance: textfield;
   }
 
-  tr {
-    height: 1.5rem;
-  }
-
   table {
     table-layout: fixed;
     word-wrap:break-word;
+    width: 28rem;
+    margin: 0 auto;
+    line-height: 1;
   }
 
   .container {
@@ -507,7 +506,7 @@
     flex: 1;
     justify-content:space-around;
     width: 100%;
-    margin: .25rem 0;
+    margin: .25rem 0 0 0;
     align-items: center;
   }
 
@@ -581,7 +580,7 @@
     right: 0;
     bottom: 0;
     margin: auto;
-
+    width: 6.85rem;
   }
 
   .card_info {

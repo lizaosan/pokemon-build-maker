@@ -1,5 +1,5 @@
 <template>
-  <input class="moveInput" name="teleplay" list="teleplay_list" v-model="chosenMove"/>
+  <input class="move_input" name="teleplay" list="teleplay_list" v-model="chosenMove"/>
   <datalist id="teleplay_list">
     <option v-for="(item, index) in parentMovedata" :key="index + 1" :data-value="item.cht"> {{ item.cht}} </option>
   </datalist>
@@ -29,10 +29,10 @@
 </script>
 
 <style scoped>
-  .moveInput {
+  .move_input {
     padding: 0;
     margin: 0;
-    width: 10rem;
+    width: 9rem;
     margin-top: 0.25rem;
   }
 </style>
