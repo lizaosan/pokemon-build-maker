@@ -689,7 +689,7 @@
     left: 0;
     right: 0;
     margin: auto;
-    padding: .2rem;
+    padding: 3px;
     z-index: 1;
     border-radius: 999rem;
     border: 2px solid #fff;
@@ -730,9 +730,10 @@
 
   .card_row>div{
     background-color: #fff;
-    padding: 0.1rem 0.75rem;
+    padding: 3px 10px;
     border-radius: 999rem;
     margin-top: .2rem;
+    line-height: 1rem;
   }
 
   .card_row>div {
@@ -783,7 +784,8 @@
   .card_move {
     flex: 1;
     background-color: #fff;
-    min-height: 1.2rem;
+    line-height: 1rem;
+    padding: 2px 0;
   }
 
   .card_move_row .card_move {
