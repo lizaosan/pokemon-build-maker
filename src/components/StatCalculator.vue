@@ -640,12 +640,14 @@
   }
 
   .card_maker {
+    margin: 0 auto;
     margin-top: 0.5rem;
     background-color: #FFE153;
     border-radius: 0.25rem;
     position: relative;
     padding: 0.12rem;
     width: 100%;
+    max-width: 28rem;
     box-sizing: border-box;
 
   }
@@ -691,7 +693,8 @@
     z-index: 1;
     border-radius: 999rem;
     border: 2px solid #fff;
-    font-size: 0.8rem;
+    font-size: 12px;
+    line-height: 12px;
     font-style: italic;
   }
 
