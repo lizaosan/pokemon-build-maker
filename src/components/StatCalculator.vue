@@ -367,6 +367,18 @@
           document.body.appendChild(link);
           link.click();
         })
+        vm.sendGTMHandler();
+      },
+      sendGTMHandler() {
+        let vm = this;
+        vm.$gtm.trackEvent({
+          event: "click-capture-btn", // Event type [default = 'interaction'] (Optional)
+          category: vm.chosenPMname,
+          action: vm.trainername,
+          label: vm.pmnickname + '-' + vm.chosenNature + '-' + vm.ability + '-' + vm.selectedItem + '-'  + vm.userIV + '-' + vm.userEV + '-' + vm.userMove,
+          value: '',
+          noninteraction: false // Optional
+        });
       },
     },
     computed: {
@@ -692,11 +704,9 @@
     right: 0;
     left: 0;
     margin: auto;
-    height: 2.4rem;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-between;
   }
   .card_trainername, .card_pmname {
     width: 100%;
@@ -708,6 +718,10 @@
     border-radius: 999rem;
     font-size: 12px;
     line-height: 12px;
+  }
+
+  .card_trainername {
+    margin-top: 2px;
   }
 
   .card_info {
