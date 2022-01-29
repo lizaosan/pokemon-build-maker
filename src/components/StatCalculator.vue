@@ -536,10 +536,12 @@
     font-size: 1.75rem;
     font-weight: bold;
     padding: 0.5em 0;
-    margin: 0;
+    margin: 0 auto;
     margin-bottom: 0.75rem;
-    background-color: #EAC100;
-    color: #fff;
+    background-color: #FFE153;
+    color: #3C3C3C;
+    border-radius: 0 0 2rem 2rem;
+    max-width: 28rem;
   }
 
   input {
@@ -744,9 +746,9 @@
 
   .card_table {
     background-color: #FFF0AC;
-    margin-top: .2rem;
+    margin-top: .3rem;
     border-radius: .25rem;
-    margin-bottom: .1rem;
+    margin-bottom: 1px;
   }
 
   .card_table_row {
@@ -765,6 +767,10 @@
   .card_table_row span {
     flex: 1;
     line-height: 1.5;
+  }
+
+  .card_table_row:not(:first-child) span:nth-child(even) {
+    background: #FFFCEC;
   }
 
   .card_move_row {
