@@ -535,7 +535,11 @@
   h1 {
     font-size: 1.75rem;
     font-weight: bold;
-    margin: 0.5em 0;
+    padding: 0.5em 0;
+    margin: 0;
+    margin-bottom: 0.75rem;
+    background-color: #EAC100;
+    color: #fff;
   }
 
   input {
@@ -793,7 +797,7 @@
     position: absolute;
     bottom: 0;
     right: 0;
-    font-size: 6px;
+    font-size: 12px;
     color: #fff;
     background-color: #C6A300;
     border-radius: 999rem 0 0 0;
