@@ -194,12 +194,12 @@
               </div>
             </div>
             <div class="card_move_row">
-                <div class="card_move">{{userMove[0]}}</div>
-                <div class="card_move">{{userMove[1]}}</div>
+                <div class="card_move"><span>{{userMove[0]}}</span></div>
+                <div class="card_move"><span>{{userMove[1]}}</span></div>
               </div>
               <div class="card_move_row">
-                <div class="card_move">{{userMove[2]}}</div>
-                <div class="card_move">{{userMove[3]}}</div>
+                <div class="card_move"><span>{{userMove[2]}}</span></div>
+                <div class="card_move"><span>{{userMove[3]}}</span></div>
               </div>
           </div>
         </div>
@@ -786,7 +786,10 @@
     background-color: #fff;
     line-height: 1rem;
     padding: 2px 0;
-  }
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
   .card_move_row .card_move {
     border-bottom: 1px solid #FFE153;
