@@ -692,11 +692,11 @@
     right: 0;
     left: 0;
     margin: auto;
-    height: 3rem;
+    height: 2.4rem;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
   }
   .card_trainername, .card_pmname {
     width: 100%;
