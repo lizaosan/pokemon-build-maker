@@ -149,12 +149,18 @@
         <div class="card_info">
           <div class="card_sprite">
             <img :src="chosenSprite" alt="card_sprite">
-            <div class="card_trainername" v-show="trainername">TN:{{ trainername }}</div>
+            <div class="card_names_wrap">
+              <div class="card_pmname">
+                  <span v-if="pmnickname">暱稱:{{ pmnickname }}</span>
+                  <span v-else>{{ chosenPMname }}</span>
+              </div>
+              <div class="card_trainername" v-show="trainername">訓練家:{{ trainername }}</div>
+            </div>
           </div>
           <div class="card_textarea">
             <div class="card_row">
-              <div class="card_name">{{pmnickname}}<span v-show="pmnickname">（</span>{{ chosenPMname }}<span class="card_sex" v-show=" sex != 'X'">{{ sex }}</span><span v-show="pmnickname">）</span></div>
               <div class="card_lv">Lv{{ level }}</div>
+              <div v-show=" sex != 'X'"><span class="card_sex">{{ sex }}</span></div>
               <div class="card_nature">{{ chosenNature }}</div>
               <div class="card_ability">{{ ability }}</div>
               <div class="card_item">{{ selectedItem }}</div>
@@ -680,19 +686,27 @@
     width: 6.85rem;
   }
 
-  .card_trainername {
+  .card_names_wrap {
     position: absolute;
+    bottom: -1rem;
+    right: 0;
+    left: 0;
+    margin: auto;
+    height: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .card_trainername, .card_pmname {
+    width: 100%;
     background-color: #C6A300;
     color: #fff;
-    font-weight: bold;
-    bottom: -1.2rem;
-    left: 0;
-    right: 0;
-    margin: auto;
+    font-weight: normal;
     padding: 3px;
     z-index: 1;
     border-radius: 999rem;
-    border: 2px solid #fff;
+    border: 1px solid #fff;
     font-size: 12px;
     line-height: 12px;
     font-style: italic;
@@ -738,10 +752,6 @@
 
   .card_row>div {
     margin-right: 0.2rem;
-  }
-
-  .card_name {
-    font-weight: bold;
   }
 
   .card_sex {
