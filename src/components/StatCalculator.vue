@@ -706,10 +706,8 @@
     padding: 3px;
     z-index: 1;
     border-radius: 999rem;
-    border: 1px solid #fff;
     font-size: 12px;
     line-height: 12px;
-    font-style: italic;
   }
 
   .card_info {
