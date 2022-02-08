@@ -300,7 +300,8 @@
         pmnickname: "",
         trainername: "",
         resetFrequency: 0,
-        chosenSprite: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+        chosenSprite: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        expensionStatJsonUrl: "json/expension-stat-json.json"
       };
     },
     methods: {
@@ -331,6 +332,17 @@
           .then(function (msg) {
             vm.selectedStat = msg;
             vm.chosenSprite = vm.selectedStat.sprites.front_default;
+          });
+      },
+      getExpansionStatJson(uri) {
+        let vm = this;
+        fetch(vm.expensionStatJsonUrl)
+          .then(function (response) {
+            return response.json();
+          })
+          .then(function (msg) {
+            vm.selectedStat = msg[uri];
+            vm.chosenSprite = "sprites/" + uri + ".png";
           });
       },
       resetAll() {
@@ -485,7 +497,11 @@
     watch: {
       "selectedPM": {
         handler: function () {
-          this.getSelectedStatJson('https://pokeapi.co/api/v2/pokemon/' + this.selectedPM);
+          if (this.selectedPM.includes("-")) {
+            this.getExpansionStatJson(this.selectedPM);
+          } else {
+            this.getSelectedStatJson('https://pokeapi.co/api/v2/pokemon/' + this.selectedPM);
+          }
         },
         immediate: true
       },

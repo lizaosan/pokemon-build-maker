@@ -7363,6 +7363,13 @@
             "jp": "こくばじょうバドレックス",
             "en": "Shadow Rider Calyrex",
             "jsonid": "10185"
+        },
+        {
+            "ndex": "899",
+            "cht": "詭角鹿",
+            "jp": "アヤシシ",
+            "en": "Wyrdeer",
+            "jsonid": "hsi-899"
         }
     ]
 }

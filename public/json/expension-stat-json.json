@@ -1,0 +1,8 @@
+{
+	"hsi-899":{
+		"abilities":[{"ability":{"name":"intimidate"}},{"ability":{"name":"frisk"}},{"ability":{"name":"sap-sipper"}}],
+		"id": "hsi-899",
+		"stats":[{"base_stat":103},{"base_stat":105},{"base_stat":72},{"base_stat":105},{"base_stat":75},{"base_stat":65}],
+		"sprites":{"front_default":"sprites/hsi-899.png"}
+	}
+}
