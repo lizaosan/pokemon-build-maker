@@ -711,7 +711,7 @@
     right: 0;
     bottom: 0;
     margin: auto;
-    width: 6.85rem;
+    /* width: 6.85rem; */
   }
 
   .card_names_wrap {

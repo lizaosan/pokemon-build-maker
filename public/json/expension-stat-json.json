@@ -4,5 +4,11 @@
 		"id": "hsi-899",
 		"stats":[{"base_stat":103},{"base_stat":105},{"base_stat":72},{"base_stat":105},{"base_stat":75},{"base_stat":65}],
 		"sprites":{"front_default":"sprites/hsi-899.png"}
+	},
+	"hsi-900":{
+		"abilities":[{"ability":{"name":"swarm"}},{"ability":{"name":"sheer-force"}},{"ability":{"name":"steadfast"}}],
+		"id": "hsi-899",
+		"stats":[{"base_stat":70},{"base_stat":135},{"base_stat":95},{"base_stat":45},{"base_stat":70},{"base_stat":85}],
+		"sprites":{"front_default":"sprites/hsi-900.png"}
 	}
 }

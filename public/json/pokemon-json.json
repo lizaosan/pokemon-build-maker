@@ -7370,6 +7370,13 @@
             "jp": "アヤシシ",
             "en": "Wyrdeer",
             "jsonid": "hsi-899"
+        },
+        {
+            "ndex": "900",
+            "cht": "劈斧螳螂",
+            "jp": "バサギリ",
+            "en": "Kleavor",
+            "jsonid": "hsi-900"
         }
     ]
 }
