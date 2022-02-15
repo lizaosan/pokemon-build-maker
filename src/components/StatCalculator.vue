@@ -137,10 +137,8 @@
     </table>
     <div class="input_wrapper">
       <div class="inner_wrap button_bar">
-          <input maxlength="6" class="pmkeyword" type="text" placeholder="訓練家暱稱" v-model="trainername">&nbsp;
-          <input maxlength="6" class="pmkeyword" type="text" placeholder="寶可夢暱稱" v-model="pmnickname">&nbsp;
-          <button @click="generatorImage">截圖</button>&nbsp;
-          <button @click="resetAll">重置</button>
+          <input maxlength="6" class="pmkeyword" type="text" placeholder="訓練家暱稱" v-model="trainername">
+          <input maxlength="6" class="pmkeyword" type="text" placeholder="寶可夢暱稱" v-model="pmnickname">
       </div>
     </div>
     <div class="card_maker" ref="capture">
@@ -212,7 +210,12 @@
       </div>
       <small class="card_link" >lizaosan.github.io/pokemon-build-maker</small>
     </div>
-
+    <div class="input_wrapper">
+      <div class="inner_wrap btns">
+          <button @click="generatorImage">截圖</button>&nbsp;
+          <button @click="resetAll">重置</button>
+      </div>
+    </div>
     <!-- <small class="copyright">Copyright © 2022 Lizaosan. All rights reserved.<br> Last Updated: 2022/01/27 17:28</small> -->
   </main>
 
@@ -599,7 +602,7 @@
   table.config_table {
     table-layout: fixed;
     word-wrap:break-word;
-    width: 28rem;
+    width: 100%;
     margin: 0 auto;
     margin-top: .2rem;
     line-height: 1;
@@ -617,7 +620,7 @@
   }
 
   .input_wrapper {
-    width: 80%;
+    width: 28rem;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -642,14 +645,29 @@
   }
 
   .inner_wrap.button_bar {
-    margin-top: .25rem;
+    margin-top: .35rem;
+    justify-content:space-around;
+  }
+
+  .inner_wrap.btns {
+    margin-top: .35rem;
+    justify-content:flex-end;
+  }
+
+  .inner_wrap.btns button {
+    border: 0;
+    background-color: #FFE153;
+    width: 5rem;
+    line-height: 2rem;
+    border-radius: 999rem;
+    font-weight: bold;
   }
 
   .pmkeyword {
     padding: 0;
     border: 0;
     margin: 0;
-    width: 7rem;
+    width: 10rem;
     border-bottom: 1px solid #ccc;
     font-size: 1rem;
     font-style: italic;
@@ -661,8 +679,7 @@
   }
 
   .selectedPM {
-    width: 15rem;
-    margin-inline-start: 1rem;
+    width: 16rem;
   }
 
   .text_red {
