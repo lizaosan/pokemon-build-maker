@@ -579,6 +579,7 @@
     color: #3C3C3C;
     border-radius: 0 0 2rem 2rem;
     max-width: 28rem;
+    width: 100%;
   }
 
   input {
@@ -615,12 +616,14 @@
   .container {
     display: flex;
     flex-direction: column;
-    max-width: 30rem;
+    max-width: 28rem;
+    width: 100%;
     margin: 0 auto;
   }
 
   .input_wrapper {
-    width: 28rem;
+    max-width: 28rem;
+    width: 100%;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
