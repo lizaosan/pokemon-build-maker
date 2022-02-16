@@ -7384,6 +7384,27 @@
             "jp": "バサギリ",
             "en": "Kleavor",
             "jsonid": "hsi-900"
+        },
+        {
+            "ndex": "901",
+            "cht": "月月熊",
+            "jp": "ガチグマ",
+            "en": "Ursaluna",
+            "jsonid": "hsi-901"
+        },
+        {
+            "ndex": "902",
+            "cht": "幽尾玄鱼-雄性",
+            "jp": "イダイトウ",
+            "en": "Basculegion",
+            "jsonid": "hsi-902-0"
+        },
+        {
+            "ndex": "902",
+            "cht": "幽尾玄鱼-雌性",
+            "jp": "イダイトウ",
+            "en": "Basculegion",
+            "jsonid": "hsi-902-1"
         }
     ]
 }
