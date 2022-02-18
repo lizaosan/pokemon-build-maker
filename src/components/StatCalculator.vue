@@ -146,7 +146,8 @@
         <div class="card_trapezoid"></div>
         <div class="card_info">
           <div class="card_sprite">
-            <img :src="chosenSprite" alt="card_sprite">
+            <img v-if="chosenSprite" :src="chosenSprite" alt="card_sprite">
+            <img v-else :src="notFoundSprite" alt="card_sprite">
             <div class="card_names_wrap">
               <div class="card_pmname">
                   <span v-if="pmnickname">暱稱:{{ pmnickname }}</span>
@@ -217,6 +218,7 @@
       </div>
     </div>
     <!-- <small class="copyright">Copyright © 2022 Lizaosan. All rights reserved.<br> Last Updated: 2022/01/27 17:28</small> -->
+    <small class="reference"><a href="https://www.deviantart.com/kingofthe-x-roads/art/Hisui-Pokemon-Sprites-889273130">Hisui pokemon sprites credits to KingOfThe-X-Roads</a></small>
   </main>
 
 </template>
@@ -304,6 +306,7 @@
         trainername: "",
         resetFrequency: 0,
         chosenSprite: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        notFoundSprite: "sprites/image-not-found.png",
         expensionStatJsonUrl: "json/expension-stat-json.json"
       };
     },
@@ -600,6 +603,14 @@
     -moz-appearance: textfield;
   }
 
+  a {
+    text-decoration: none;
+  }
+
+  a:link, a:visited, a:hover, a:active {
+    color:#C6A300;
+  }
+
   table.config_table {
     table-layout: fixed;
     word-wrap:break-word;
@@ -884,6 +895,12 @@
     left: 0;
     right: 0;
     margin: auto;
+  }
+
+  .reference {
+    margin-top: 5rem;
+    text-decoration: none;
+    color: #C6A300;
   }
 
   .unavailable {
