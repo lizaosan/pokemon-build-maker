@@ -28,5 +28,29 @@
 		"id": "hsi-902-1",
 		"stats":[{"base_stat":120},{"base_stat":92},{"base_stat":65},{"base_stat":100},{"base_stat":75},{"base_stat":78}],
 		"sprites":{"front_default":"sprites/hsi-902-1.png"}
+	},
+	"hsi-903":{
+		"abilities":[{"ability":{"name":"pressure"}},{"ability":{"name":"poison-touch"}}],
+		"id": "hsi-903",
+		"stats":[{"base_stat":80},{"base_stat":130},{"base_stat":60},{"base_stat":40},{"base_stat":80},{"base_stat":120}],
+		"sprites":{"front_default":"sprites/hsi-903.png"}
+	},
+	"hsi-904":{
+		"abilities":[{"ability":{"name":"poison-point"}},{"ability":{"name":"swift-swim"}},{"ability":{"name":"intimidate"}}],
+		"id": "hsi-904",
+		"stats":[{"base_stat":85},{"base_stat":115},{"base_stat":95},{"base_stat":65},{"base_stat":65},{"base_stat":85}],
+		"sprites":{"front_default":"sprites/hsi-904.png"}
+	},
+	"hsi-905-1":{
+		"abilities":[{"ability":{"name":"healer"}},{"ability":{"name":"contrary"}}],
+		"id": "hsi-905-1",
+		"stats":[{"base_stat":74},{"base_stat":115},{"base_stat":70},{"base_stat":135},{"base_stat":80},{"base_stat":106}],
+		"sprites":{"front_default":"sprites/hsi-905-1.png"}
+	},
+	"hsi-905-2":{
+		"abilities":[{"ability":{"name":"overcoat"}}],
+		"id": "hsi-905-2",
+		"stats":[{"base_stat":74},{"base_stat":115},{"base_stat":110},{"base_stat":135},{"base_stat":100},{"base_stat":46}],
+		"sprites":{"front_default":"sprites/hsi-905-2.png"}
 	}
 }

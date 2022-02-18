@@ -7405,6 +7405,34 @@
             "jp": "イダイトウ",
             "en": "Basculegion",
             "jsonid": "hsi-902-1"
+        },
+        {
+            "ndex": "903",
+            "cht": "大狃拉",
+            "jp": "オオニューラ",
+            "en": "Sneasler",
+            "jsonid": "hsi-903"
+        },
+        {
+            "ndex": "904",
+            "cht": "萬針魚",
+            "jp": "ハリーマン",
+            "en": "Overqwil",
+            "jsonid": "hsi-904"
+        },
+        {
+            "ndex": "905",
+            "cht": "眷戀雲-化身",
+            "jp": "ラブトロス",
+            "en": "Enamorus",
+            "jsonid": "hsi-905-1"
+        },
+        {
+            "ndex": "905",
+            "cht": "眷戀雲-靈獸",
+            "jp": "ラブトロス",
+            "en": "Enamorus",
+            "jsonid": "hsi-905-2"
         }
     ]
 }
