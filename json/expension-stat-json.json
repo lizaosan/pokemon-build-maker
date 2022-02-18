@@ -1,0 +1,164 @@
+{
+	"hsi-058":{
+		"abilities":[{"ability":{"name":"intimidate"}},{"ability":{"name":"flash-fire"}},{"ability":{"name":"justified"}}],
+		"id": "hsi-058",
+		"stats":[{"base_stat":60},{"base_stat":75},{"base_stat":45},{"base_stat":65},{"base_stat":50},{"base_stat":55}],
+		"sprites":{"front_default":"sprites/hsi-058.png"}
+	},
+	"hsi-059":{
+		"abilities":[{"ability":{"name":"intimidate"}},{"ability":{"name":"flash-fire"}},{"ability":{"name":"justified"}}],
+		"id": "hsi-059",
+		"stats":[{"base_stat":95},{"base_stat":115},{"base_stat":80},{"base_stat":95},{"base_stat":80},{"base_stat":90}],
+		"sprites":{"front_default":"sprites/hsi-059.png"}
+	},
+	"hsi-100":{
+		"abilities":[{"ability":{"name":"soundproof"}},{"ability":{"name":"static"}},{"ability":{"name":"aftermath"}}],
+		"id": "hsi-100",
+		"stats":[{"base_stat":40},{"base_stat":30},{"base_stat":50},{"base_stat":55},{"base_stat":55},{"base_stat":100}],
+		"sprites":{"front_default":"sprites/hsi-100.png"}
+	},
+	"hsi-101":{
+		"abilities":[{"ability":{"name":"soundproof"}},{"ability":{"name":"static"}},{"ability":{"name":"aftermath"}}],
+		"id": "hsi-101",
+		"stats":[{"base_stat":60},{"base_stat":50},{"base_stat":70},{"base_stat":80},{"base_stat":80},{"base_stat":150}],
+		"sprites":{"front_default":"sprites/hsi-101.png"}
+	},
+	"hsi-157":{
+		"abilities":[{"ability":{"name":"blaze"}},{"ability":{"name":"flash-fire"}}],
+		"id": "hsi-157",
+		"stats":[{"base_stat":73},{"base_stat":84},{"base_stat":78},{"base_stat":119},{"base_stat":85},{"base_stat":95}],
+		"sprites":{"front_default":"sprites/hsi-157.png"}
+	},
+	"hsi-211":{
+		"abilities":[{"ability":{"name":"poison-point"}},{"ability":{"name":"swift-swim"}},{"ability":{"name":"intimidate"}}],
+		"id": "hsi-211",
+		"stats":[{"base_stat":65},{"base_stat":95},{"base_stat":85},{"base_stat":55},{"base_stat":55},{"base_stat":85}],
+		"sprites":{"front_default":"sprites/hsi-211.png"}
+	},
+	"hsi-215":{
+		"abilities":[{"ability":{"name":"inner-focus"}},{"ability":{"name":"keen-eye"}},{"ability":{"name":"poison-touch"}}],
+		"id": "hsi-215",
+		"stats":[{"base_stat":55},{"base_stat":95},{"base_stat":55},{"base_stat":35},{"base_stat":75},{"base_stat":115}],
+		"sprites":{"front_default":"sprites/hsi-215.png"}
+	},
+	"hsi-483":{
+		"abilities":[{"ability":{"name":"pressure"}},{"ability":{"name":"telepathy"}}],
+		"id": "hsi-483",
+		"stats":[{"base_stat":100},{"base_stat":100},{"base_stat":120},{"base_stat":150},{"base_stat":120},{"base_stat":90}],
+		"sprites":{"front_default":"sprites/hsi-483.png"}
+	},
+	"hsi-484":{
+		"abilities":[{"ability":{"name":"pressure"}},{"ability":{"name":"telepathy"}}],
+		"id": "hsi-484",
+		"stats":[{"base_stat":90},{"base_stat":100},{"base_stat":100},{"base_stat":150},{"base_stat":120},{"base_stat":120}],
+		"sprites":{"front_default":"sprites/hsi-484.png"}
+	},
+	"hsi-503":{
+		"abilities":[{"ability":{"name":"torrent"}},{"ability":{"name":"shell-armor"}}],
+		"id": "hsi-503",
+		"stats":[{"base_stat":90},{"base_stat":108},{"base_stat":80},{"base_stat":100},{"base_stat":65},{"base_stat":85}],
+		"sprites":{"front_default":"sprites/hsi-503.png"}
+	},
+	"hsi-549":{
+		"abilities":[{"ability":{"name":"chlorophyll"}},{"ability":{"name":"hustle"}},{"ability":{"name":"leaf-guard"}}],
+		"id": "hsi-549",
+		"stats":[{"base_stat":70},{"base_stat":105},{"base_stat":75},{"base_stat":50},{"base_stat":75},{"base_stat":105}],
+		"sprites":{"front_default":"sprites/hsi-549.png"}
+	},
+	"hsi-550":{
+		"abilities":[{"ability":{"name":"rattled"}},{"ability":{"name":"adaptability"}},{"ability":{"name":"mold-breaker"}}],
+		"id": "hsi-550",
+		"stats":[{"base_stat":70},{"base_stat":92},{"base_stat":65},{"base_stat":80},{"base_stat":55},{"base_stat":98}],
+		"sprites":{"front_default":"sprites/hsi-550.png"}
+	},
+	"hsi-570":{
+		"abilities":[{"ability":{"name":"illusion"}}],
+		"id": "hsi-570",
+		"stats":[{"base_stat":35},{"base_stat":60},{"base_stat":40},{"base_stat":85},{"base_stat":40},{"base_stat":70}],
+		"sprites":{"front_default":"sprites/hsi-570.png"}
+	},
+	"hsi-571":{
+		"abilities":[{"ability":{"name":"illusion"}}],
+		"id": "hsi-571",
+		"stats":[{"base_stat":55},{"base_stat":100},{"base_stat":60},{"base_stat":125},{"base_stat":60},{"base_stat":110}],
+		"sprites":{"front_default":"sprites/hsi-571.png"}
+	},
+	"hsi-628":{
+		"abilities":[{"ability":{"name":"keen-eye"}},{"ability":{"name":"sheer-force"}},{"ability":{"name":"defiant"}}],
+		"id": "hsi-628",
+		"stats":[{"base_stat":110},{"base_stat":83},{"base_stat":70},{"base_stat":112},{"base_stat":70},{"base_stat":65}],
+		"sprites":{"front_default":"sprites/hsi-628.png"}
+	},
+	"hsi-705":{
+		"abilities":[{"ability":{"name":"sap-sipper"}},{"ability":{"name":"overcoat"}},{"ability":{"name":"gooey"}}],
+		"id": "hsi-705",
+		"stats":[{"base_stat":58},{"base_stat":75},{"base_stat":83},{"base_stat":83},{"base_stat":113},{"base_stat":40}],
+		"sprites":{"front_default":"sprites/hsi-705.png"}
+	},
+	"hsi-706":{
+		"abilities":[{"ability":{"name":"sap-sipper"}},{"ability":{"name":"overcoat"}},{"ability":{"name":"gooey"}}],
+		"id": "hsi-706",
+		"stats":[{"base_stat":80},{"base_stat":100},{"base_stat":100},{"base_stat":110},{"base_stat":150},{"base_stat":60}],
+		"sprites":{"front_default":"sprites/hsi-706.png"}
+	},
+	"hsi-724":{
+		"abilities":[{"ability":{"name":"overgrow"}},{"ability":{"name":"long-reach"}}],
+		"id": "hsi-724",
+		"stats":[{"base_stat":88},{"base_stat":112},{"base_stat":80},{"base_stat":95},{"base_stat":95},{"base_stat":60}],
+		"sprites":{"front_default":"sprites/hsi-724.png"}
+	},
+	"hsi-899":{
+		"abilities":[{"ability":{"name":"intimidate"}},{"ability":{"name":"frisk"}},{"ability":{"name":"sap-sipper"}}],
+		"id": "hsi-899",
+		"stats":[{"base_stat":103},{"base_stat":105},{"base_stat":72},{"base_stat":105},{"base_stat":75},{"base_stat":65}],
+		"sprites":{"front_default":"sprites/hsi-899.png"}
+	},
+	"hsi-900":{
+		"abilities":[{"ability":{"name":"swarm"}},{"ability":{"name":"sheer-force"}},{"ability":{"name":"steadfast"}}],
+		"id": "hsi-899",
+		"stats":[{"base_stat":70},{"base_stat":135},{"base_stat":95},{"base_stat":45},{"base_stat":70},{"base_stat":85}],
+		"sprites":{"front_default":"sprites/hsi-900.png"}
+	},
+	"hsi-901":{
+		"abilities":[{"ability":{"name":"guts"}},{"ability":{"name":"bulletproof"}},{"ability":{"name":"unnerve"}}],
+		"id": "hsi-901",
+		"stats":[{"base_stat":130},{"base_stat":140},{"base_stat":105},{"base_stat":45},{"base_stat":80},{"base_stat":50}],
+		"sprites":{"front_default":"sprites/hsi-901.png"}
+	},
+	"hsi-902-0":{
+		"abilities":[{"ability":{"name":"rattled"}},{"ability":{"name":"adaptability"}},{"ability":{"name":"mold-breaker"}}],
+		"id": "hsi-902-0",
+		"stats":[{"base_stat":120},{"base_stat":112},{"base_stat":65},{"base_stat":80},{"base_stat":75},{"base_stat":78}],
+		"sprites":{"front_default":"sprites/hsi-902-0.png"}
+	},
+	"hsi-902-1":{
+		"abilities":[{"ability":{"name":"rattled"}},{"ability":{"name":"adaptability"}},{"ability":{"name":"mold-breaker"}}],
+		"id": "hsi-902-1",
+		"stats":[{"base_stat":120},{"base_stat":92},{"base_stat":65},{"base_stat":100},{"base_stat":75},{"base_stat":78}],
+		"sprites":{"front_default":"sprites/hsi-902-1.png"}
+	},
+	"hsi-903":{
+		"abilities":[{"ability":{"name":"pressure"}},{"ability":{"name":"poison-touch"}}],
+		"id": "hsi-903",
+		"stats":[{"base_stat":80},{"base_stat":130},{"base_stat":60},{"base_stat":40},{"base_stat":80},{"base_stat":120}],
+		"sprites":{"front_default":"sprites/hsi-903.png"}
+	},
+	"hsi-904":{
+		"abilities":[{"ability":{"name":"poison-point"}},{"ability":{"name":"swift-swim"}},{"ability":{"name":"intimidate"}}],
+		"id": "hsi-904",
+		"stats":[{"base_stat":85},{"base_stat":115},{"base_stat":95},{"base_stat":65},{"base_stat":65},{"base_stat":85}],
+		"sprites":{"front_default":"sprites/hsi-904.png"}
+	},
+	"hsi-905-1":{
+		"abilities":[{"ability":{"name":"healer"}},{"ability":{"name":"contrary"}}],
+		"id": "hsi-905-1",
+		"stats":[{"base_stat":74},{"base_stat":115},{"base_stat":70},{"base_stat":135},{"base_stat":80},{"base_stat":106}],
+		"sprites":{"front_default":"sprites/hsi-905-1.png"}
+	},
+	"hsi-905-2":{
+		"abilities":[{"ability":{"name":"overcoat"}}],
+		"id": "hsi-905-2",
+		"stats":[{"base_stat":74},{"base_stat":115},{"base_stat":110},{"base_stat":135},{"base_stat":100},{"base_stat":46}],
+		"sprites":{"front_default":"sprites/hsi-905-2.png"}
+	}
+}
