@@ -400,7 +400,7 @@
       filteredpmJsonData() {
         let vm = this;
         let result = null;
-        let tags = ["超級", "超極巨", "阿羅拉", "伽勒爾"];
+        let tags = ["超級", "超極巨", "阿羅拉", "伽勒爾", "洗翠"];
         if (tags.includes(this.pmkeyword)) {
           result = vm.pmJsonData.data.filter(obj => obj.cht.indexOf(this.pmkeyword) !== -1)
         } else {
