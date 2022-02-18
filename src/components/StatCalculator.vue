@@ -165,12 +165,12 @@
             </div>
             <div class="card_table">
               <div class="card_table_row">
-                <span>H</span>
-                <span>A</span>
-                <span>B</span>
-                <span>C</span>
-                <span>D</span>
-                <span>S</span>
+                <span>{{selectedStat.stats[0].base_stat}}</span>
+                <span>{{selectedStat.stats[1].base_stat}}</span>
+                <span>{{selectedStat.stats[2].base_stat}}</span>
+                <span>{{selectedStat.stats[3].base_stat}}</span>
+                <span>{{selectedStat.stats[4].base_stat}}</span>
+                <span>{{selectedStat.stats[5].base_stat}}</span>
               </div>
               <div class="card_table_row">
                 <span>{{userIV[0]}}</span>
@@ -664,6 +664,7 @@
     line-height: 2rem;
     border-radius: 999rem;
     font-weight: bold;
+    cursor: pointer;
   }
 
   .pmkeyword {
