@@ -575,11 +575,25 @@
             "jsonid": "58"
         },
         {
+            "ndex": "058",
+            "cht": "卡蒂狗-洗翠",
+            "jp": "ガーディ",
+            "en": "Growlithe",
+            "jsonid": "hsi-058"
+        },
+        {
             "ndex": "059",
             "cht": "風速狗",
             "jp": "ウインディ",
             "en": "Arcanine",
             "jsonid": "59"
+        },
+        {
+            "ndex": "059",
+            "cht": "風速狗-洗翠",
+            "jp": "ウインディ",
+            "en": "Arcanine",
+            "jsonid": "hsi-059"
         },
         {
             "ndex": "060",
@@ -981,11 +995,25 @@
             "jsonid": "100"
         },
         {
+            "ndex": "100",
+            "cht": "霹靂電球-洗翠",
+            "jp": "ビリリダマ",
+            "en": "Voltorb",
+            "jsonid": "hsi-100"
+        },
+        {
             "ndex": "101",
             "cht": "頑皮雷彈",
             "jp": "マルマイン",
             "en": "Electrode",
             "jsonid": "101"
+        },
+        {
+            "ndex": "101",
+            "cht": "頑皮雷彈-洗翠",
+            "jp": "マルマイン",
+            "en": "Electrode",
+            "jsonid": "hsi-101"
         },
         {
             "ndex": "102",
@@ -1492,6 +1520,13 @@
             "jsonid": "157"
         },
         {
+            "ndex": "157",
+            "cht": "火爆獸-洗翠",
+            "jp": "バクフーン",
+            "en": "Typhlosion",
+            "jsonid": "hsi-157"
+        },
+        {
             "ndex": "158",
             "cht": "小鋸鱷",
             "jp": "ワニノコ",
@@ -1884,6 +1919,13 @@
             "jsonid": "211"
         },
         {
+            "ndex": "211",
+            "cht": "千針魚-洗翠",
+            "jp": "ハリーセン",
+            "en": "Qwilfish",
+            "jsonid": "hsi-211"
+        },
+        {
             "ndex": "212",
             "cht": "巨鉗螳螂",
             "jp": "ハッサム",
@@ -1924,6 +1966,13 @@
             "jp": "ニューラ",
             "en": "Sneasel",
             "jsonid": "215"
+        },
+        {
+            "ndex": "215",
+            "cht": "狃拉-洗翠",
+            "jp": "ニューラ",
+            "en": "Sneasel",
+            "jsonid": "hsi-215"
         },
         {
             "ndex": "216",
@@ -4085,11 +4134,25 @@
             "jsonid": "483"
         },
         {
+            "ndex": "483",
+            "cht": "帝牙盧卡-起源",
+            "jp": "ディアルガ",
+            "en": "Dialga",
+            "jsonid": "hsi-483"
+        },
+        {
             "ndex": "484",
             "cht": "帕路奇亞",
             "jp": "パルキア",
             "en": "Palkia",
             "jsonid": "484"
+        },
+        {
+            "ndex": "484",
+            "cht": "帕路奇亞-起源",
+            "jp": "パルキア",
+            "en": "Palkia",
+            "jsonid": "hsi-484"
         },
         {
             "ndex": "485",
@@ -4241,6 +4304,13 @@
             "jp": "ダイケンキ",
             "en": "Samurott",
             "jsonid": "503"
+        },
+        {
+            "ndex": "503",
+            "cht": "大劍鬼-洗翠",
+            "jp": "ダイケンキ",
+            "en": "Samurott",
+            "jsonid": "hsi-503"
         },
         {
             "ndex": "504",
@@ -4565,11 +4635,25 @@
             "jsonid": "549"
         },
         {
+            "ndex": "549",
+            "cht": "裙兒小姐-洗翠",
+            "jp": "ドレディア",
+            "en": "Lilligant",
+            "jsonid": "hsi-549"
+        },
+        {
             "ndex": "550",
             "cht": "野蠻鱸魚",
             "jp": "バスラオ",
             "en": "Basculin",
             "jsonid": "550"
+        },
+        {
+            "ndex": "550",
+            "cht": "野蠻鱸魚-白條紋",
+            "jp": "バスラオ",
+            "en": "Basculin",
+            "jsonid": "hsi-550"
         },
         {
             "ndex": "551",
@@ -4754,11 +4838,25 @@
             "jsonid": "570"
         },
         {
+            "ndex": "570",
+            "cht": "索羅亞-洗翠",
+            "jp": "ゾロア",
+            "en": "Zorua",
+            "jsonid": "hsi-570"
+        },
+        {
             "ndex": "571",
             "cht": "索羅亞克",
             "jp": "ゾロアーク",
             "en": "Zoroark",
             "jsonid": "571"
+        },
+        {
+            "ndex": "571",
+            "cht": "索羅亞克-洗翠",
+            "jp": "ゾロアーク",
+            "en": "Zoroark",
+            "jsonid": "hsi-571"
         },
         {
             "ndex": "572",
@@ -5165,6 +5263,13 @@
             "jp": "ウォーグル",
             "en": "Braviary",
             "jsonid": "628"
+        },
+        {
+            "ndex": "628",
+            "cht": "勇士雄鷹-洗翠",
+            "jp": "ウォーグル",
+            "en": "Braviary",
+            "jsonid": "hsi-628"
         },
         {
             "ndex": "629",
@@ -5776,11 +5881,25 @@
             "jsonid": "705"
         },
         {
+            "ndex": "705",
+            "cht": "黏美兒-洗翠",
+            "jp": "ヌメイル",
+            "en": "Sliggoo",
+            "jsonid": "hsi-705"
+        },
+        {
             "ndex": "706",
             "cht": "黏美龍",
             "jp": "ヌメルゴン",
             "en": "Goodra",
             "jsonid": "706"
+        },
+        {
+            "ndex": "706",
+            "cht": "黏美龍-洗翠",
+            "jp": "ヌメルゴン",
+            "en": "Goodra",
+            "jsonid": "hsi-706"
         },
         {
             "ndex": "707",
@@ -5911,7 +6030,7 @@
         {
             "ndex": "721",
             "cht": "波爾凱尼恩",
-            "jp": "ボルケニオン‎",
+            "jp": "ボルケニオン",
             "en": "Volcanion",
             "jsonid": "721"
         },
@@ -5935,6 +6054,13 @@
             "jp": "ジュナイパー",
             "en": "Decidueye",
             "jsonid": "724"
+        },
+        {
+            "ndex": "724",
+            "cht": "狙射樹梟-洗翠",
+            "jp": "ジュナイパー",
+            "en": "Decidueye",
+            "jsonid": "hsi-724"
         },
         {
             "ndex": "725",
