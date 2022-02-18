@@ -4523,6 +4523,150 @@
             "cht": "詭異咒語",
             "jp": "ぶきみなじゅもん",
             "en": "Eerie Spell"
+        },
+        {
+            "index": "827",
+            "cht": "剋命爪",
+            "jp": "フェイタルクロー",
+            "en": "Dire Claw"
+        },
+        {
+            "index": "828",
+            "cht": "屏障猛攻",
+            "jp": "バリアーラッシュ",
+            "en": "Psyshield Bash"
+        },
+        {
+            "index": "829",
+            "cht": "力量轉換",
+            "jp": "パワーシフト",
+            "en": "Power Shift"
+        },
+        {
+            "index": "830",
+            "cht": "岩斧",
+            "jp": "がんせきアックス",
+            "en": "Stone Axe"
+        },
+        {
+            "index": "831",
+            "cht": "陽春風暴",
+            "jp": "はるのあらし",
+            "en": "Springtide Storm"
+        },
+        {
+            "index": "832",
+            "cht": "神秘之力",
+            "jp": "しんぴのちから",
+            "en": "Mystical Power"
+        },
+        {
+            "index": "833",
+            "cht": "大憤慨",
+            "jp": "だいふんげき",
+            "en": "Raging Fury"
+        },
+        {
+            "index": "834",
+            "cht": "波動衝",
+            "jp": "ウェーブタックル",
+            "en": "Wave Crash"
+        },
+        {
+            "index": "835",
+            "cht": "葉綠爆震",
+            "jp": "クロロブラスト",
+            "en": "Chloroblast"
+        },
+        {
+            "index": "836",
+            "cht": "冰山風",
+            "jp": "ひょうざんおろし",
+            "en": "Mountain Gale"
+        },
+        {
+            "index": "837",
+            "cht": "勝利之舞",
+            "jp": "しょうりのまい",
+            "en": "Victory Dance"
+        },
+        {
+            "index": "838",
+            "cht": "突飛猛撲",
+            "jp": "ぶちかまし",
+            "en": "Headlong Rush"
+        },
+        {
+            "index": "839",
+            "cht": "毒千針",
+            "jp": "どくばりセンボン",
+            "en": "Barb Barrage"
+        },
+        {
+            "index": "840",
+            "cht": "氣場之翼",
+            "jp": "オーラウイング",
+            "en": "Esper Wing"
+        },
+        {
+            "index": "841",
+            "cht": "冤冤相報",
+            "jp": "うらみつらみ",
+            "en": "Bitter Malice"
+        },
+        {
+            "index": "842",
+            "cht": "閉關",
+            "jp": "たてこもる",
+            "en": "Shelter"
+        },
+        {
+            "index": "843",
+            "cht": "三連箭",
+            "jp": "３ぼんのや",
+            "en": "Triple Arrows"
+        },
+        {
+            "index": "844",
+            "cht": "群魔亂舞",
+            "jp": "ひゃっきやこう",
+            "en": "Infernal Parade"
+        },
+        {
+            "index": "845",
+            "cht": "秘劍・千重濤",
+            "jp": "ひけん・ちえなみ",
+            "en": "Ceaseless Edge"
+        },
+        {
+            "index": "846",
+            "cht": "枯葉風暴",
+            "jp": "こがらしあらし",
+            "en": "Bleakwind Storm"
+        },
+        {
+            "index": "847",
+            "cht": "鳴雷風暴",
+            "jp": "かみなりあらし",
+            "en": "Wildbolt Storm"
+        },
+        {
+            "index": "848",
+            "cht": "熱沙風暴",
+            "jp": "ねっさのあらし",
+            "en": "Sandsear Storm"
+        },
+        {
+            "index": "849",
+            "cht": "新月祈禱",
+            "jp": "みかづきのいのり",
+            "en": "Lunar Blessing"
+        },
+        {
+            "index": "850",
+            "cht": "勇氣填充",
+            "jp": "ブレイブチャージ",
+            "en": "Take Heart"
         }
     ]
 }
